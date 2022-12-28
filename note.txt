@@ -1,0 +1,10 @@
+pip install --upgrade pip
+pip install tensorflow
+pip install matplotlib
+pip install protobuf==3.20.*
+pip install fastapi
+pip install "uvicorn[standard]"
+pip install Jinja2
+pip install python-multipart
+
+uvicorn main:app --reload
