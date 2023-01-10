@@ -44,10 +44,39 @@
                             <label>Keterangan: </label> {{ status }}
                         </div>
                     </div>
+
+                    {% if len>0: %}
+                      <div class="row mt-3">
+                          <div class="col-12">
+                            <h3>Mungkin maksud anda adalah</h3>
+                          </div>
+                      </div>
+                      <div class="row">
+                        {% for dic in alternative: %}
+                            {% if loop.index==1: %}
+                              {% set color = "btn-primary" %}
+                            {% else: %}
+                              {% set color = "btn-secondary" %}
+                            {% endif %}
+                          <div class="col-3"><a href="#" class="btn {{color}} d-grid gap-2 mt-2 alternative" data-val="{{ dic }}">{{ dic }}</a></div>
+                            <script type="text/javascript">console.log({{ loop.index }})</script>
+                        {% endfor %}                           
+                      </div>
+                    {% endif %}
                 </div>
               </div>
             </div>
           </div>      
       </div>
   </body>
+  <script src="https://code.jquery.com/jquery-3.6.1.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/mgalante/jquery.redirect@master/jquery.redirect.js"></script>
+  <script>
+     jQuery(function($){
+      $(".alternative").click(function(){
+        let val = this.getAttribute('data-val');
+        $.redirect("http://127.0.0.1:8000/stemming/proses", {data: val}, "POST");
+      });
+     });
+    </script>
 </html>
