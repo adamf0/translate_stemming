@@ -21,6 +21,7 @@ Abreg
 Abring
 Acak
 Acak-acakan
+Acak-acakan
 Acan
 Acara
 Acay
@@ -32,17 +33,25 @@ Adab
 Adat istiadat
 Aday
 Adegan
+Adegan
 Adi
 Adi beuteung
+Adi beuteung
 Adi-adi
+Adigung
+Adigung
 Adigung
 Adi-lanceuk
 Adu
 Adu hareupan
 Adu Omong
+Adu Omong
 Adug lajer
 Adug-adugan
 Aduh
+Aduk
+Aduk
+Aduk
 Aduk
 Adus
 Aeb
@@ -55,11 +64,15 @@ Agénda
 Ager
 ageung
 Agung
+Agung
+Agung
 Agustus
 Aheng
 Ahérat
 Ahir
 Ahirna
+Ahli
+Ahli
 Ahli
 Ahli nyieun keris
 Ahli palsapah
@@ -67,9 +80,12 @@ Ahli pikih
 Ahli Waris
 Aisan
 Ajag
+Ajag
 Ajak
 Ajang
 Ajeg
+Ajeg
+Ajen
 Ajen
 Ajengan
 Ajian
@@ -77,50 +93,72 @@ Ajrag
 Ajrag-ajragan
 Ajrih
 Aka
+Aka
 Akad
 Akal
+Akal
+Akal
 Akal Yahudi
+Akang
 Akang
 Akang-ékéng
 Akar
 Akar Mayang
+Akar mayang
 Akar Pancer
+Akar pancer
 Akasa
 Akekah
 Akékah
 Akeul
 Akeup
+Akeup
 Akey-akeyan
 Akhir pangtungtungna
 Aki
+Aki
 Aki-aki
+Aki-aki
+Aki-aki
+Akibat
 Akibat
 Akibatna
 Aking
 Akod
 Akon-akon
+Akon-akon
+Aksara
+Aksara
+Aksara
 Aksara
 Aksara cakar bayam
 Aksara latén
 Aku
 Akuan
 Akur
+Akur
+Akur
 Akut
 Ala
 Alak paul
 Alak-alik
 Alam
+Alam
 Alam Pana
 Alam Pawenangan
+Alam Pawenangan
+Alamat
 Alamat
 Alangah-éléngéh
 Alangeh-elengeh
+Alap
 Alap
 Alap-alap
 Alas
 Alat
 Alat keur nyitak
 Alat paranti nutu
+Alatan
 Alatan
 Aleman
 Alesan
@@ -129,17 +167,29 @@ Aleut
 Alewoh
 Alhasil
 Ali
+Ali
 Ali - ali batu heurap
 Alias
+Alias
 Alim
+Alim
+Aling-aling
 Aling-aling
 Alit
 Alketip
 Almarhum
 Almenak
+Almenak
+Alo
+Alo
+Alo
 Alo
 Alon
+Alon
 Along
+Alpukah
+Alpukah
+Alpukah
 Alpukah
 Alpuket
 Alum 
@@ -148,67 +198,104 @@ Alun-alun
 Alung
 Alur
 Alus
+Alus
+Alus
+Alus
 Alus pisan
 Alusna
 Ama
+Ama
 Amal
 Aman
+Aman
+Amanat
 Amanat
 Amang
 Amar
 Amar Ma'Rup
 Amarah
 Amat
+Amat
+Ambah
 Ambah
 Ambal-ambalan
 Ambara
 Ambay
 Ambéh
+Ambéh
+Ambek
+Ambek
+Ambek
+Ambek
 Ambek
 Ambek 
 Ambek - ambekan
+Ambek pisan
 Ambek pisan
 Ambekan
 Ambekan 
 Ambén
 Ambéng
+Ambéng
 Amber
 Ambet
+Ambet
+Ambeu
 Ambeu
 Ambia
 Ambing
+Ambing
 Ambleng
+Ambleng
+Ambles
 Ambles
 Ambon
 Ambrin
 Ambrug
+Ambrug
+Ambruk
 Ambruk
 Ambu
 Ambucuy
+Ambucuy
 Ambung
+Amburadul
+Amburadul
+Amburadul
+Amburadul
 Amburadul
 Amburasut
 Ambyen 
 Ameng
+Ameng
 Amil
+Amil
+Amir
 Amir
 Amis
 Amis budi
 Amis-Haseum
 Amit
+Amit
+Ampar
 Ampar
 Amparan
 Ampeg
 Ampeuh
 Ampih
 Ampir
+Ampir
+Ampir
 Ampir-ampiran
 Ampleng
+Amprok
 Amprok
 Amprok jonghok
 Ampuh
 Ampuh 
 Ampul-Ampul
+Ampun
+Ampun
 Ampun
 Amrin
 Amuk
@@ -218,11 +305,14 @@ Anak kukut
 Anak Merang Kukuncungan
 Anak teges
 Anak-incu
+Anak-incu
 Anapon
+Anca
 Anca
 Ancak
 Ancam
 Ancer-ancer
+Ancik
 Ancik
 Ancin
 Anclang
@@ -230,49 +320,78 @@ Anclong
 Anclub
 Anco
 Ancrub
+Ancrub
 Ancrub 
 Ancul
 Ancul-Aculan
 Ancun
 Ancur
+Ancur
+Ancur
+Ancur
 Ancur pisan
 Andar-Andar
+Andar-andar
+Andar-andar
+Andeg
 Andeg
 Andegléng
 Andekak
 Andel
+Andel
+Andelan
 Andelan
 Andih
 Andika
+Andika
 Andiprek
+Andiprek
+Andir
+Andir
 Andir
 Anduk
 Andum
 Aneh
+Aneh
 Aneh 
 Angar
 Angen
+Angen
+Angen-angen
 Angen-angen
 Angeun
 Anggahota
 Anggahota déwan
 Anggah-Ungguh
 Anggal
+Anggal
+Anggana
 Anggana
 Anggang
+Anggang
+Anggang
+Anggang
+Anggang
 Anggarésol
+Anggel
 Anggel
 Angger
 angger teuas 
 Anggeuhan
 Anggeus
+Anggeus
+Anggeus
+Anggeus
 Anggeus 
 Anggeusan
 Anggeus-anggeusan
 Anggit
+Anggit
 Anggo
 Anggo 
 Anggoan
+Anggoan
+Anggulung
 Anggulung
 Anggur
 Anggut
@@ -282,6 +401,9 @@ Angin laut
 Angin topan
 Angin-angin
 Anging
+Anging
+Anging
+Angir
 Angir
 Angka
 Angkag-Angkig
@@ -289,7 +411,11 @@ Angkanan
 Angkara Murka
 Angkasa
 Angkat
+Angkat
+Angkat
 Angkeleung-angkleung
+Angken
+Angken
 Angken
 Angkeng
 Angkeub
@@ -302,14 +428,19 @@ Angkleung-angkleungan
 Angklung
 Angkrék
 Angkuh
+Angkuh
+Angkuh
 angkut
 Angléng
 Anglér
 Angles
 Anglo
+Anglo
+Angluh
 Angluh
 Angob
 Angon
+Angot
 Angot
 Angruk
 Angsar
@@ -322,11 +453,16 @@ Angsur
 Anjang
 Anjeu
 Anjeucleu
+Anjeucleu
+Anjeun
+Anjeun
 Anjeun
 Anjeun 
 Anjeunna
+Anjeunna
 Anjing
 Anjing leuweung
+Anjog
 Anjog
 Anjrek
 Anjuenna
@@ -335,22 +471,37 @@ Anjun
 Anleh
 Anléh
 Anom
+Anom
 Antanan
 Antara
+Antara
+Antaré
 Antaré
 Antariksa
 Antawis
 Antay
 Anteb
+Anteb
 Antel
 Anteng
+Anteng
+Anteng
 Antep
+Antep
+Antep
+antep
 Anteur
+Anteur
+Antieum
 Antieum
 Antos
 Antukna
 Anu
+Anu
+Anu
 Anut
+Anut
+Anyam
 Anyam
 Anyar
 Anyar keneh
@@ -359,8 +510,11 @@ Aom
 Aos
 Apa
 Apal
+Apal
 Apel
 Apél
+Apem
+Apem
 Apem
 Apeng-Apengan
 Apes
@@ -369,6 +523,7 @@ Api-api
 Apik
 Apilain
 Aping
+Aping
 Aplén
 Aprak
 Apruk
@@ -376,11 +531,17 @@ Apruk-Aprukan
 Apsara
 Apsari
 Apu
+Apu
 Apung
 Ara
 Arad
 Arah
+Arah
+Arah
+Arah
 Arak
+Arak
+Aral
 Aral
 Aram
 Aran
@@ -391,17 +552,25 @@ Arateul
 Arba
 Arbén
 Arca
+Arca
 Ardi
 Aré
+Arék
+Arék
+Arék
 Arék
 Arek 
 Areng
 Areng Batu
 Areng Ruhay
 Areuy
+Areuy
 Aria
 Aripin
+Aripin
 Aris
+Aris
+Arit
 Arit
 Arjuna Wiwaha
 Armada
@@ -411,6 +580,7 @@ Artos
 Artos 
 Arula-arileu
 Arum
+Arum
 Aruy
 As
 Asa
@@ -419,7 +589,10 @@ Asa kaindit
 Asa-asa
 Asah
 Asak
+Asak
 Asak Ome
+Asal
+Asal
 Asal
 Asal muasal
 Asal-Muasal
@@ -428,26 +601,44 @@ Asal-Usul
 Asang
 Asar
 Asem
+Asem
 Aseuk
 Aseupan
+Aseupan
 Asih
+Asih
+Asih
+Asin
+Asin
 Asin
 Asiwung
 Asli
+Asli
+Asli
 Asma
+Asmara
 Asmara
 Aso
 Asong
+Asong
+Asong
 Asongan
 Asor
+Asor
 Aspara
+Aspara
+Aspari
 Aspari
 Asrog
 Asta
+Asta
 Astana
 Asuh
+Asuh
+Asup
 Asup
 Asur
+Atah
 Atah
 Atah anjang
 Atanapi
@@ -455,31 +646,55 @@ Atasan
 Atawa
 Ateul
 Ati
+Ati
+Ati-ati
 Ati-ati
 Ati-burih
 Atik
+Atik
+Atik
+Atikan
 Atikan
 Atma
+Atma
+Atoh
 Atoh
 Atos
+Atos
+Atra
 Atra
 Atra kadanguna
 Atrok-atrokan
 Atur
+Atur
 Aturah
 Aturan
+Aub
 Aub
 Awad
 Awahan
 Awak
+Awak
+Awak
+Awak
+Awak
 Awak sakujur
+Awal
+Awal
 Awal
 Awang-awang
 Awas
 Aweuhan
+Aweuhan
+Aweuhan
+Aweuhan
+Aweuhan
+Awewe
 Awewe
 Awéwé bangor
 Awewe piaraan
+Awi
+Awi
 Awi
 Awi bitung
 Awi haur
@@ -490,15 +705,25 @@ Awi sateukteuk
 Awir
 Awis
 Awit
+Awit
 Awon
+awon
+Awor
+Awor
 Awor
 Awun
 Awuntah
+Awuntah
+Awuntah
 Awur
+Awur-awuran
+Awur-awuran
 Awur-awuran
 Awut
 Awut-awutan
 Aya
+Aya
+aya
 Aya buntutan
 Aya cacadna
 Aya dakian
@@ -513,46 +738,67 @@ Aya naon
 Aya paedahna
 Aya pikir kadua leutik
 Aya tapakna
+Aya tapakna
 aya urutna
 Aya-aya waé
 Ayak
 Ayakan
 Ayakan gedé
 Ayap
+Ayap
+Ayem
 Ayem
 Ayeuh
 Ayeuna
+Ayeuna
+Ayeuna
 Ayu
 Ayum
+Ayun
 Ayun
 Ayunan
 Ayun-ayunan
 Baal
 Baan
+Baan
+Bab
 Bab
 Babacakan
 Babad
+Babad
+Babad
+Babad
+Babadamian
 Babadamian
 Babadéan
 Babadingan
 Babadotab
 Babadug
+Babadug
 Babagian awak
 Babah
+Babak
+Babak
 Babak
 Babak panutup 
 Babaladon
 Babaléan
 Babancik
+Babancik
+Babancik
+Babancong
 Babancong
 Babandingan
 Babandul
+Babandul
 Babar
+Babarengan
 Babarengan
 Babarengan 
 Babari
 Babari 
 Babari ambek
+babari ambek
 Babari ngarti
 Babarian
 Babaruntakan
@@ -564,12 +810,19 @@ Babaturan
 Babaturan 
 Babaturan sapagawéan
 Babaung
+Babaung
+Babaung
+Babawaan
 Babawaan
 Babèt
 Babi
 Bablas
+Bablas
+Babon
 Babon
 Babon 
+Babu
+Babu
 Babu
 Babuk
 Babut
@@ -578,24 +831,42 @@ Bacacar
 Bacak
 Bacem
 Baceo
+Baceo
+Baceo
+Baceo
 Bacéo
 Bacokak
+Bacot
 Bacot
 Bacrek
 Bada
 Badag
+Badag
+badag
 Badag kacida
 Badak
 Badami
+Badami
+Badami
+Badami
+Badan
+Badan
 Badan
 Badanten
+Badanten
+Badanten
+Badanten
+Badarat
 Badarat
 Badaus
 Badawang
+Badawang
+Badaya
 Badaya
 Badé
 Badè
 Badeg
+Badèga
 Badèga
 Badeur
 Badi
@@ -605,17 +876,24 @@ Badingkut
 Badis
 Badminton
 Badodon
+Badodon
 Badog
+Badog
+Badot
 Badot
 Badug
 Baduy
 Bae
 Baé
 Baè
+Baè
 Baeu
+Baeud
+Baeud
 Baeud
 Bagadang
 Bagal
+Baganti
 Baganti
 Bagawan
 Bagèa
@@ -625,8 +903,14 @@ Bagel
 Bagénda
 Bagènda
 Bagerak
+Bagerak
 Bagerak cepet
 Bageur
+Bageur
+Bageur
+Bageur
+Bagi
+Bagi
 Bagi
 Bagian eusi anu utama
 Bagian hareup parahu
@@ -635,21 +919,33 @@ Bagian tina usaha
 Bagian tukang
 Bagian tukang parahu
 Bagilir
+Bagilir
+Bagja
 Bagja
 Bagong
+Bagong
+Bagong
 Baha
+baha
 Baham
+Bahan
 Bahan
 Bahan poko
 Bahanna
 Bahasa asing
 Bahasi
 Bahé
+Bahé
 Bahènol
 Bahènol nèrkom
 Baheula
+Baheula
+Baheula
+Baheula
 Baheum
 Bahla
+Bahla
+Bahono
 Bahono
 Bahu
 Bahula
@@ -661,64 +957,103 @@ Bajigur
 Bajing
 Bajir
 Bajo
+Bajo
+Bajo
+Bajo
+Bajoang
 Bajoang
 Bajong
 Bajra
+Baju
 Baju
 Baju beusi
 Baju kutung
 Baju landung
 Bak
+Bak
+Baka
 Baka
 Bakakak
+Bakakak
+Bakal
+Bakal
+Bakal
 Bakal
 bakal jadi
 Bakar suluh
 Bakat
+Bakat
+Bakat
+Bakatul
 Bakatul
 Baketrak
+Baketrak
+Baketut
 Baketut
 Baki
 Bakiak
 Bako
+Bako
 Bako Mole
 Bakti
 Baktos
+Baktos
+Baktos
+Baku
 Baku
 Bakutet
 Bal
 Bala
+Bala
+Bala
 Bala katupat
 Balad
 Baladah
+baladah
+Balaga
+Balaga
+Balaga
 Balaga
 Balagendir
 Balagonjang
 Balaham-bèlèhèm
 Balaharti
 Balai
+Balai
 Balaka
+Balakécrakan
 Balakécrakan
 Balakècrakan
 Balanak
 Balandongan
+Balandongan
 Balang
+Balangah
+Balangah
+Balangah
 Balangah
 Balangatrang
 Balangko
 Balangsak
+Balangsak
 Balangsiar
 Balanja
 Balantik
+Balantik
 Balap
+Balap kuda
 Balap kuda
 Balaréa
 Balata-boloto
+Balata-boloto
+Balatak
 Balatak
 Balatentara
 Balati
 Balawiri
+Balawiri
 Balay
+Balayar
 Balayar
 balé
 Bale 
@@ -726,6 +1061,7 @@ balé desa
 Balé kambang
 Balé kota
 Balè nyuncung
+Bale Pamulangan
 Bale Pamulangan
 Balèbat
 Balèdog
@@ -738,8 +1074,10 @@ Balegug
 Balejog
 Balèlol
 Balem
+Balem
 Balèn
 Balèncong
+Bales
 Bales
 Baleuy
 Balewatangan
@@ -749,6 +1087,9 @@ Balida
 Balideg
 Balieur
 Baligo
+Baligo
+Balik
+Balik
 Balik
 Balik 
 Balik deui
@@ -756,14 +1097,23 @@ Balik modal
 Balilahan
 Balilu
 Balincong
+Balincong
 Balingbing
 Balinger
 Balitungan
+Balitungan
+Balitungan
+Balitungan
+Balitungan
 Baliung
+Baliung
+Baliwet
 Baliwet
 Baloboran
 Balok
 Balok panaggeuy 
+Balong
+Balong
 Balong
 Balongkèng
 Balsem
@@ -774,27 +1124,40 @@ Balung
 Balungbang
 Baluntas
 Balur
+Balur
+Balur
 Baluweng
+Banaspati
 Banaspati
 Banawasa
 Bancèt
 Banceuy
 Banci
+Banci
 Bancunur
 Banda
+banda
 Bandaleut
 Bandang
 Bandar
+Bandar
+Bandar
 Bandel
+Bandera
 Bandera
 Bandèra
 Banding
 Bangawan
 Bangbara
 Bangbarung
+Bangbarung
 Bangblas
 Bangbung
 Bangep
+Bangga
+Bangga
+Bangga
+Bangga
 Bangga
 Bangir
 Bangkarak
@@ -805,41 +1168,72 @@ Bangkè
 Bangkok
 Bangkong
 Bangkrut
+Bangkrut
 Bangkuang
 Bango
 Bangor
+Bangor
+Bangor
+Bangor
+Bangor
+Bangsa
 Bangsa
 Bangsa lelembut
 Bangsaat
 Bangsal
+Bangsal
 Bangsal Soldadu
+Bangsat
+Bangsat
+Bangsat
+Bangsat
+Bangsat
 Bangsat
 Bangsing
 Bangus
 Banjir
 Banjur
+Banjur
+Banjur
 Bantah
 Bantos
 Bantu
 Bantun
+Bantun
 Banua
 Banyak
 Banyol
+Banyol
+Banyol
+Banyol
+Banyol
+Banyol
+Bapa
+Bapa
+Bapa
 Bapa
 Bapa teges
 Bapa téré
 Bapaan
 Barabe
 Baragajul
+Baragajul
+Baragajul
 Baramaen
 Baramaén
 Baranahan
+Baranahan
 Barang
+Barang
+Barang beuli
 Barang beuli
 Barang encer
 Barang Mujarad
 Barang padet
 Barang Wasiat
+Barangasan
+Barangasan
+Barangasan
 Barangasan
 Barangjieun
 Barangkal
@@ -847,21 +1241,34 @@ Barangsiar
 Barared
 Bararenjol
 Baraya
+Baraya
+Baraya
 Baraya laér
 Baraya landes
 Bared
+Bared
 Barèd
 Barempug
+Barempug
+Barempung
 Barempung
 Bareng
+Bareng
 Barera 
+Bareuh
+Bareuh
+Bareuh
 Bareuh
 Bareuh 
 Bareuh pisan
 Bari
+Bari
+Bari
+Bari
 Barieukeun
 Baripeut
 Baris
+Barisan
 Barisan
 Barita
 Barudak
@@ -869,8 +1276,14 @@ Baruk
 Baruk gangsa
 Barung anu dicampur
 Baruntak
+Baruntak
+Baruntus
 Baruntus
 Barusuh
+Basa
+Basa
+Basa
+Basa
 Basa
 Basa budak
 Basa dengeun
@@ -886,8 +1299,14 @@ Basa sapopoé
 Basa wewengkong
 Basajan
 Baseuh
+Baseuh
+Baseuh
+Baseuh
+Baseuh
+Basisir
 Basisir
 Basmi
+Batal
 Batal
 Batal 
 Batan sakieu
@@ -910,6 +1329,8 @@ Batur jenuk balaréa
 Batur sapagawean
 Batur sapagawéan
 Bau
+Bau
+Bau
 Bau 
 Bau hangit
 Bau hangseur
@@ -921,16 +1342,27 @@ Bawahan
 Bawang Beureum
 Bawarasa
 Bawel
+Bawel
+Bawel
+Bawel
 Bawiraos
+Bayah
+Bayah
 Bayah
 Bayam lamba
 Bayar
 Bayawak
+Bayawak
 Bayé
 Bayem
 Bayeungyang
+Bayeungyang
+Bayuhyuh
+Bayuhyuh
 Bayuhyuh
 Beak
+Béak
+Béak
 Béak
 Bèak
 Beakeun
@@ -951,6 +1383,7 @@ Bebenah ngarah ringkes
 Bebendul
 Bèbènè
 Bebeneran
+Bebeneran
 Bebeng
 Béber
 Bébér layar
@@ -961,34 +1394,53 @@ Becek
 Becéo 
 Becrek
 Beda
+Beda
 bedegong
+Bedegong
+Bedegong
+Bedegong
+Bedegong
+Bedegong
 Bedel
+Bedel
+Bedeng
 Bedeng
 Bédéng
 Bedil
+Bedil
 Bedil Kosong
 Bedog
+Bedol
 Bedol
 Bedong
 Bedug
 Begal
 Bègal
+Bègal
 Begang
+Begang
+Begang
+Begéng
 Begéng
 Begu
 Begung
 Beha
 beja
 Béja
+Béja
 Bèja
+Bèja
+Beja bohong
 Beja bohong
 Beja saliwat
 Bejad
+bejad
 Bejad Moral
 Béjana
 Bejod
 Beke
 Bèkè
+Bekeh
 Bekeh
 Bekel
 Bekem
@@ -997,14 +1449,17 @@ Bekok
 Bekong
 Bela
 Belang
+Belang
 Belapati
 Beleger
+Belegug
 Belegug
 Belentuk
 Belenyéh
 belesat
 Belesek
 Belesur
+Belet
 Belet
 Belik
 Benang
@@ -1013,20 +1468,31 @@ Bencar
 Bencong
 Bende
 Bendo
+Bendo
 Bendo Wiron
 Bendu
 Bendungan
 Bener
+Bener
+Bener
+Bener
+Bener
+Bener
 Bener-bener
 Benga
 Bengal
+Bengal
+Bengis
 Bengis
 Bengkang
 Bengker
 Bengker sirah
 Bengkok
+Bengkok
 Bengras 
 Bengsin
+Benjol
+Benjol
 Benjol
 Benjut
 benjut 
@@ -1043,7 +1509,9 @@ Bérag
 Berandal
 Berbicara
 Berbicara 
+Berbicara 
 Berbicaraan
+Berbicarakeun
 Berbicarakeun
 Bercengkerama
 Bercocok tanam
@@ -1059,6 +1527,7 @@ Béré
 Béréhan
 Béréhan 
 Berekat
+Berem
 Berem
 Beresih
 Bergilir 
@@ -1077,6 +1546,8 @@ Betah
 Beton
 Beton 
 betot
+Betot
+Beubeur
 Beubeur
 Beubeureuh
 Beubeutian 
@@ -1084,8 +1555,15 @@ Beueus
 Beuhar
 Beuheung
 Beukah
+Beukah
+Beukah
+Beukah
+Beuki
+Beuki
 Beuki
 Beuki berbicara
+Beulah
+Beulah
 Beulah
 Beuleum
 Beuli
@@ -1094,8 +1572,13 @@ Beunang
 Beundeul
 Beundeul 
 Beungeut
+Beungeut
+Beungeut
+Beungeut
 Beungeut cai
 Beunghar
+Beunghar
+beunghar
 Beunghar pisan
 Beungkeut
 Beungkeutan 
@@ -1103,6 +1586,7 @@ Beunta
 Beunteur
 Beunyeur
 Beurang
+Beurat
 Beurat
 Beurat sabeulah
 Beureum
@@ -1114,6 +1598,9 @@ beusi persani
 Beusi semprani
 Beuteung
 Beuti
+Beuti
+Beuti
+Béwara
 Béwara
 Bewarakeun
 Bewok
@@ -1126,6 +1613,7 @@ Bibika
 Bibika   
 Bibilas
 bibit
+bibit
 Bibit cuka
 Bibit roti
 Bibit taleus
@@ -1135,9 +1623,12 @@ Biduri campaka
 Bieu
 Bieu Pisan
 Bihari
+bihari
 Bijil
 Bikang
 Bikeun
+Bilatung
+Bilatung
 Bilatung
 Bilik
 Bilik cabol
@@ -1150,7 +1641,15 @@ Bingah
 Bingbang
 bingbing
 Bingung
+Bingung
+Bingung
+Bingung
+Bingung
+Bingung
+Bingung
 Bingung kacida
+Bingung kacida
+Binih
 Binih
 Binih hurang nu meh teu katingali
 Binojakrama
@@ -1159,20 +1658,33 @@ Bintang wuluku
 bintit 
 Bira
 Birahi
+Birahi
+Birat
 Birat
 Bireuk
+Bireuk
+Bireungeuh
 Bireungeuh
 Biri - biri
 Birit
+Birit
+Birit
+Biru
 Biru
 Biruang
 Bis
+Bis
 Bis bae
+Bisa
+Bisa
+Bisa
 Bisa
 Bisa 
 Bisa diduitkeun
 Bisa diréngsékeun
 Bisa jadi
+Bisa jadi
+Bisa Jadi
 Bisa maca jeung nulis
 Bisa waé
 Biskuit
@@ -1185,9 +1697,13 @@ Bita
 Bitis 
 Bitotama
 Bitu
+Bitu
+Bitu
+Bitu
 Bitung
 Bitur
 Biuk
+Biwir
 Biwir
 Biwir nyiru rombengeun
 Biwir panon
@@ -1198,7 +1714,13 @@ Blug
 Blus
 Boa
 Bobo
+Bobo
+Bobo
+Bobo
 Bobodo
+Bobodo
+Bobogohan
+Bobogohan
 Bobogohan
 Bobohongan
 Bobok
@@ -1207,24 +1729,39 @@ Boboko isikan
 Bobokong
 Boboléh
 Bobolokot
+Bobolokot
+Bobolokot
+Bobor
 Bobor
 Boboréh
 Boborot
 Bobos
 Bobot
 Bobotoh
+Bobotoh
 Bocokok
 Bocor
+Bocor
+Bocor tur nyaliara 
 Bocor tur nyaliara 
 Bodang
 Bodas
 Bodas nyacas 
 Bodo
+Bodo
+Bodo
+Bodo
 Bodogol
 Bodor
+Bodor
+Bodor
+Bodor
+Bodor
+Boéh
 Boéh
 Boga
 Boga adi
+Boga akal
 Boga akal
 Boga aksara
 Boga bakat
@@ -1235,7 +1772,11 @@ Boga kasopanan
 Boga piutang
 Bogoh
 Bogor
+Bogor
 Bohong
+Bohong
+Bohong
+Bojo
 Bojo
 Bokbrok
 Bokong
@@ -1243,18 +1784,35 @@ Bokotondo
 Bola
 Bolang
 Bolay
+Bolay
+Bolay
+Bolay
+Boléd
 Boléd
 Bolékér
+Bolékér
+Bolénang
 Bolénang
 Bolér
 boloho
+Boloho
+Boloho
 Bolokot
 bolokotondo
 Bolon
+Bolon
+Bolong
+Bolong
 Bolong
 Bolongor
+Bolongor
+Bolor
+Bolor
 Bolor
 Bolos
+Bolos
+Bolos
+Bolostrong
 Bolostrong
 Bolot
 Bolotot
@@ -1264,31 +1822,42 @@ Bondol
 Bondoroyot
 Bondu
 Bongkar
+Bongkar
 Bongkék
 Bongko
 Bongkok
 Bongkok meongeun
 Bongkor
+Bongkor
 Bongoh
 Bongroy
+Bongsor
 Bongsor
 Bonjor
 Bonteng
 Bonténg
 Bontos
 Bontot
+Bontot
+Bonyo
 Bonyo
 Bool
+Bool
+Bool
+Bopati
 Bopati
 Bopeng
 Borang
 Borangan
 Bordel
 Boreh
+Boreh
 Boréh
 Borgol
+borgol
 Boro-boro
 borogod
+Borogod
 Borohol
 Borojol
 Borok
@@ -1298,8 +1867,16 @@ Borong
 Borongsong anjing
 Boronjong
 Borontok
+Borontok
+Borontok
+Boros
 Boros
 Boséh
+Boséh
+Boséh
+Bosen
+Bosen
+Bosen
 Bosen
 Bosen 
 Bosenan
@@ -1307,9 +1884,12 @@ Boson
 Bosongot
 Botak
 Botoh
+Botoh
 Botol leutik
 Boyong
+Boyong
 Boyot
+Bra
 Bra
 Brahala
 Bral
@@ -1319,6 +1899,8 @@ Bray
 Brèh
 Brek
 Brem
+brem
+brem
 Breng
 Bres
 Bring
@@ -1327,40 +1909,63 @@ Bruk-brak
 Brul
 Brus
 Buah
+Buah
+Buah
 Buah haté
 Buah Pasang
 Buahan
 Bual
 Buana
 Buang
+Buang
 Buat
 buatan
 Buaya
 Bubar
+Bubar
+Bubu
 Bubu
 Bubuahan
 Bubuara
 Bubud
 Bubujangan
+Bubujangan
 Bubujeng
 Bubuk
+Bubuk
+Bubuk
+Bubuka
 Bubuka
 Bubulak
 Bubur
 Bubur lemu
 Buburak
+Buburak
 Buburuh
+Buburuhun
+Buburuhun
 Buburuhun
 Bubus
 bubut
 Bubututan
+Bubututan
 Bubuy
 Bucat
+Bucat
+Bucat
+Bucit
 Bucit
 Bucitreuk
 Budah
+Budah
+Budah
+Budah
+Budah
 Budah laut
 Budak
+Budak
+Budak
+Budak beulian
 Budak beulian
 Budak bungsu
 Budak kembar
@@ -1375,36 +1980,63 @@ Budeg
 Buder
 Budeur
 Budi
+Budi
 Budi-parangi
 Budug
+Budug
+Budug
+Budug
+Bueuk
 Bueuk
 Bugang
 Bugbrug
 Bui
 Bujal
+Bujal
+Bujang
+Bujang
+Bujang
+Bujang
 Bujang
 Bujang kolot
 Bujangan
+Bujangan
+Bujangga
+Bujangga
 Bujangga
 Bujeng
 Bujur
+Bujur
+Buka
+Buka
 Buka
 bukbak
 Bukèt
 Bukti
 Buktos
 Buku
+Buku
 Buku-buku
 Bukur
 Bulak
 Bulak-balik
+Bulak-balik
+Bulak-balik
+Bulak-balik
 Bulan
+Bulan
+Bulan alaeun
 Bulan alaeun
 Bulan haji
 Bulan Puasa
+Bulan puasa
 Bulan sapasi
 Bulao
+Bulao
+Bulao
 Bulasin
+Bulasin
+Bulat - beulit
 Bulat - beulit
 Bulé
 Bulè
@@ -1419,35 +2051,64 @@ Bulu luhureun panon
 Bulu Mayang
 Bulubus
 Buludru
+Buludru
 Buluk
 Bulukan
 Bulukusutun
+Bulukusutun
+Bulungbung
 Bulungbung
 Bumetah
+Bumi
+Bumi
+Bumi
+Bumi
 Bumi
 Bunar
 Buncar
 Buncelik
+Buncelik
 Buncit
 buncunur
+Buncunur
 Bunder
+Bunder
+Bunder
+Bunderan
 Bunderan
 Bunga 
 Bungagang
+Bungagang
+Bungah
+Bungah
+Bungah
+Bungah
+Bungah
 Bungah
 Bungaok
 Bungbang
 Bungbu
+Bungbu
+Bungbu
 Bungbuahan
 Bunghak
+Bunghak
 Bungkem
+Bungkem
+Bungkeuleuk
 Bungkeuleuk
 Bungkiang
 Bungking
 Bungkus
+Bungkus
+Bungkus
 Bungkusan
 Bunglon 
 Bungsu
+Bungsu
+Bungsu
+Bungsu
+Bungur
 Bungur
 Buni
 Buniaga
@@ -1456,7 +2117,9 @@ Buntala
 Buntar
 Buntel
 Buntu
+Buntu
 Buntung
+Buntut
 Buntut
 Buntut kasiran
 Buntut kuda 
@@ -1465,13 +2128,17 @@ Bupati
 Bupét
 Bura
 Burahay
+Burahay
 Burak
 Burakrakan
 Burang
 Burantak
 Buras
 Burayut
+Burayut
+Burayut
 burem
+Bureuteu
 Bureuteu
 Bureuyeung
 Burey
@@ -1480,22 +2147,39 @@ Burih
 Burih hayam
 Burindil 
 Buringas
+Buringas
 buringhas
 Burinyay
 Burit
 Buron
+Buron
+Buru
+Buru
 Buru
 Buruan
+Buruan
+Buruan
+Buru-buru
 Buru-buru
 Burudul
 Buruh
+Buruh
+Buruh
+Buruhan
+Buruhan
 Buruhan
 Burujul
 Buruk
 Buruk jeung bobo
 Burung
+Burung
 Burusut
 Burut
+Burut
+Burut
+Buruy
+Buruy
+Buruy
 Buruy
 Bus
 Busana
@@ -1508,18 +2192,29 @@ Butak
 Butek
 Butiti
 Butuh
+Butuh
+Butuh
 Butut
 Buuk
 Buuk palsu
 Buut
+Buut
 Buyé
 Buyung
+Buyung
+Buyur
 Buyur
 Buyut
+Buyut
+Buyut
+Buyut
+Caah
+Caah
 Caah
 Caah déngdéng
 Caah pikir
 Caah Rongkah
+Caang
 Caang
 Caang ngempray
 Caang ngeumpray
@@ -1528,6 +2223,7 @@ Cabak
 Cabang
 Cabar
 Cabe
+Cabé
 Cabé
 Cabe 
 Cabé areuy
@@ -1539,17 +2235,27 @@ Cabol
 Cabrek
 Cabul
 Cabut
+Cabut
+Cabut
+Cabut
 Cacaahan
+Cacad
+Cacad
+Cacad
 Cacad
 Cacad 
 Cacad tikudrad
 Cacag
+Cacag
+Cacag
 Cacag Nangkaeun
 Cacah
+Cacah jiwa
 Cacah jiwa
 Cacah Kuricakan
 Cacah rucah atau warah
 Cacaka
+Cacakar
 Cacakar
 Cacalakatan
 Cacaleuhakan
@@ -1557,10 +2263,13 @@ Cacampah
 Cacampuran
 Cacandran
 Cacap
+Cacap
 Cacapit
 Cacar
 Cacarakan
 Cacarakan kénéh
+Cacarakan kénéh
+Cacing
 Cacing
 Cacing kalung
 Cacing pita
@@ -1571,18 +2280,40 @@ Cadangan
 Cadas
 Cadél
 Cadu
+Cadu
 Caéng
 Cagak
+Cagak
+Cagak
+Cagap 
 Cagap 
 Cagar
+Cagar
+Cagar alam
 Cagar alam
 Cageur
+Cageur
+Cageur
+Cahara
 Cahara
 Cahaya
+Cahaya
+Cahaya
+Cahayaan
+Cahayaan
+Cahayaan
+Cahayaan
+Cahayaan
+Cahayaan
+Cahayaan
+Cahayaan
 Cahayaan
 Caheum
 Cahya
 Cai
+Cai
+Cai hérang
+Cai hérang
 Cai hérang
 Cai hirup
 Cai malik cai mulung
@@ -1593,6 +2324,8 @@ Cai susu
 Cai tawar
 Cairan
 Cakakak
+Cakar
+Cakar
 Cakar
 Cakcak
 Cakep
@@ -1607,17 +2340,24 @@ Caladi
 Caladi bawang
 Caladi Muncang
 Calakan
+Calakan
+Calakan
+Calakan
+Calakan
 Calakatak
 Calana
 Calana Pangsi
 Calangap
+Calangap
 Calawak
+calawak
 Caleeer
 Caléngka
 Calétot
 Caleuhak
 Caleuy
 Calik
+calik
 Calilingcing
 Calimud
 Calo
@@ -1626,19 +2366,30 @@ Caluk
 Calung
 Camani
 Camara
+Camara
 Cambal
+Cambal
+Cambal
+Cambang
 Cambang
 Cambepem
 Camberok
 camberut
+Camberut
+Camberut
+Camberut
 Cambéwék
 Camerong
 Camerut
 Cameti
+Cameti
+Cameti
+Cameubleu
 Cameubleu
 Cameuh
 Camihmil
 Campaka
+Campaka gondok
 Campaka gondok
 Campaka jadi di reuma
 Campala
@@ -1647,11 +2398,25 @@ Campego
 Campelak
 Camperenik
 Camplang
+Camplang
+Camplang
 Campleng
 Campoléh
+Campoléh
+Campuh
 Campuh
 Campur
+Campur
+Campur
+Campur
+Campur
+Campur
+Campur
+Campur
 Campur aduk
+Campur aduk
+Campur aduk
+Campur gaul
 Campur gaul
 Campur jeung jalma loba
 Campurit
@@ -1660,9 +2425,13 @@ Can
 Can Asak
 Can biasa
 Can kawin
+Can kawin
 Can lila
 Candak
+Candak
+Candak
 candak 
+Candoli
 Candoli
 Candra
 Candradimuka
@@ -1676,10 +2445,16 @@ Canéom
 Cangcala
 Cangcang
 cangcaya
+Cangcaya
+Cangcaya
+Cangcaya
+Cangcut
 Cangcut
 Cangéhar
 Cangehgar
+Cangehgar
 Cangéhgar
+Canggah
 Canggah
 Canggung
 Cangkaléng
@@ -1690,12 +2465,17 @@ Cangkem
 Cangkeng
 Cangkéng
 Cangker
+Cangker
 Cangkeredong
 Cangkeul
+Cangkeul
+Cangkéwok
 Cangkéwok
 Cangking
 Cangkir
+Cangkir
 Cangko
+Cangkok
 Cangkok
 Cangkol
 Cangkolong
@@ -1706,21 +2486,35 @@ Cangkudu
 Cangkurileung
 Cangkurileung 
 Cangor
+Cangor
 Cangra
+cangra
+Cangreud
+Cangreud
+Cangreud
 Cangreud
 Cantél
 Canteng
 Cantrik
+Caos
 Caos
 Cap jempol
 Capa
 Capang
 Cape
 Capé
+Capé
+Capé
+Capé
+Capé
 Capetang
 Capétang
 Capit
+Capit
 Caplok
+Caplok
+Caplok
+Capluk
 Capluk
 Cara rahasia
 Carabakan
@@ -1728,26 +2522,39 @@ Caram
 Caramah
 Carang 
 Carangcang tihang
+Carangcang tihang
 Carangka
 Carécét
+Carécét
+Careham
 Careham
 Caréham
 Carehan
 Carék
+Carék
 Carek Wiwilanganana
+Carem
+Carem
 Carem
 Caremé
 Caréngcang
 Caréraman
 Careuh
+Careuh
+Careuh
 Caria
 Carik
 Carindakdak
+Caringcing
+Caringcing
 Caringcing
 Caringin
 Caringin kurung
 Carios
 Cariosan
+Carita
+Carita
+Carita
 Carita
 Carita 
 Carita Pantun
@@ -1755,9 +2562,13 @@ Caritaan
 Carogé
 Carpon
 Caruluk
+Caruluk
 Catang
 Catet
+Catet
+Catet
 Catetan
+Catur
 Catur
 Cau
 Cau kapok
@@ -1765,32 +2576,48 @@ Cau kulutuk
 Cau Muli
 Cau Omas
 Cawad
+Cawad
 Cawéné
 Cawerang
+Cawerang
+Cawet
+Cawet
 Cawet
 Cawiri
+Cawokah
+Cawokah
 Cawokah
 Cébong
 Cebor
 Cébor
+Cébor
 Cebrek
+Ceceb
 Ceceb
 Cecek-bocek
 Cecel
 Cécémpéh
+Cécémpéh
 Cécéndét
+Cecep
 Cecep
 Cécépét
 Ceceremed
 Cecewir
 Cecewok
 Cécéwok
+Cécéwok
 Céda
 Cedo
 Cédok
 Cegah
+Cegah
+Cegah
+Cegat
 Cegat
 Cehcer
+Cekah
+Cekah
 Cekah
 Cekap
 Cèkas
@@ -1798,10 +2625,14 @@ Cekcok
 Cèkcok
 Cekek
 Cekel
+Cekel
+Cekel
 Cèkèr 
 Cèklis
 Cekok
 Cekong
+Cekong
+Cèlè
 Cèlè
 Celebek
 Celegon
@@ -1811,13 +2642,16 @@ Cèlèng
 Celengceng
 Celengok
 Celep
+Celep
 Celong 
 Cèmèn
 Cemés
 Cempad
 Cemplung
+Cemplung
 Cempor
 Cènang
+Cendana
 Cendana
 Cèndol
 Cengcelengan
@@ -1833,42 +2667,65 @@ Cèntang
 Centeng
 Centèng
 Centik
+Centik
+Centil
+Centil
 Centil
 Cep
 Cepak
 Cepel
 Cepeng
+Cepeng
 Cèpèr
 Cepet
+Cepet
+Cepil
 Cepil
 Ceplès
 Ceplok
+Ceplok
+Cepret
+Cepret
 Cepret
 Ceprèt
 Cepuk
 Cerdas
 Cerek
+Cerek
 Cerek deleg
 Cereme
 Ceret
+Cerewed
+Cerewed
+Cerewed
 Cerewed
 Cèrèwèd
 Cerewet
 Cerong
 Cet
 Cètèk
+Cètèk
 Cèting
+Ceuceub
+Ceuceub
 Ceuceub
 Ceuceuh
 Ceuceuk
 Ceudeum
+Ceudeum
+Ceuk
+Ceuk
 Ceuk
 Ceuleupeung
+Ceuleupeung
 Ceuleuyeu
+Ceuli
 Ceuli
 Ceumpal
 Ceunah
 Ceungceum
+Ceurik
+Ceurik
 Ceurik
 Cewaw
 Cewérang
@@ -1879,16 +2736,25 @@ Cibodas
 Ciciakan
 Cicika
 Cicil
+Cicil
 Cicilan
 Cicing
 Cicing 
+Cicing 
+Cicingeun
 Cicingeun
 Ciciptan 
+Ciciren
+Ciciren
 Ciciren
 Cicirihilan
 Cidra
 Ciduh
+Ciduh
+Ciduh
+Ciduh
 CIentéh
+Cihcir
 Cihcir
 Cihérang
 Cika-cika
@@ -1896,35 +2762,56 @@ Cikahuripan
 Cikakaba
 Cikakawah
 Cikal
+Cikal
+Cikal
 Cikal bakal
 Cikaracak
+Cikaracak
+Cikènèh
 Cikènèh
 Cikih
 Cikiih
+Cikiih
 Cikruh
 Cikur
+Cikur
+Cilaka
+Cilaka
+Cilaka
 Cilaka
 Cilaka 
 Cileuh
+Cileuh
+Cileuh
+Cileuk
 Cileuk
 Cileuncang
+cileuncang
 Cileureun
 Cimani
 Cimata
+Cindak
 Cindak
 Cindek
 Cindekul
 Cindra
 Cindul
+Cindul
 Cingcaw
 Cingceung
 Cingcin
 Cinggir
+Cinggir
 Cingir
 Cingked
+Cingked
 CIngogo
+Cingogo
+Cinta
+Cinta
 Cinta
 Cinutrung
+Cinyusu
 Cinyusu
 Cipanas
 Cipanon
@@ -1932,23 +2819,40 @@ Cipati
 Cipeureu 
 Cipoah
 Cipruk
+Cipruk
+Cipruk
 Ciri
+Ciri
+Ciri
+Ciri
+Ciri mandiri
 Ciri mandiri
 Cirihil
 Cisoca
 Cita-cita
+Cita-cita
 Cita-Cita Anu Muluk
+Citak
 Citak
 Citiis
 Ciung
 Ciwit
+Ciwit
 Cobi
+Cocèng
 Cocèng
 Cocoan
 Cocodot
+Cocodot
+Cocodot
+Cocog
+Cocog
 Cocog
 Cocok
+Cocok
 Cocol
+Cocol
+Cocolok
 Cocolok
 Cocor
 Codèkah
@@ -1957,6 +2861,8 @@ Coet
 Coèt
 Cogrèg
 Cohag
+Cohag
+Cokel
 Cokel
 Cokèl
 Coklat
@@ -1967,12 +2873,18 @@ Colat
 Colèk
 Colèn
 Cologog
+Cologog
 Colohok
+Colohok
+Colok
 Colok
 Combrék
 Comèl
+Comèl
 Comot
 Condong
+Condong
+Congcorang
 Congcorang
 Congcot
 Conggah
@@ -1980,11 +2892,22 @@ Congkrang
 Congo
 Conto
 Coo
+Coo
+Copèl
 Copèl
 Copélna
 Copet
+Copet
+Copet
+Coplok
+Coplok
+Coplok
+Coplok
 Coplok
 Copong
+Copong
+Copong
+Corèngcang
 Corèngcang
 Coroboh
 Corowok
@@ -1994,8 +2917,10 @@ Crung-créng
 Cua
 Cuaca
 Cuang-Cieung
+Cuang-Cieung
 Cubluk
 Cubuk-cabak
+Cucuk
 Cucuk
 Cucuk 
 Cucuk geluk
@@ -2004,14 +2929,20 @@ Cucuk kondé
 Cucukan
 Cucungah
 Cucunguk
+Cucunguk
+Cucunguk
 Cucut
 Cugak
 Cuhcur 
 Cuka
 Cukang
+Cukang
+Cukang
+Cukang
 Cukang beurit
 Cukang irung
 Cuke
+Cukeruk
 Cukeruk
 Cukul
 Cukup
@@ -2021,15 +2952,21 @@ Culang-cileung
 Culangung
 Culik
 Culika
+Culika
+Cumah
+Cumah
+Cumah
 Cumah
 Cumeluk
 Cumenos
 Cumentil
 Cumi-cumi
 Cunduk
+Cunduk
 Cungap
 Cungar - cengir
 Cungas-cingeus
+Cungcung
 Cungcung
 Cungcurungan
 Cunggelik
@@ -2042,6 +2979,7 @@ Cupet
 Cuplak
 Cupu
 Cupu manik
+Cupu manik
 Cupumanik
 Cupumanik astagina
 Curak-curak
@@ -2050,10 +2988,16 @@ Curang
 Curang 
 Curang-cerong
 Cureuleuk
+Cureuleuk
 Curiga
+Curiga
+Curiga manjing warangka
 Curiga manjing warangka
 Curinghak
 Curug
+Curug
+Curuk
+Curuk
 Curuk
 Curuluk
 Cuti
@@ -2065,13 +3009,16 @@ Dadak
 Dadak sakala
 Dadakan
 Dadalan
+Dadalan
 Dadali
 Dadali 
+Dadampar
 Dadampar
 Dadar
 Dadar endog
 Dadar gulung
 Dadas
+Dadasar
 Dadasar
 Dadung
 Daék
@@ -2080,11 +3027,15 @@ Daek disogok
 Daérah
 Daeukeut
 Dagang
+Dagang
 Dagdagan
+Daging
 Daging
 Daging lapis
 Daging meunang nyacag
 Dago
+Dago
+Dagor
 Dagor
 Daham - dehem
 Dahan
@@ -2100,27 +3051,44 @@ Dalem Marhum
 Dalem Suargi
 Dalima
 Dalit
+Dalit
+Dalit
+Dalit
 Dalu 
 Damang
 Damar
 Damel
 Damis
 Dampal
+Dampal
+Dampal
 Dampal leungeun
 Dampal suku
 Dangdan
+Dangdan
+Dangdan
+Dangdan
 dangdos
+Dangdos
+Dangdos
 Danget
 Dangiang
 Dangsa
 Dangu
+Dangu
+Dano
+Dano
+Dano
 Dano
 Danten
+Dapang
 Dapang
 Dapur
 Dapuran
 Dapuran awi
 Dara 
+Darajat
+Darajat
 Darajat
 Darana
 Dararatang
@@ -2130,13 +3098,20 @@ Darehdeh
 Dareuda
 Darmaga
 Darmawisata
+Darmawisata
+Darmawisata
 Dasa
 Dasamuka
 Dasar
+Dasar
+Dasar
 Dasawarsa
+Datang
 Datang
 Datang bulan
 Datang Katilngali Tarang Undur Katingali Punduk
+Datar
+Datar
 Datar
 Datu
 Daun
@@ -2151,33 +3126,46 @@ Daya
 Dayagdag
 Dayeuh
 Dayung
+Dayung
 Debus 
 Dedeg
 Dedeg 
 Dedegan
+Dedegan
 Dedek
+Dedek
+Dedemit
 Dedemit
 Dedengkot
 Dedet
+Dedet
+Dèèng
 Dèèng
 Deet
 Dèèt
 Dègdèg
 Degdegan
 Degdegan 
+Degdegan 
 Degig
+Degung
 Degung
 Dehem
 Dèhèm
 Dek
 Dekat baraya deukeut
 Dekem
+Dekem
+Dekil
 Dekil
 Dekok
+Deku
+Deku
 Deku
 Delèh
 Delék
 Delèk
+Deleka
 Deleka
 Dèlèt
 Delit
@@ -2188,9 +3176,15 @@ Dempes
 Dempet
 Dempét
 Dempèt
+Dempèt
+Dèmpèt
 Dèmpèt
 Demplu
+Demplu
 Dengda
+Dengda
+Dengda
+Dengdek
 Dengdek
 Déngdék
 Dèngdèk
@@ -2204,6 +3198,7 @@ Dengkek
 Dengkèk
 Dengki
 Dèngklok
+Dèngklok
 Dènok
 Depa
 Dèpè
@@ -2212,21 +3207,35 @@ Derep
 Dèrès
 Derewis
 Derma
+Derma
 Dermawan
 Desa 
 Detik
 Deudeuh
+Deudeuh
 Deudeuieun
+Deudeul
+Deudeul
+Deudeul
+Deudeul
 Deudeul
 Deudeupeun
 Deugdeug
 Deugeul
+Deugeul
+Deuheus
 Deuheus
 Deui
+Deui
+Deukeut
+Deukeut
 Deukeut
 Deuleu
 Deungeun
+Deungeun
+Deungeun
 Deungeun sangu
+Deupa
 Deupa
 Dewang
 Dèwangga
@@ -2240,6 +3249,9 @@ Diacak
 Diacarakeun
 Diacungkeun
 Diadu
+Diadu
+Diadu
+Diadu
 Diagem
 Diagulkeun
 Diagungkeun
@@ -2250,6 +3262,7 @@ Diaku
 Diakut
 Diambung
 Diamparkeun
+diamparkeun
 Diancokeun
 Diandelkeun
 Diangir
@@ -2257,6 +3270,7 @@ Diantep
 Dianterkeun
 Diaping
 Diapungkeun
+Diarep-arep
 Diarep-arep
 diasuh
 Diawut-awut
@@ -2279,6 +3293,7 @@ Dibayar
 Dibayarkeun
 Dibebaskeun
 Dibeberkeun
+Dibeberkeun
 Dibébérkeun
 Dibedakeun
 Dibedel
@@ -2294,6 +3309,7 @@ Dibeuli
 Dibeulit
 Dibeulitkeun
 Dibeungbeuratan
+Dibeungbeuratan
 Dibiasakeun
 Dibikeun
 Diborehkeun
@@ -2306,6 +3322,8 @@ Dicabut
 Dicalukan
 Dicampurkeun
 Dicandak
+Dicandak
+Dicandung
 Dicandung
 Dicarékan
 dicaritakeun
@@ -2322,6 +3340,7 @@ Diduruk
 Diélehkeun
 Diencréng-encréng
 Dienod
+Dieu
 Dieu
 Dieugeuh-eugeuh
 Dieunteupan
@@ -2358,7 +3377,9 @@ Diheuleutan
 Diheuleut-heuleut
 Diheurasan
 Dihijikeun
+Dihijikeun
 Dihirupan
+Dihudangkeun
 Dihudangkeun
 Dihujankeun
 Dihurunsukuhkeun
@@ -2367,6 +3388,7 @@ Diidek
 Diiker-iker
 Diimplik-implikan
 Diisaratan
+Diiskolakeun
 Diiskolakeun
 Diistrenan
 Diisukkeun
@@ -2398,6 +3420,7 @@ Dikait
 Dikaitkan
 Dikajabakeun
 Dikaluat
+Dikaluat
 Dikaniaya
 Dikawitan
 Dikedalkeun
@@ -2423,8 +3446,11 @@ Dikubrakeun
 Dikudaan
 Dikumahan
 Dikumbah
+dikumbah
 Dikurusuk
 Dilahirkeun
+Dilak
+Dilak
 Dilak
 Dilalab
 Dilambon
@@ -2452,14 +3478,20 @@ Dimimitian
 Diminyakan
 Dimulyakeun
 Dina
+Dina
+Dina
 Dina 
 Dinangna-Nengne
 Dinaséhatkeun
 Dineneh-Neneh
 Dines
+DInes
+Dines
+Dingding
 Dingding
 Diniatan
 Dinten
+Dinyanaan
 Dinyanaan
 Diobrolkeun
 Diocal-Ocal
@@ -2467,10 +3499,14 @@ Diogan
 Diogo
 Diolo
 diomongkeun
+Diomongkeun
+Diompreng
 Diompreng
 Diongget-Ongget
 Diongkosan
+Diongkosan
 Dionglosan
+Dionslah
 Dionslah
 Dioper
 Dioperasi
@@ -2481,6 +3517,7 @@ Dipacar
 Dipacaran
 Dipacekkeun
 Dipacikeuh
+Dipacikeuh
 Dipacok Oray
 dipadungdengkeun
 Dipadungdungkeun
@@ -2488,6 +3525,7 @@ Dipaeh
 Dipahing
 Dipaitkeun
 Dipalidkeun
+Dipaling
 Dipaling
 Dipangjieunkeun
 Dipangmeulikeun
@@ -2508,14 +3546,17 @@ Diparengkeun
 Dipegeg
 Dipengkolkeun
 Diperban
+Diperban
 Dipertahankeun
 Diperuhkeun
 Diperyogikeun
+Dipiceun
 Dipiceun
 Dipiheulaan
 Dipihormat
 dipikacinta
 Dipikahayang
+Dipikainggis
 Dipikainggis
 Dipindahkeun
 dipingpin
@@ -2525,13 +3566,19 @@ Dipukpruk
 Dipupuhkeun
 Dipupusti
 Dipuragaan
+Dipuragaan
 Dirangke
 Dirasiahkeun
+Dirasiahkeun
 Direpokkeun
+Diri
 Diri
 Dirikip-Rikip
 Diriung-Riung
 Dirogahala
+Dirogahala
+Dirogahala
+Diruksak
 Diruksak
 Dirung
 Disada
@@ -2553,6 +3600,7 @@ Ditangkubkeun
 Ditangtungkeun
 Ditarétés ku
 Ditawis
+Ditawis
 Ditawisan
 Diteangan Ka Mana-Mendi
 Ditembus
@@ -2564,12 +3612,17 @@ Ditu
 Dituturkeun
 Diudag-udag
 Diuger
+Diuger
 Diuk
+Diuk 
 Diuk 
 Diulas
 Diumbar
+Diumbar
+Diundakkeun
 Diundakkeun
 Diundi
+Diunggut-Unggut
 Diunggut-Unggut
 Diungkrah-Angkrih
 Diurugan
@@ -2578,12 +3631,15 @@ Diusap
 Diusap - usap
 Diusar
 Diutek-Utek
+Diutek-Utek
 Diwahwal
 Diwakapkeun
 Diwakcakeun
 Diwalah-Walah
+Diwalah-Walah
 Diwalungkeun
 Diwancahkeun
+Diwati
 Diwati
 Diwayangkeun
 Diwedak 
@@ -2591,50 +3647,67 @@ Diwedak Teu Walatra
 Diweuteuhkeun
 Diwewelkeun
 Diwilah-Wilah
+Diwilah-Wilah
 Diwiru
 Diwuluku
 Diwuwus
 Dkalémoh
 Doang
+Doang
 Dobol
 Dodol
+Dodongkoan
 Dodongkoan
 Dogdog
 Dogèr
 Dogong
 Doif
 Doja
+Doja
 Dokar
 Dolim
 Dolos
 Dom
 Domba
+Domba
 domba bibit unggul
 Domba gede
 Domba gibas
+Dompèt
 Dompèt
 Dompét lépét
 Donca
 Dongdang
 Dongdolèk
 Dongdon
+Dongdon
 Dongeng
+Dongèng
 Dongèng
 Dongeng sasatoan
 Dongèngèng
 Dongkang
 Dongkap
+Dongkap
+Dongko
 Dongko
 Dongkol
 Donto
+Donto
+Donto
+Dora
 Dora
 Doraka
+Doran
 Doran
 Doran 
 Dorong
 Dosa
+Dosa
 Dosol
 Dosol 
+Doyong
+Doyong
 Doyong
 Dramaga
 Dreum
@@ -2653,38 +3726,57 @@ Duduk-dadak
 Dudukuy
 Dudut
 Duga
+Duga
 Dugaan
+Dugal
 Dugal
 Dugdag
 Dugi
+Dugi
+Dugi
+Dugul
+Dugul
 Dugul
 Duhung
 Duit
 Duit Pait
 Duka
+Duka
+Duka
 Duka teuing
 Dukdek
 Dukuh
 Dukun
+Dukun
+Dukung
 Dukung
 Dulag
 Dulang
 Dulu deukeut
 Dulur
+Dulur
 Dulur 
 Dumasar
 Dumèh
+Dumèh
 Dumelah
+Dumeling
 Dumeling
 Dumuk
 Dunga
 Dungduman
 Dungsang
 Dungus
+Dungus
+Dunungan
 Dunungan
 Dunungas
 Dunya
+Dunya
+Dunya
+Dunya
 Dunya barana
+Dupak
 Dupak
 Dur Panjak
 Duratmaka
@@ -2694,15 +3786,20 @@ Duriat
 Durjana
 Durma
 Duruk
+Duruk
 Durukan
 Durung
 Duruwiksa
+Duruwiksa
+Dusun
 Dusun
 Dusun meledug
 Duta
 Duta lalana
 Duum
+Duum
 Duuman
+Duwegan
 Duwegan
 Duwet
 Duyung
@@ -2714,6 +3811,8 @@ Dwiwarna
 Éak-éakan
 Éar
 Ébat
+Ébat
+Ébég
 Ébég
 Ébéi
 Ebi
@@ -2724,7 +3823,10 @@ Ece
 Écéng
 Ecer
 Eces
+Eces
 Écés
+écés
+écés
 écés
 Écét-écét
 Éclok
@@ -2733,15 +3835,21 @@ Eces
 Edan
 Édas
 Édég
+Édég
+Édék
 Édék
 Ee
+EE
 Ééh
 Éélodan
+Égang
 Égang
 Égol
 Ejah
 Éjah
+Éjah
 Éjahan
+Ejegeler
 Ejegeler
 Éjégélér
 Éka
@@ -2752,10 +3860,12 @@ Ekah
 Ekol
 Ékol
 Éksamen
+Éksamen
 Elak-elakan
 Elang
 Elap
 Elas
+Elat
 Elat
 Elay
 Éléd
@@ -2777,6 +3887,7 @@ Elés
 élés
 Elik
 Éling
+Éling
 éling
 Elmu
 Élmu
@@ -2793,19 +3904,31 @@ Elmu pangaweruh
 Elok
 Elol
 Elos
+Elos
 Elot
 Eluk
+Ema
+Ema
+Ema
+Ema
+Ema
 Ema
 Ema aing
 Emah-emih
 Emameun
 Emang
+Emang
+Emas
+Emas
 Emas
 Embah
+Embah
+Emban
 Emban
 Émbar
 Embatan
 Embat-embat
+Embé
 Embé
 Embel
 Embi
@@ -2816,6 +3939,9 @@ Embol
 Embrek
 Embu
 Embun-embunan
+Embun-embunan
+Embung
+Embung
 Embung
 Embus
 Embut
@@ -2826,17 +3952,22 @@ Emi
 Emih
 Eming
 Emoh
+Emoh
+Émok
 Émok
 émok
 émok cabok
 Emoy
 Empah
+Empah
 Empah-empih
 Empal
 Émpang
 émpang
+émpang
 Empéng
 Émpér
+Empés
 Empés
 Empét
 Empét-empétan
@@ -2854,6 +3985,7 @@ Empot-empotan
 Empu
 Empuk
 Emuk
+Emuk
 Emur
 Emut
 Émut
@@ -2867,6 +3999,7 @@ Encép
 Encer
 Éncér
 Encer Uteuk
+Encer uteuk
 Enceuk
 Enceupan
 Encit
@@ -2875,6 +4008,9 @@ Encod
 Éncosan
 Éncrak
 Encréng
+Endah
+Endah
+Endah
 Endah
 Éndah
 éndah
@@ -2896,16 +4032,26 @@ Enéng
 Énéng
 Énéng-énéng
 Engang
+Engang
 Éngang
+Éngang
+Engap-engapan
 Engap-engapan
 Engeuh
 Enggah-enggéh
 Énggal
+Énggal
 énggal
 Enggeus
+Enggeus
+Enggeus
+Enggeus
+Enggon
 Enggon
 Engkang
 Éngkang-éngkang
+Engke
+Engke
 Engke
 Engké
 Éngké
@@ -2915,6 +4061,8 @@ Engkéd-engkédan
 Éngklak-éngklakan
 Éngklok
 Engkol
+Engkol
+Engo
 Engo
 Éngsél
 éngsél
@@ -2923,12 +4071,16 @@ Enin
 Enjar-enjir
 Énjing
 Énjing-énjing
+Énjing-énjing
 Enjot-enjotan
 Enjrah-enjrih
 Enjrih
 Enod
 Enok
 Enol
+Enol
+Enol
+Enon
 Enon
 Enong
 Entak-entakan
@@ -2937,9 +4089,13 @@ Entas
 Entéh
 Entèn
 Enteng
+Enteng
 énteng
 Énténg
+Énténg
 Éntép
+Éntép
+Entèt
 Entèt
 Entèt-entètan
 Entik
@@ -2947,20 +4103,24 @@ Entod leuncang
 Entog
 Éntog
 Entong
+ENtong
 Entrag
 Enung
 Enya
 enya-enya
+Enya-enya
 Enya-enya aya
 Enyah-enya
 Enyay
 Ényéng
 Enyod
 Enyudenyudan 
+Enyudenyudan 
 Éong
 Éong-éongan
 Épék
 Épés méér
+Épok
 Épok
 Era
 Éra
@@ -2968,7 +4128,9 @@ Era
 éraan
 Erak
 Érang-érang
+Érang-érang
 erang-rang
+Erèh
 Erèh
 Érék
 Erel
@@ -2977,10 +4139,13 @@ Erèl
 Erèm
 Erèng
 Érét
+Érét
+Érét
 Érgelék
 Érgulo
 Erim
 érkeras
+Érloji
 Érloji
 Érmas
 Érmasé
@@ -2990,13 +4155,16 @@ Eroh
 Erok
 Erol
 Erong
+Erong
 Éropa
 Eropah
+Eros
 Eros
 Érpérak
 És
 Ésé
 Ese Nangka
+Ésér
 Ésér
 Éspédisi
 Ésprés
@@ -3004,7 +4172,10 @@ Ese Nangka
 Ésti
 Ésto
 Éstu
+Éstu
+Éstu
 Eta
+Éta
 Éta
 Etang
 Étang
@@ -3018,14 +4189,20 @@ Euceuy
 Eucreug
 Eudeug
 Eueuriheum 
+Eueuriheum 
 Eueuriheun
+Eueut
 Eueut
 Eugeuh
 Euih-euih
 Eujeung
 Euker
 Eukeur
+Eukeur
+Eukeur
+Eukeur
 Euleugeug
+Euleuh
 Euleuh
 Euleum
 Euleum-euleum
@@ -3033,22 +4210,33 @@ Euleup-euleup
 Eulis
 Eumeul-eumeul
 Eumeur
+Eumeur
 Eumping
 Eundan
 Eundèuk
 Eundeuk-eundeukan
 Eundeur
+Eundeur
+Eungap
+Eungap
 Eungap
 Eungkeut-eungkeut
 Eungkeuy
 Eunjeun
 Eunteung
+Eunteung
 Eunteup
+Eunteup
+Eunteup
+Eunteup
+Euntreup
 Euntreup
 Eunyeuh
 Eupan
+Eupan
 Eurad
 Euraeun
+Eureun
 Eureun
 Eureun perang
 Eureun sakadepan
@@ -3056,7 +4244,14 @@ Eureun-eureunan
 Eureup-eureup
 Eureur 
 Eurih
+Eurih
+Eurih
+Eurih
 Eurih-euriheun
+Eusi
+Eusi
+Eusi
+Eusi
 Eusi
 Eusian
 Eusing
@@ -3066,12 +4261,18 @@ Euti-euti
 Eutik
 Euwah-euwah
 Euweuh
+Euweuh
+Euweuh
 Euweuh duana
 Euweuh hartina
+Euweuh kawani
 Euweuh kawani
 Euy
 Euyah-euyahan
 Euyeub
+Euyeub
+Euyeub
+Ewar-ewur
 Ewar-ewur
 Éwateun
 Éwé
@@ -3082,9 +4283,11 @@ Ewir
 Éwuh
 Eyang
 Éyang
+Éyang
 Éyong
 Foya-foya
 Gaaleun
+Gaang
 Gaang
 Gabah
 Gabèl
@@ -3093,10 +4296,13 @@ Gableg
 Gabres
 Gabrug
 Gabug
+Gabug
 Gabus
 Gacar
 Gacel
 Gacoan
+Gacong
+Gacong
 Gacong
 Gada
 Gadabah
@@ -3105,7 +4311,9 @@ Gadang
 Gade
 Gadè
 Gadèmol
+Gadèmol
 Gadil
+Gading
 Gading
 Gadis
 Gado
@@ -3114,7 +4322,11 @@ Gado-gado
 Gaduh
 Gadung
 Gaga
+Gaga
 Gagabah
+Gagah
+Gagah
+Gagah
 Gagah
 Gagaikan
 Gagajah
@@ -3122,24 +4334,41 @@ Gagajahan
 Gagajaheun
 Gagak
 Gagal
+Gagal
+Gagal
 Gagal 
 Gagala
 Gagalacangan
 Gagalapakan
+Gagalapakan
+Gagalapakan
 Gagalur
 Gagaman
 Gagancangan
+Gagancangan
+Gagancangan
+Gagancangan
+Gagancangan
+Gagancangan
 Gagandèn
 Gagang
+Gagang
+Gagang
+Gagang
+Gagang
+Gaganti
 Gaganti
 Gaganting
 Gagaoran
 Gagarabah
+Gagarabah
 Gagaraèn
+Gagarinjulan 
 Gagarinjulan 
 Gagaro
 Gagas
 Gahar
+Gahèl
 Gahèl
 Gahgal
 Gahil
@@ -3148,20 +4377,31 @@ Gaik
 Gajah
 Sireum
 Gajih
+Gajih
+Gajih
+Gajih
+Gajih
 Gajing
 Gajleng
 Gajlig
+Gakang
 Gakang
 Gakgak
 Galabag
 Galacang
 Galagat
+Galagat
+Galak
+Galak
+Galak
 Galak
 Galaksak
 Galantang
 Galapak
 Galar
+Galar
 Galasar
+Galatik
 Galatik
 Galatik 
 Galayah
@@ -3169,9 +4409,12 @@ Galécok
 Galègèh
 Galéndo
 Galengan
+Galengan
 Galèntor
 Galèong
 Galeuh
+Galeuh
+Galib
 Galib
 Galih
 Galing
@@ -3180,6 +4423,7 @@ Galing muntang
 Galinggem
 Galingging 
 Galo
+Galo
 Galuang-galèong
 Galudeur
 Galudra
@@ -3187,6 +4431,11 @@ Galudra
 Galuh
 Galungan
 Galur
+Galur
+Galur
+Galura
+Galura
+Galura
 Galura
 Gamah
 Gambang
@@ -3197,14 +4446,19 @@ Gamblang
 Gamblok
 Gamblung
 Gambos
+Gambos
 Gambrang
 Gambréng
 Gambuh
+Gambuh
+Gambuhang
 Gambuhang
 Gambus
 Gamelan
 Gamlok
 Gampang
+Gampang
+Gamparan
 Gamparan
 Gampil
 Gamping
@@ -3212,33 +4466,64 @@ Gampleng
 Gamuleng
 Gan
 Ganas
+Ganas
+Ganas
 Gancang
+Gancang
+Gancang
+Gancang
+Gancang
+gancang
 Gancang pisan
 Ganda
+Ganda
+Gandang
 Gandang
 Gandapura
+Gandar
 Gandar
 Gandarawo
 Gandaria
 Gandarusa
 Gandasoli
 Gandawesi
+Gandawesi
+Gandawesi
 Gandék
+Gandeng
+Gandeng
+Gandeng
 Gandeng
 Gandéng
 Gandeng 
+Gandeng pisan
 Gandeng pisan
 Gandes
 Gandik
 Gandok
 Gandola
 Gandong
+Gandong
+Gandong
+Gandrung
+Gandrung
 Gandrung
 Gandu
 Ganduan
 Gandul
 Gandum
+Gandum
 Gang
+Gang
+Gang
+Gangas
+Gangas
+Gangas
+Gangas
+Gangas
+Gangas
+Gangas
+Gangas
 Gangas
 Ganggam
 Ganggarangan
@@ -3246,6 +4531,7 @@ Ganggayong
 Ganggeng
 Ganggerong
 Ganggong
+Ganggu
 Ganggu
 Gangsa
 Gangsal
@@ -3258,10 +4544,14 @@ Ganjel
 Ganjil
 Ganjor
 Gantang
+Gantang
 Gantar
 Gantar nu tungtungna nyagak
 Gantawang
 Gantél
+Ganti
+Ganti
+Ganti
 Ganti
 Gantung
 Gantung déngé
@@ -3272,7 +4562,12 @@ Gaok
 Gaor
 Gap
 Gaplah
+Gaplah
 Gaplok
+Gaplok
+Gapura
+Gapura
+Gapura
 Gapura
 Gapuy
 Garabah
@@ -3281,18 +4576,25 @@ Garalang
 Garang
 Garanggang
 Garap
+Garap
+Garapak 
 Garapak 
 Garapyak
+Garawagan
 Garawagan
 Garayam
 Garba
 Gardéng
+Garduh
+Garduh
 Garduh
 Gareba
 Garécok
 Gareget
 Garéja
 Gares
+Gares
+Gareuwah
 Gareuwah
 Garewel
 Garéwol
@@ -3301,15 +4603,20 @@ Garidus
 Garigol
 Garihal
 Garing
+Garing
+Garing
 Garintul
+Garis
 Garis
 Garit
 Garnat
+Garo
 Garo
 Garo Maling
 Garogenyeng
 Garogonjakan
 Garogot
+Garok
 Garok
 Garokgék
 Garong
@@ -3318,6 +4625,7 @@ Garu
 Garuda ngupuk
 Garung
 Garwa
+Gas
 Gas
 Gasab
 Gasik
@@ -3329,21 +4637,29 @@ Gati
 Gatul
 Gauk
 Gaul
+Gaul
 Gaur
+Gaur
+Gawang
 Gawang
 Gawat
 Gawawak
 Gawé
+Gawé
 Gawékeuneun
 Gawil
+Gawing
 Gawing
 Gawir
 Gawok
 Gayabag
 Gayem
 Gayer
+Gayer
 Gayong
 Gayot
+Gayot
+Gayuh
 Gayuh
 Gayun
 Gayung
@@ -3372,6 +4688,7 @@ Gebos
 Gebot
 Géboy
 Gebrag
+Gebrag
 Gebras-gebris
 Gebreg
 Gebrét
@@ -3380,22 +4697,34 @@ Gebru
 Gebrug
 Gebrus
 Gebug
+Gebug
+Gebug
+Gebug
 Gebut
 Gebyar
 Gebyog
 Gécéh
+Gecek
 Gecek
 Gedag
 Gédag
 Gedah
 Gedang
 Gede
+Gede
+Gedé
 Gedé
 Gede Ambek
+Gede ambek
 Gede bohong
 Gedé hampura 
 Gede hate
 Gedé haté
+Gedé haté
+Gede hulu
+Gede hulu
+Gede hulu
+Gede hulu
 Gede hulu
 Gedé hulu
 Gede Meueusan
@@ -3407,6 +4736,8 @@ Gede tanaga
 Gede wawanen
 Gedebug
 Gedebul
+Gedebul
+Gedeg
 Gedeg
 Gedég
 Gedek
@@ -3416,6 +4747,9 @@ Geder
 Gedig
 Gédog
 Gedogan
+Gedogan
+Gedong
+Gedong
 Gedong
 Gedongan
 Gedor
@@ -3427,6 +4761,8 @@ Gégébés
 Gegedean
 Gegeden
 Gegedén
+Gegedén
+Gegedoh
 Gegedoh
 Gegedug
 Gegek
@@ -3434,23 +4770,31 @@ Gegel
 Gégél
 Gegel 
 Gegelendeng
+Gegelendeng
+gegelendeng
+gegelendeng
 Gegelu
 Gegem
+Gegembléng
 Gegembléng
 Gegemblong
 Gegendir
 Gegep
+Gégép
 Gégép
 Gegeplak
 Gegepokan
 Gégéréntélan
 Gegeroan
 Geget
+Geget
 Gegetuk
+Gegetun
 Gegetun
 Géhéng
 Gehger
 Géhgér
+Géhgéran
 Géhgéran
 Gejebar-gejebur
 Gejed
@@ -3463,15 +4807,22 @@ Gelak-gelik
 Gelang
 Gélang
 Gelap
+Gelap
+Gelap
+Gelap
 Gelar
 Gelar ka dunya
 Gelar pustaka
+Gelar pustaka
+Gelas
 Gelas
 Geleber
 Gelebug
 Geledeg
+Geledeg
 Geledegan
 Geledug
+Geleger
 Geleger
 Geleger  
 Gelek
@@ -3483,67 +4834,99 @@ Gelendrung
 Gelendut
 Geleng
 Géléng
+Géléng
 Gelenggeng
 Géléntor
+Gélényé
 Gélényé
 Gelenyu
 Geleser
 Geletek
 Geletruk
 Geletuk
+Geletuk
 Gelewéh
 Geleyer
 Gelo
+Gelo
+Gelo
+Gelo
+Gélo
 Gélo
 Gelong
 Gelor
 Gelung
+Gelung
 Gelut
+Gelut
+Gelut campuh
 Gelut campuh
 Gemah
 Gémbang
 Gembés
 Gembleng
+Gembleng
 Gembléng
+Gemblong
 Gemblong
 Gémbol
 Gembor
 Gembréng
 Gembrong
 Gembrot
+Gembrot
+Gembul
+Gembul
 Gembul
 Gemes
+Gemes
+Gemes
 Gemet
+Gemet
+Gemi
 Gemi
 Gempar
 Gempél
 Gempeng
 Gémplék
 Gempol
+Gempol
 Gémpor
+Gempungan
 Gempungan
 Gempur
 Gemuk
+Gemuk
+Gemuk
+Genah
+Genah
 Genah
 Gencay
+Gencét
 Gencét
 Genclang
 Génclék
 Gendam
+Gendam
 Géndang
+Gendeng
 Gendeng
 Gendéng
 Géndéng 
 Gendér
 Gending
+Gending
 Gending karesmén
 Géndoy
 Genduk
+Gendut
+Gendut
 Gendut
 Genep
 Genep puluh
 Genepan
 Génggéhék
+Genggem
 Genggem
 Genggerong
 Génggong
@@ -3552,6 +4935,7 @@ Geni
 genit
 Génjah
 Genjer
+Genjer
 Génjér
 Génjlong
 Genjréng
@@ -3559,13 +4943,19 @@ Genjring
 Genjur
 Genta
 Gentak
+Gentak
 Géntél kéak
 Genténg
 Genter
+Genter
+Gentong
+Gentong
 Gentong
 Gentor
 Géntor
 Gentos
+Gentos
+Gentra
 Gentra
 Genyas
 Genyeng
@@ -3574,6 +4964,7 @@ Geol
 Gep
 Gepek
 Gepeng
+Gepeng
 Gepéng
 Geplak
 Gepok
@@ -3581,24 +4972,32 @@ Gépor
 Geprak
 Gepuk
 Gepyak
+Gepyak
 Ger
 Gerah
 Gerak
+Gerak
+Gerak badan
 Gerak badan
 Gerbang gapura
 Gerbong
 Géré
 Gerebeg
+Gerebeg
 Gerebong
 Gérécék
+Gérédél
 Gérédél
 Geregel
 Geregeseun
 Gereges-gedebug
 Gereget
+Gereget
 Geregeteun
 Gerejud
 Géréléng
+Gerem
+Gerem
 Gerem
 Gerembel
 Geremet
@@ -3606,11 +5005,14 @@ Gerendeng
 Gerendung
 Géréntél
 Gerentes
+Gerentes
+Gerentes
 Gerenyih
 Gérésél
 Geret
 Gerét
 Geretak
+Géréwék
 Géréwék
 Gerewong
 Gereyek
@@ -3622,14 +5024,17 @@ Geringan
 Gerip
 Gerit
 Germo
+Germo
 Gero
 Géroh
 Gerokeun
 Gerot
 Geruh
+Geruh
 Gerus
 Gésah
 Gesat-gesut
+Géséh
 Géséh
 Gesek
 Geseng
@@ -3638,7 +5043,9 @@ Gésoh
 Gesrek
 Gésrek
 Getak
+Getak
 Getas
+Getas harupateun
 Getas harupateun
 Getek
 Géték
@@ -3646,10 +5053,14 @@ Getem
 Getén
 Getén tulatén
 Geter
+Geter
+Geter
 Getih
 Getih lalambaran
 Getihan
 Getok
+Getol
+Getol
 Getol
 Gétreéng
 Getrik
@@ -3664,33 +5075,47 @@ Geugeulis panon
 Geugeumeuun
 Geugeus
 Geugeut
+Geugeut
 Geugeuwatan
 Geugeuy
 Geuhgeuy
 Geuing
 Geulang
 Geuleuh
+Geuleuh
+Geulis
+Geulis
+Geulis
+Geulis
 Geulis
 Geulis kawanti-wanti
+Geumeu
 Geumeu
 Geumpeur
 Geuneuk
 Geuneuk 
+Geuneuk 
 Geuning
 Geunjleung
+Geunjleung
+Geunteul
 Geunteul
 Geunyal
 Geura
 Geureuh
 Geureuha
+Geureuha
 Geureung
 Geuri
+Geus
+Geus
 Geus
 Geus biasa
 Geus deukeut
 Geus déwasa
 Geus Dinawaetuan
 Geus heubeul
+Geus kaliwat
 Geus kaliwat
 Geus Kapesakan
 Geus Karasa Pait Peuheurna
@@ -3702,11 +5127,14 @@ Geus taya dikieuna
 Geus Taya Hojah
 Geus Tepi Kana Ugana
 Geusan
+Geusan
 Geusan pakumaha
 Geusan Ulun
 Geutah
+Geutah
 Geutah damar nungabatu
 Geutrak
+Geuwat
 Geuwat
 Geuwet
 Geuweung
@@ -3719,11 +5147,15 @@ Géyé
 Geyer
 Géyot
 Giak
+Giak
 Gibas
 Gibeg
 Gibleg
+Gibleg
+Gibleg
 Gibrig
 Gicel
+Gideug
 Gideug
 Gidig
 Gidir
@@ -3733,11 +5165,15 @@ Gigili
 Gigindingan
 Giginjel
 Gigir
+Gigir
+Gigir
 Gigireun
 Gigis
 Gikgik
 Gila
+Gila
 Gilang
+Gilang-gumilang
 Gilang-gumilang
 Gilap
 Gilek
@@ -3747,20 +5183,31 @@ Gilig
 Gili-gili
 Gilincing
 Gilinding
+Gilinding
+Giling
 Giling
 Gilir
+Giliran
 Giliran
 Gilisir
 Gimbal
 Gimbreung
 Gimbung
 Gimir
+Gimir
+Gimir
+Gimir
 Gimling-gamlang
+Gincu
 Gincu
 Ginding
 Ginggang
+Ginggang
 Ginggiapeun
 Gingsir
+Gingsir
+Ginjel
+Ginjel
 Ginjel
 Gintir
 Gintiran
@@ -3771,17 +5218,23 @@ Girap
 Giras
 Giri
 Giribig
+Giribig
 Giridig
 Girik
 Girilaya
 Giriming
 Girimis
+Girimis
+Girimis
+Giring
 Giring
 Giringsing
 Girinyih
 Giris
+Giris
 Giriwil
 Giru
+Giruk
 Giruk
 Gitek
 Gitik
@@ -3795,21 +5248,31 @@ Giyet
 Goah
 Goak
 Gobang
+Gobang
 Gobéd
+Goblog
+Goblog
 Goblog
 Gobrah
 Gobrah 
 Gobroh
 Gocékan
+Gocékan
+Goci
 Goci
 Goco
 Goda
 Godeg
 Godég
+Godég
 Godeg 
+Godeg 
+Godog
 Godog
 Godong
 Gogoda
+Gogog
+Gogog
 Gogog
 Gogol
 Gogolehean
@@ -3819,8 +5282,10 @@ Gogonjakan
 Gogonjokan
 Gogorontong
 Gohgor
+Gohgor
 Gohgoy
 Goib
+Gojéh
 Gojéh
 Gojod
 Gok
@@ -3838,37 +5303,50 @@ Golétrak
 Golodog
 Golokgok
 golondongan
+Golondongan
+Golondongan
 Golong
 Golongan
 Golontor
 Goloyoh
+goloyoh
 Goloyor
 Gombong
 Gombrang
 Goméng
 Gomplok
+Gomplok
 Gondang
+Gondéng
+Gondéng
 Gondéng
 Gondewa
 Gondéwa
 Gondok
 Gondok laki
 Gondongeun
+Gondongeun
+Gondongeun
 Gonggorékan
 Gongong
 Gongséng
+Gongséng
 Goni
+Gonimah
 Gonimah
 Gonjak
 Gonjrang
 Gontowong
 Gonyok
 Goong
+Goong
 Goprak
 Gorah
 Goréhél
 Goréjag
 Goreng
+Goreng
+Goréng
 Goréng
 Goreng Patut
 Goreng sangka
@@ -3876,6 +5354,7 @@ Goreng Ules
 Goréngan
 Gorényang
 Gorgar
+Gorobag
 Gorobag
 Gorobas
 Goroh
@@ -3885,6 +5364,9 @@ Gorolong
 Gorombolan
 Goronggong
 Gorowok
+Gorowok
+Gorowok
+Gorowong
 Gorowong
 Gosali
 Gosok
@@ -3895,9 +5377,11 @@ Gowéng
 Gowok
 Gowowok
 Goyang
+Goyang
 Goyobod
 Goyor
 Goyot
+Guam
 Guam
 Guar
 Gubah
@@ -3905,12 +5389,15 @@ Gubernur manten
 Gubrag
 Gubrug
 Gubug
+Gubug
 Guci
 Gudad-gadeud
 Gudad-gadod
 Gudad-gudeud
 Gudang
+Gudang
 Gudar-gedor
+Gudawang
 Gudawang
 Gudug
 Gugah
@@ -3928,7 +5415,10 @@ Gugundulan
 Guguntayangan
 Guguntur
 Gugunungan
+Gugunungan
 Gugunungan 
+Gugup
+Gugup
 Gugup
 Gugupay
 Gugur
@@ -3939,9 +5429,12 @@ Guguru
 Guguruntulan
 Guguruntulan  
 Gugus
+Gugus
 Gugusi
 Guguyon
+Guguyon
 Guguyon 
+Guha
 Guha
 Guher
 Guhira
@@ -3968,15 +5461,25 @@ Gular-Giler
 Gule
 Gulet
 Guley
+Guley
 Gulidag
 Guligah
+Guligah
+Guligah
+Guligah
+Guligah
+Guligah 
 Guligah 
 Guliksek
+Guling
 Guling
 Gulinggasahan
 Gulinting
 Gulipak
 Gulubur
+Guludug
+Guludug
+Guludug
 Guludug
 Gulung
 Gulung layar
@@ -3985,31 +5488,48 @@ Guluntung
 Gulusur
 Gulutuk
 Guluyur
+Guluyur
 Gumantung
 Gumasép
 Gumasep 
 Gumati
 Gumbira
+Gumbira
+Gumbira
+Gumbira
+Gumbira
+Gumbira
 Gumedé
 Guménak
 Gumeulis
+Gumeulis
 Gumeulis 
+Gumilang
 Gumilang
 Gumpluk
 Gumujeng
+Gumujeng
 Gumusti
+Guna
+Guna
+Guna
 Guna
 Gunasika
 Gunawijaya
 Guncang
 Gunclo
 Gundal
+Gundal
+Gundam
+Gundam
 Gundam
 Gundik
 Gundil
 Gundu
 Gunduk
 Gundukan
+Gundukan
+Gundul
 Gundul
 Gunem
 Guneman
@@ -4017,6 +5537,7 @@ Gunem-catur
 Gung
 Gunggé
 Gunggung
+Gunggurung
 Gunggurung
 Gunta-ganti
 Guntang-gantung
@@ -4026,17 +5547,25 @@ Gunting
 Guntreng
 Guntur
 Gunung
+Gunung
 Gunyeng
 Gupay
+Gupay
+Gupernur
 Gupernur
 Gupit
 Gupu
 Gupuy-gapay
 Gur
 Gura-giru
+Gura-giru
+Gura-giru
+Gura-giru
 Guramé
 Gurangséng
 Guranyih
+Gurat
+Gurat
 Gurat
 Gurat batu
 Gurat cai
@@ -4049,10 +5578,17 @@ Gurawil
 Gurayang
 Guriang
 Gurih
+Gurih
 Gurilap
+Gurinda
+Gurinda
+Gurinda
+Gurinda
+Gurinda
 Gurinda
 Gurinjal
 Gurit
+Gurita
 Gurita
 Gurnita
 Guru
@@ -4066,6 +5602,9 @@ Gurumut
 Gurunggusuh
 Guruntak
 Guruntul
+Guruntul
+Guruntul
+Guruntul
 Gusar
 Gusruk
 Gusti
@@ -4076,7 +5615,11 @@ Guyah
 Guyang
 Guyon
 Guyub
+Guyub
 Guyur
+Guyur
+Guyur
+Haat
 Haat
 Habek
 Haben
@@ -4084,6 +5627,10 @@ Habibur
 Hadam
 Hadas
 Hade
+Hade
+Hade
+Hade
+Hadé
 Hadé
 Hade budi
 Hadé budi
@@ -4096,6 +5643,11 @@ Hade Ulat
 Hadena
 Hadi
 Hadiah
+Hadiah
+Hadiah
+Hadiah
+hadiah
+Hadis
 Hadis
 Hadro
 Haeut
@@ -4109,9 +5661,13 @@ Hahambalan
 Hahapaan
 Haharewosan
 Hahayaman
+Hahayaman
 Hahéhoh
 Haja
 Hajar
+Hajat
+Hajat
+Hajat
 Hajat
 Hajat kiparat
 Hajeli
@@ -4124,52 +5680,85 @@ Hakekat
 Haksama
 Haksami
 Hal
+Hal
+Hal
 Hal anu ngotoran
 Halabhab
+Halabhab
+Halabhab
+Halahab
 Halahab
 Halal
 Halang
+Halang
+Halang
+Halangan
+Halangan
 Halangan
 Halangan harungan
 Halay
 Haler-haler
 Haleuang
 Haleungheum
+Haleungheum
 Haliah
 Haliah dunya
 Haliber
+Halik
 Halik
 Halimpu
 Halimun
 Halimunan
 Halipah
 Halis
+Halis
 Haliwawar
 Haliwu
 Halodo
+Halodo
+Halodo
 Haloghog
 Halon
+Halon
+Halon
 Halu
+Halu
+Halu
+Halwat
 Halwat
 Hama
 Hama Wereng
 Hamba sahaya
 Hambal
 Hambar
+Hambar
+Hambar
+Hambar
 Hambaro
 Hambérang
 Hamérang
 Hamham
+Hamham
+Hamin
+Hamin
 Hamin
 Hamo
+Hamo
+Hamo
+Hampang
 Hampang
 Hampang leungeun
 Hampas
+Hampas
+Hampelas
 Hampelas
 Hamperu
 Hampos
+Hampos
 Hampura
 Hana
+Hanaang
+Hanaang
 Hanaang
 Hanas
 Hanca
@@ -4177,6 +5766,8 @@ Hancang
 Hancéng
 Hancengan
 Hancér
+Handap
+Handap
 Handap
 Handap asor
 Handap lanyap
@@ -4186,11 +5777,15 @@ Handeuel
 Handeueul
 Handeuleum
 Haneut
+Haneut
+Haneut
 Haneut kuku
 Haneut moyan
 Haneuteun
 Hanggasa
 Hanggru
+Hangit
+Hangit
 Hangit
 Hangkeut
 Hangru
@@ -4203,14 +5798,24 @@ Hanjelu
 Hanju
 Hanjuang
 Hantem
+Hantem
 Hanteu
 Hantung
 Hanyir
+Hanyir
+Hanyir
+Haok
 Haok
 Hapa
+Hapa
+Hapa
+Hapa
+Hapé
 Hapé
 Hapeuk
+Hapeuk
 Haphap
+Hapit
 Hapit
 Hapunten
 Hapur
@@ -4218,18 +5823,24 @@ Haputen
 Haragem
 Hara-haraeun
 Harak
+Harak
 Haram
 Haramay
 Harangasu
 Haranggasu
 Haransi
 Haratis
+Haratis
 Harayhay
+Harééng
 Harééng
 Haregem
 Haregung
 Haré-haré
+Haré-haré
 Harelung
+Harelung
+Haremis
 Haremis
 Haremis 
 Harémpoy
@@ -4237,31 +5848,50 @@ Harendeng
 Haréndong
 Hareneg
 Harengheng
+Harengheng
 Harénghéng
+Harénghéng
+Harénghéng
+Harep
+Harep
+Harep
 Harep
 Harepan
 Hareudang
+Hareudang
 Hareugeueun
+Hareup
+Hareup
 Hareup
 Hareupeun
 Hareureuy
 Harewos
 Harga
+Harga
 Harga Pasar
 Harga Pasti
 Hari
+Harianeun
 Harianeun
 Hariang
 Harib-harib
 Harieum
 Harigu
 Harimumu
+Harimumu
 Haringhang
+Haringhang
+Haripeut ku teuteureuyeun
 Haripeut ku teuteureuyeun
 Hariraya
 Hariring
+Hariring
+Hariring
 Hariringan
 Harita
+Hariwang
+Hariwang
+Hariwang
 Hariwang
 Hariwangan
 Hariweusweus
@@ -4269,8 +5899,11 @@ Harja
 Harkat
 Harmonis
 Haroong
+Haroong
 Haropak
 Haroshos
+Harta
+Harta
 Harta
 Harta banda
 Harta rampasan perang
@@ -4284,33 +5917,55 @@ Haruhah-haréhoh
 Harungan
 Harung-gampung
 Harupat
+Harupat
+Harus
 Harus
 Has
+Haseum
+Haseum
+Haseum
 Haseum
 Haseum budi
 Haseup
 Hasiat
 Hasil
+Hasil
 Hasil nyampur
+Hasud
 Hasud
 Hatam
 Hate
 Haté
+Haté
+Hateup
 Hateup
 Hateup eurih
 Hati jero hate
 Hatulistiwa
 Hatur
 Haturan
+Haturan
+Haturan
+Haur
+Haur
 Haur
 Haur koneng
+Hawa
+Hawa
+Hawa
 Hawa
 Hawara
 Hawar-hawar
 Hawatir
 Hawatos
 Hawek
+Hawek
+Hawek
+Hawek
 Hawu
+Hawu
+Hawu
+Hawuk
 Hawuk
 Hayal
 Hayam
@@ -4328,10 +5983,15 @@ Hayam Pacundang
 Hayam Pelung
 Hayan Camani
 Hayang
+Hayang
+Hayang
+Hayang
+Hayang
 Hayang pisan
 Hayat
 Hayawan
 Hayoh
+Hayu
 Hayu
 Hayua
 Hé
@@ -4340,12 +6000,14 @@ Héar
 Héas
 Hebat
 Hébat
+Hébat
 Hébos
 Hed
 Heeh
 Héés
 Hégak
 Hegar
+Hégar
 Hégar
 Héhéotan
 Hejo
@@ -4359,11 +6021,17 @@ Helang
 Helar
 Hélar
 Helaran
+Helaran
 Hélaran
 Helok
+Helok
+Helok
+Hélok
+Hélok
 Hélok
 Heluk
 Heman
+Héman
 Héman
 Hemar-hemir
 Hémbos
@@ -4373,11 +6041,17 @@ Hempék
 Henam
 Héndang
 Heneg
+Heneg
 Hénén
+Hénén
+Heneng
 Heneng
 Hénggoy
 Héngkér
+Héngkér
 Hening
+Hening
+Henteu
 Henteu
 Henteu sakaligus
 Héot
@@ -4386,24 +6060,41 @@ Heran
 Héran
 Heran 
 Herang
+Herang
+Herang
 Hérang
 Herang 
+Hereng
 Hereng
 Hereuy
 Héro
 Héroy
 Hese
+Hese
+Hésé
+Hésé
+Hésé
+Hésé
 Hésé
 Hésé béléké
 Hetib
+Hetib
 Heuay
+Heuay
+Heubeul
 Heubeul
 Heucak
 Heueuh
+Heueuh
+Heueuh
+Heueuh
 Heueuh-heueuh bueuk
 Heug
+Heug
+Heujeun
 Heujeun
 Heula
+Heulang
 Heulang
 Heulay
 Heuleung
@@ -4417,19 +6108,36 @@ Heumpik
 Heunceut
 Heurap
 Heuras
+Heuras
+Heuras
+Heuras
+Heuras
 Heureut
 Heureut Pakeun
 Heureuy
+Heureuy
+Heureuy
+Heureuy
+Heureuy
+Heureuy
+Heureuy
+Heurin
 Heurin
 Heurin Usik
+Heuyeuk
 Heuyeuk
 Héwag
 Héwan
 Hiam
 Hianat
+Hianat
+Hianat
+Hianat
 Hiang
 Hiap
 Hias
+Hias
+Hibar
 Hibar
 Hibas
 Hibat
@@ -4438,21 +6146,28 @@ Hibut
 Hidayat
 Hideng
 Hidep
+Hidep
 Hideung
 Hideung cakeutreuk
+Hideung lestreng
 Hideung lestreng
 Hideung Meles
 Hideung santen
 Hiem
 Hieum
+Hieum
 Hihid
 Hijab
+Hiji
 Hiji
 Hiji hal
 Hiji-hijieun
 Hijrah
 Hikayat
+Hikayat
 Hikmat
+Hikmat
+Hilang
 Hilang
 Hilap
 Hileud
@@ -4460,10 +6175,18 @@ Hileudan
 Hileudeun
 Hili
 Hilir
+Hilir
 Hilir-Mudik
+Hilir-Mudik
+Hilir-Mudik
+Hiliwir
 Hiliwir
 Himar
 Himel
+Hina
+Hina
+Hina
+Hina
 Hina
 Hina pisan
 Hindesan
@@ -4474,19 +6197,28 @@ Hinis
 Hintul
 Hinyay
 Hipu
+Hipu
+Hipu
+Hipu
+Hipu
 Hiras
 Hiri
 Hiri dengki
 Hiris
+Hirup
 Hirup
 Hirup Dinuhun Paeh Dirampes
 Hirup Mewah
 Hirup Teu Neut Paeh Teu Hos
 Hitam pekat
 Hitar
+Hitar
+Hitut
+Hitut
 Hitut
 Hiu
 Hiuk
+Hiung
 Hiung
 Hodhod
 Hoe
@@ -4494,20 +6226,36 @@ Hoe Omas
 Hoghag
 Hohoak
 Hojah
+Hojah
+Hojah
+Hojah
 Hol
 Hompét
 Honcéwang
+Honcéwang
+Honcéwang
+Honcéwang
+Honeng
+Honeng
 Honeng
 Honjé
+Honjé
+Honor
 Honor
 Hontal
 Hook
 Hookeun
 Hordeng
 Hordéng
+Hordéng
 Hoream
 Horéam
+Horéam
+Horéam
 Horéng
+Hormat
+Hormat
+Hormat
 Hormat
 Hos
 Hoshosan
@@ -4515,26 +6263,37 @@ Hotbabh
 Hothat
 Hotib
 Hoyong
+Hoyong
+Hoyong
 Hua
 Hual
 Huap
 Hucup
+Hudang
 Hudang
 Hudang 
 Hudang ngajuru
 Hudang saré
 Hudang tuluy nangtung
 Huhujanan
+Huhujanan
+Hui
 Hui
 Hui hiris
 Huis
+Huis
+Huis
+Huis
 Huit
+Hujan
 Hujan
 Hujan cipanon
 Hujan ngagebret
 Hujan ngaririncik
 Hujan ngeprul
+Hujan ngeprul
 Hujan Ngepruy
+Hujan poyan
 Hujan poyan
 Hujaneun
 Hukum
@@ -4546,12 +6305,21 @@ Huleng
 Hulu
 Hulu angen
 Huma
+Huma
+Humandeuar
 Humandeuar
 Humaregung
+Humarurung
+Humarurung
+Humarurung
+Humarurung
+Humarurung
 Humarurung
 Humaseum
 Humayua
 Humbut
+Huni
+Huni
 Huni
 Hunis
 Hunted
@@ -4568,12 +6336,21 @@ Huru
 Hurun
 Hurung
 Hurung - herang 
+Hurung - herang 
 Hurung Burahay
+Hurung mancur
 Hurung mancur
 Hurung-hérang
 Hurup
+Hurup
+Hurup
+Hurup
 Hus-hos
 Husu
+Husu
+Husu
+Husu
+Husus
 Husus
 Hutan babon
 Hutan belantara
@@ -4586,7 +6363,11 @@ Iantna
 Iasa
 Iatna
 Ibadah
+Ibadah
 Ibak
+Ibarat
+Ibarat
+Ibarat
 Ibarat
 Ibarat 
 Iber
@@ -4596,7 +6377,13 @@ Cisusu indung
 Ibu paré
 Ibun
 Ibur
+Ibur
+Ibur
+Ibur
+Ibur
 Ibu-rama
+Ical
+Ical
 Ical
 Iceus
 Icikibung
@@ -4609,17 +6396,26 @@ Idek-liker
 Idem
 Idep
 Ider
+Ider
 Ider-ideran
 Idin
 Idu
 Ieu
+Ieu
+Iga
+Iga
 Iga
 Igama
 Igel
 Igeug
 Igeug-igeug
 Ihlas
+Ihlas
+Ihlas
 Ihtiar
+Ihtiar
+Ihtiar
+Ihwal
 Ihwal
 Ihwan
 Iinditan
@@ -4635,14 +6431,21 @@ Iker
 Iket
 Iketan omongan
 Iklan
+Iklan
+Iklas
 Iklas
 Iklim
 Ikrar
 Ilahar
+Ilahar
 Ilaing
 Ilalang tegal eurih
 Ilang
+Ilang
+Ilang
+Ilang
 Ilapat
+Ilat
 Ilat
 Ileng
 Iler
@@ -4653,16 +6456,24 @@ Ilo
 Ilok
 Ilu
 Ilubiung
+Ilubiung
+Ilubiung
+Ilubiung
+Imah
 Imah
 Imah 
 Imah jompo
 Imah langab
 Imah Panggung
 Imah-imah
+Imah-imah
+Imam
 Imam
 Imam Maliki
 Iman
 Imbang
+Imbang
+Imbit
 Imbit
 Imeut
 Impas
@@ -4671,14 +6482,21 @@ Impén
 Impi
 Impleng
 Implengan
+Implengan
 Implengan 
+Implik-implik
 Implik-implik
 Impun
 Impung
+Impung
+Imut
 Imut
 Imut kanjut
 Imut ngagelenyu
+Imut ngagelenyu
 Inang
+Inang
+Inang-inang
 Inang-inang
 Incah
 Incer
@@ -4687,19 +6505,28 @@ Incu
 Indah
 Indang
 Indit
+Indit
+Indit
+Indit
 Indit mantén
 Indit sirib sadesa
 Indit-inditan
 Indra
 Indrasuta
 Indung
+Indung
+Indung
 Indung 
+Indung 
+Indung beurang
 Indung beurang
 Indung késang
 Indung leungeun
 Indung peuting
 Indung pulung
+Indung pulung
 Indung teges
+Indung-bapa
 Indung-bapa
 Industri
 Ing
@@ -4708,38 +6535,58 @@ Inger
 Inger-inger
 Inget
 Inget baé
+Inget baé
+Ingetan
 Ingetan
 Inget-inget poho
+Inget-inget poho
+Inggeung
 Inggeung
 Inggis
+Inggis
+Ingguk
 Ingguk
 Inghak
+Inghak
+Ingkab
 Ingkab
 Ingkah
 Ingkang
 Ingkar
+Ingkar
+Ingkar
 Ingked
 Ingkeun
 Ingkig
+Ingkig
+Ingkig
 Ingkud
 Ingon
+Ingon-ingon
+Ingon-ingon
 Ingon-ingon
 Ingsreuk
 Ingsun
 Ingu
 Ingus
 Injeum
+Injeum
 Inji
 Injil
 Injuk
 Inohong
+Inohong
+Inohong
 Insan
+Insap
 Insap
 Inten
 Interlokal
 Internasional
 Intip
+Intip
 Inum
+Inya
 Inya
 Ipar
 Ipekah
@@ -4751,6 +6598,8 @@ Ipri
 Ipuk
 Ipukan
 Iraha
+Iraha
+Iraha
 Irama
 Ireng
 Ireung
@@ -4758,39 +6607,61 @@ Irid
 Irihil
 Irik
 Iring
+Iring
 Iringan
+Iring-iringan
+Iring-iringan
 Iring-iringan
 Iring-riringan
 Iris
+Iris
+Iris
 Irit
+Irit
+Irit
+Irong
 Irong
 Irung
 Irut
 Isang
 Isarat
+Isarat
+Isarat
 Ised
+Iseng-iseng
+Iseng-iseng
 Iseng-iseng
 Isep
 Isi
 Isik
+Isin
 Isin
 Iskola
 Islam
 Istal
 Istanggi
 Istirahat
+Istirahat
 Istiwa
 Istolop
 Istori
 Istrénan
+Istrénan
+Istri
+Istri
+Istri
 Istri
 Istrika
 Istu
 Isuk
+Isuk
 Isukan
+Isukan
+Isuk-isuk
 Isuk-isuk
 Isukna
 Isun
+Iteuk
 Iteuk
 Itikad
 Itikurih
@@ -4798,16 +6669,23 @@ Itu
 Itung
 Itungan
 Iuh
+Iuh
+Iuh
 Iuh-iuh
 Iwak
 Iwak nangtang sujén
 Iwal
+Iwal
+Iwal
+Iwal
 Iwat
+Iwung
 Iwung
 Jaar
 Jaba
 Jabang
 Jabang bayi
+Jabel
 Jabel
 Jabing
 Jablog
@@ -4815,21 +6693,30 @@ Jabrig
 Jabung
 Jadah 
 Jadi
+Jadi
+Jadi
+Jadi
 Jadi ibun
 Jadi kembang carita
 Jadi malarat
 Jadi masakat
 Jadi miskin
 Jadi Onar
+Jadi Onar
 Jadian
 Jadug
 Jaér
 Jaga
+Jaga
+Jagal
 Jagal
 Jagang
 Jagasatru
 Jagat
+Jagat
+Jagat
 Jagat Raya
+Jagjag
 Jagjag
 Jagjag Waringkas
 Jago
@@ -4838,12 +6725,18 @@ Jagong
 Jagrag
 Jahanam
 Jahat
+Jahat
+Jahat
+Jahat
 Jahé
 Jaheut
+Jail
 Jail
 Jait
 Jaitun
 Jajah
+Jajaka
+Jajaka
 Jajaka
 Jajal
 Jajalok
@@ -4852,6 +6745,7 @@ Jajaluk
 Jajambul
 Jajamu
 Jajan
+Jajan
 Jajando
 Jajangkar
 Jajangkung
@@ -4859,11 +6753,18 @@ Jajangkungan
 Jajantung
 Jajap
 Jajar
+Jajar
+Jajar
+Jajar
 Jajar Pasar
+Jajar Pasar
+Jajaran
 Jajaran
 Jajarigjeugan
 Jajatén
+Jajatén
 Jajawan
+Jajim
 Jajim
 Jakat
 Jakat fitrah
@@ -4886,12 +6787,17 @@ Jalantah
 Jalantah 
 Jalantir
 Jalaran
+Jalaran
+Jalaran
+Jalaran
 Jaler
 Jalikeuh
 Jalingeur
 Jalingjinng
+Jalingjinng
 Jalingkak
 Jalir
+Jalma
 Jalma
 Jalma anu gampang hariwang
 Jalma Anyar
@@ -4903,10 +6809,13 @@ Jalma nu gampang mikangewa
 Jalma Owah
 Jalma sampurna
 Jalmi
+Jalmi
 Jalon
+Jalu
 Jalu
 Jalujur
 Jam
+Jamaah
 Jamaah
 Jamak
 Jaman
@@ -4921,6 +6830,7 @@ Jambatan
 Jambe
 Jambe ngora
 Jambedud
+Jambedud
 Jamblang
 Jambret
 Jambrong
@@ -4934,10 +6844,15 @@ Jamburaya
 Jamedud
 Jami
 Jaminan
+Jaminan
+Jaminan
+Jaminan
 Jamomom
 Jamotrot
 Jampana
 Jamparing
+Jamparing
+Jampé
 Jampé
 Jampe Pamake
 jampét
@@ -4946,6 +6861,8 @@ Jamuga
 Jamuju
 Jamzaman
 Jana
+Jana
+Janabat
 Janabat
 Janapria
 Janari
@@ -4963,19 +6880,32 @@ Janggawareng
 Janggél
 Janggélék
 Janggot
+Janggot
 Jangjang
 Jangjanwing
 Jangjawokan
+Jangjawokan
+Jangji
+Jangji
 Jangji
 Jangji pasini
+Jangji pasini
+Jangji pasini
 Jangji sulaya
+Jangjing
+Jangjing
 Jangjing
 Jangka
 Jangka 
 Jangkar
+Jangkar
+Jangkar
 Jangkasari
 Jangkep
+Jangkep
+Jangkep
 Jangkorang
+Jangkrik
 Jangkrik
 Jangkrik 
 Jangkung
@@ -4989,8 +6919,14 @@ Japah
 Japakan
 Japapang
 Japati
+Japati
+Japati
 Japuh
 Jara 
+Jarah
+Jarah
+Jarah
+Jarah
 Jarah
 Jarak 
 Jaralang
@@ -5004,12 +6940,15 @@ Jarapah
 Jarat
 Jarawat
 Jariah
+Jariah
 Jarian
 Jarigjeug
 Jariji
 Jariken
 Jaring
+Jaring
 Jaringao
+Jaringhas
 Jaringhas
 Jaro
 Jaruji
@@ -5018,23 +6957,33 @@ Jarum layar
 Jarumat
 Jas
 Jasad
+Jasad
 Jasmani
 Jat
 Jatah
 Jataké
 Jateng
 Jatnika
+Jatnika
+Jatnika
 Jatukrami
+Jauh
+Jauh
 Jauh
 Jauh ka ditu ka dieu
 Jauh Mela-Melu
 Jawa
 Jawab
+Jawab
+Jawab
 Jawaban
 Jawadah
 Jawara
+Jawara
+Jawara
 Jawawut
 Jawél
+Jawér
 Jawér
 Jawér kotok
 Jawok
@@ -5050,6 +6999,8 @@ Jebéng
 jébér
 Jebet
 Jebi
+Jebi
+Jebi
 Jeblag
 jebléh
 Jeblog
@@ -5057,10 +7008,12 @@ Jeblog
 Jeblos
 Jeblug
 Jebol
+Jebol
 Jébrag
 Jebréd
 Jebris
 Jebrod
+Jebrog
 Jebrog
 Jebug
 Jebul
@@ -5073,6 +7026,9 @@ Jedud
 jéér
 Jég 
 Jégang
+Jégang
+Jeger
+Jeger
 Jeger
 Jegér
 Jegir
@@ -5080,23 +7036,38 @@ jégjég
 Jegog
 Jegoh
 Jegud
+Jegud
+Jegud
+Jegur
 Jegur
 Jehjer
 Jejebir
 Jejeg
+Jejeg
+Jejeg
 Jejek
+Jejel
+Jejel
+Jejel
+Jejel
 Jejel
 Jejelemaan
 Jejem
 JéJéngkéan
 Jejer
+Jejer
+Jejer
+Jéjér
+Jéjér
 Jéjér
 jéjérégéd
 Jejerih
 Jejeritan
+Jejeritan
 Jekékan
 Jékét
 Jelama
+Jelas
 Jelas
 Jélat
 Jelebét
@@ -5113,12 +7084,14 @@ Jeletot
 Jelog
 Jelug
 Jembar
+Jembar
 Jembél
 Jember
 Jembet
 Jemblung
 Jembut
 Jempé
+Jempling
 Jempling
 Jempol
 Jempolan
@@ -5130,7 +7103,9 @@ Jenatna
 Jendela
 Jendil
 jendol
+Jendol
 Jéndral
+Jendul
 Jendul
 Jenegan
 Jeneng
@@ -5146,6 +7121,9 @@ Jenghok
 Jéngjlé
 Jengkar
 Jéngké
+Jéngké
+Jéngkél
+Jéngkél
 Jéngkél
 Jengker
 Jengkét
@@ -5153,22 +7131,27 @@ Jengking
 jéngkol 
 Jentre
 Jéntré
+Jéntré
 Jentréng
 Jentul
 Jenuk
 Jep
 Jepat
 Jepit
+Jepit
 Jeprét
 Jeprut
+Jeput
 Jeput
 Jerami
 Jerawat
 Jérébébéng
 Jerit
+Jerit
 Jero
 Jeroan
 Jeruan
+Jeruk
 Jeruk
 Jeruk Mipis
 Jeruk Purut
@@ -5176,11 +7159,14 @@ Jerum
 Jeté
 jeten
 Jétu
+Jétu
 Jeueung
 Jeujeuh
 jeujeur
+Jeujeur
 jeujeut
 Jeun
+Jeung
 Jeung
 Jeung acara
 Jeung anu sejenna
@@ -5190,12 +7176,19 @@ Jeungkal
 Jeuwang
 Jewer
 Jewér
+Jewér
 Jewét
 Jibreg
 Jidar
+Jidar
+Jieun
 Jieun
 Jieunan
+Jieunan
 Jig
+Jiga
+Jiga
+Jiga
 Jiga
 Jigana
 Jigang
@@ -5210,14 +7203,18 @@ Jimat
 Jimat Paripih
 Jin
 Jinah
+Jinah
 Jinek
 Jinem
 Jingga
 Jingjet
+Jingjet
 Jingjing
+Jingjingan
 Jingjingan
 Jingkrung
 Jinis
+Jiret
 Jiret
 Jisim
 Jiwa
@@ -5233,7 +7230,9 @@ Jogjog
 Joglog
 Jogo
 Jogol
+Jogol
 Jogrog
+Johar
 Johar
 Jojing
 Jojo
@@ -5252,8 +7251,11 @@ Jolopong
 Jomblo
 Jomlo
 Jompo
+Jompo
+Jonghok
 Jonghok
 Jongjolong
+Jongjon
 Jongjon
 Jongkéng
 Jongklok
@@ -5261,6 +7263,8 @@ Jongko
 Jongkok
 Jongok
 jongos
+Jongos
+Jongos
 Jongrang
 Jontor
 Jontowor
@@ -5268,16 +7272,20 @@ Jontrot
 Jor
 Jorag
 Jorang
+Jorang
 Jorang 
 Joré
 Jorélat
 Jorojoy
+Jorojoy
 Jorok
+Juag
 Juag
 Jual
 Jual dedet
 Jual mahal
 Juar
+Juara
 Juara
 Jubag
 Jubah
@@ -5285,7 +7293,9 @@ Jubleg
 Jucung
 Judes
 Judi
+Judi
 Judi dadu
+Jugala
 Jugala
 Jugjug
 Jujukutan
@@ -5293,8 +7303,10 @@ Jujul
 Jujuluk
 Jujumplukan
 Jujur
+Jujur
 Jujut
 Jukung
+Jukut
 Jukut
 Julang
 Juma`ah
@@ -5307,12 +7319,16 @@ Jumanten
 Jumegur
 Jumeneng
 Jumhur
+Jumhur
 Jumorogjog
 Jumpalit
+Jumpluk
+Jumpluk
 Jumpluk
 Jung
 Jungjang
 Jungjunan
+Jungjung
 Jungjung
 Jungkat
 Jungkel
@@ -5322,15 +7338,25 @@ Jungkrang
 Juntal-jentul
 Junti
 Junun
+Junun
 Juragan
 Jurahroh
 Jurang
+Jurang
+Jurig
+Jurig
+Jurig
 Jurig
 Juring
 Juringkang 
 Jurit
 Juru
+Juru
+Juru
+Juru
 Juru duum
+Juru kawih
+Juru kawih
 Juru kawih
 Juru ladén
 Juru panon
@@ -5341,7 +7367,10 @@ Jurung
 Jurungkunung
 Jururawat
 Jururias
+Jururias
 Jurus
+Jurus
+Jurusanggi
 Jurusanggi
 Jurutulis
 Jut
@@ -5350,6 +7379,8 @@ Juuh cimata
 Juwet
 Juwita
 Ka
+Ka
+Ka 
 Ka 
 Ka balè nyuncung
 Ka ditu ka dieu
@@ -5361,6 +7392,7 @@ Kaak
 Kaambeu
 Kaayaan
 Kaayaan hawa
+Kaba
 Kaba
 Kabaca
 Kabagjaan
@@ -5376,6 +7408,7 @@ Kabar
 Kabasmi
 Kabaud
 Kabawa ombak ka sisi
+Kabaya
 Kabaya
 Kabayan
 Kabayang
@@ -5406,15 +7439,18 @@ Kabita
 Kabitur
 Kabobolan
 Kabogoh
+Kabogoh
+Kabogoh
+Kabogoh
 Kaboker
 Kabokér
 Kaboloksokan
 Kabongkar
 Kabubuah
 Kabubuahan
-Kabudayan
+Kabudayaan
 Kabudayaan hiji bangsa
-Kabupaten
+Kabuhulan
 Kabuhulan
 Kabuka
 Kabuktian
@@ -5422,16 +7458,29 @@ Kabul
 Kabuli
 Kabulusan
 Kabur
+Kabur
+Kabur
+Kabur
+Kabutuh
 Kabutuh
 Kabuyutan
+Kabuyutan
+Kaca
+Kaca
+Kaca
 Kaca
 Kaca 
 Kaca soca
 Kacaahan
 Kacacang
 Kaca-kaca
+Kaca-kaca
+Kaca-kaca
+Kacalétot
 Kacalétot
 Kacambah
+Kacambah
+Kacanduan 
 Kacanduan 
 Kacang
 Kacang géréntél
@@ -5443,16 +7492,28 @@ Kacapit
 Kacasoca
 Kacaturkeun
 Kacau
+Kacau
 Kacék
 Kacekek
+Kacekel deleg
 Kacekel deleg
 Kacer
 Kaci
 Kacida
+Kacida
+Kacida
+Kacida
+Kacida
+Kacida
 Kacida 
 Kacida mikahayang
 Kacida teuing
+Kacida Teuing
 Kacidekan
+Kacilakaan
+Kacilakaan
+Kacilakaan
+Kacilakaan
 Kacilakaan
 Kacilén
 Kacingcalang
@@ -5461,29 +7522,43 @@ Kacipta
 Kaciraan
 Kaciri
 Kacow
+Kacow
+Kacow
+Kacow
 Kadada Kaduga
+Kadaharan
 Kadaharan
 Kadaharan tina ketan
 Kadaka
 Kadal
+Kadal
 Kadal Meteng
+Kadali
 Kadali
 Kadalon-dalon
 Kadanca
 Kadang
+Kadang
 Kadang-kadang
 Kadangkala
+Kadangkala
+Kadangkala
+Kadangu wae 
 Kadangu wae 
 Kadangwarga
 Kadar
 Kadatangan Jelema Rea
 Kadaton
 Kadé
+Kadé
+Kadék
+Kadék
 Kadék
 kadelé
 Kadempét
 Kadérah
 Kadeseh
+Kadéséh
 Kadéséh
 Kadeudeuh
 Kadeuheus
@@ -5492,22 +7567,30 @@ Kadieu
 Kadim
 Kadir
 Kadongdong
+Kadongdong
 Kadu
 Kaduhul
 Kaduhung
+Kaduhung
 kadungsang-dungsang
+Kadungsang-dungsang
 Kadunyaan
 Kaduruk
 Kadut
+Kadut
+Kadya
 Kadya
 Kaédah
 Kaedanan
 Kaédanan 
 Kaén
+Kaén
 Kaen corak kotak-kotak
 Kaendahan
 Kaendanan
 Kaeusian
+Kagagas
+Kagagas
 Kagagas
 Kagedean
 Kagegelan
@@ -5517,48 +7600,79 @@ Kagelo
 Kagélo
 Kagelong
 Kagémbang
+Kagémbang
 Kagendam
 Kaget
+Kaget
+Kaget
+Kaget
+Kaget
+Kaget
+Kagét
 Kagét
 Kageugeut
 Kagiatan
 Kagiridig
 Kagok
+Kagok
+Kagok
 Kagok asong
 Kagorengan
+Kagorengan
+Kagoréngan
 Kagoréngan
 Kagorengan 
 Kagungan
+Kagungan
 Kah
 Kahadean
+Kahadéan
 Kahadéan
 Kahakanan
 Kahalangan
 Kahalodoan
 Kahampangan
+Kahampangan
+Kahampangan
+kahampangan
 Kahamposan
+Kahar
 Kahar
 Kaharti 
 Kahatur
+Kahatur
 Kahaturan
+Kahayang
+Kahayang
+Kahayang
 Kahayang
 Kahebeng
 Kahéésan
 Kahengker
 Kaheumpik
+Kaheumpik
 Kahiangan
 Kahiji
+Kahiji
+Kahirupan
+Kahirupan
 Kahirupan
 Kahitutan
 Kahkar
 Kahontal
+Kahontal
+Kahontal
 kahormatan
+Kahot
 Kahot
 Kahoyong
 Kahunjuk
 Kahuripan
 Kahuruan
+Kahuruan
 Kahyangan
+Kahyangan
+Kai
 Kai
 kai panahan
 Kaijid
@@ -5567,25 +7681,39 @@ Kaimpungan
 Kaimpungan ku baraya
 Kaindran
 Kaingetan
+Kaingetan
+Kairut
 Kairut
 Kaisinan
 Kait
+Kait
 Kaitung
 Kajabi
+Kajabi
+Kajadian
+Kajadian
+Kajadian
 Kajadian
 Kajahatan
 Kajajaden
 Kajajadén
+Kajajadén
+Kajajadén
 Kajaksan
 Kajang
+Kajang
+Kajang Mastaka
+Kajang Mastaka
 Kajang Mastaka
 Kajanpria
+Kajayaan
 Kajayaan
 Kajeblos
 Kajenengan
 Kajeun
 Kajeunan
 Kajinem
+Kajiret
 Kajiret
 Kajojo
 kajongjonan
@@ -5599,8 +7727,15 @@ Kakait
 Kakala
 Kakalangkangan
 Kakalén
+Kakalén
+Kakalén
 Kakalian
 Kakandungan
+Kakandungan
+Kakandungan
+Kakandungan
+Kakandungan
+Kakang
 Kakang
 Kakapés
 Kakara
@@ -5609,51 +7744,71 @@ Kakaratak
 Kakarék
 Kakarén
 Kakasih
+Kakasih
+Kakasih
 Kakatua
 Kakawah
 Kakawén
 Kakelem
 Kakeueum
+Kakeueum
+Kakeueum
 Kakeunaan
 Kakeupeul
 Kakocék
 Kaku
+Kaku
 Kakuatan
 Kakulonan
 kakumbah
+Kakus
 Kakus
 Kala
 Kalacat
 Kalah Ka Omong
 Kalah Wowotan
 Kalahajat
+Kalahajat
 Kalahiran
 Kalakay
 Kalakon
 Kalaksanakeun
 Kalakuan
+Kalakuan
+Kalakuan
 Kalakuan hadé
 Kalakuan Nista
 Kalaluar bari gandeng
+Kalaluar bari gandeng
 Kalam
+Kalamangsa
 Kalamangsa
 Kalaméro
 Kalampah
 Kalana
 Kalandep
+Kalandep
 Kalang
 Kalangenan
 Kalanggengan
+Kalanggengan
 Kalangkang
+Kalangkang
+Kalangkang
+Kalangsu
 Kalangsu
 Kalan-kalan
 Kalantaka
 Kalantar
+Kalantar
 Kalao
+Kalapa
+Kalapa
 Kalapa
 Kalapa Ngora
 Kalapa Puyuh
 Kalaparan
+Kalapati
 Kalapati
 Kalari
 Kalarung
@@ -5663,7 +7818,12 @@ Kalayan
 Kalayang
 Kalbu
 Kaldé
+Kaldé
 Kalebuh
+Kalebuh
+Kalebuh
+Kalebuh
+kalebuh
 Kaleci
 Kaléci
 Kalejokeun
@@ -5673,6 +7833,8 @@ Kalemba
 Kalémoh
 Kalénder
 Kaleng
+Kaleng
+Kalenger
 Kalenger
 Kalénggok
 Kalengkepan
@@ -5682,8 +7844,12 @@ Kaler
 Kaleresan
 Kaléreun
 Kaleuleuwihi
+Kaleuleuwihi
+Kaleuleuwihi
+Kaleuleuwihi
 Kaleungitan
 Kaleuwihan
+Kali
 Kali
 Kali  
 Kaliagé
@@ -5694,15 +7860,22 @@ Kalices
 Kalieus
 Kalifah
 Kalih
+Kalih
 Kaliki
 Kalikiben
 Kalilipa
+Kalilipa
+Kalimah
 Kalimah
 Kalindih
+Kalingsir
 Kalingsir
 Kalintang
 Kalipah
 Kaliru
+Kaliru
+Kaliru
+Kalis
 Kalis
 Kaliung
 Kaliwara 
@@ -5718,6 +7891,7 @@ Kalotor
 Kalua
 Kaluar
 Kaluar 
+Kaluar 
 Kaluar tina rel
 Kaluar-asup imah bari teu puguh tujuan
 Kaluat
@@ -5725,6 +7899,8 @@ Kaluh
 Kaluluputan
 Kalung
 Kalungguhan
+Kalungguhan
+Kaluron
 Kaluron
 Kamagungan
 Kamahaler
@@ -5732,6 +7908,8 @@ Kamajuan lahir-batin
 Kamalangkeun
 Kamalé
 Kamalinaan
+Kamalinaan
+Kamalir
 Kamalir
 Kamampuh
 Kamampuh maca jeung nulis
@@ -5745,13 +7923,18 @@ Kamar
 Kamar   
 Kamarang
 Kamarasan
+Kamarasan
 Kamarekaan
 Kamari
+Kamari
+Kamasan
 Kamasan
 Kamayung
 Kambang
+Kambang
 Kambuh
 Kambuy
+Kamegahan
 Kamegahan
 Kaméja
 Kamer
@@ -5764,30 +7947,42 @@ Kamper
 Kamprét
 Kampuh
 Kampung
+Kampung
+Kampung
+Kampung
 Kampungan
 Kamudi
 Kamukten
 kamulyaan
+Kamulyaan
 Kamus
+Kana
 Kana
 Kana'at
 Kanaga
 Kanahanan
 Kananga 
 Kanari
+Kanari
 Kanayagan
+Kanca
 Kanca
 Kancah
 Kancanan
 Kancang
 Kanceuh
+Kanceuh
+Kancing
 Kancing
 Kancolah
 Kanda
+Kanda
 Kandaga
+Kandang
 Kandang
 Kandang balik ka lembur
 Kandang kuda
+Kandaraan
 Kandaraan
 Kandas
 Kandeg
@@ -5801,6 +7996,9 @@ Kangen
 Kangen 
 Kangen pisan
 Kangeunahan
+Kangeunahan
+Kanggo
+Kanggo
 Kanggo
 Kanging
 Kangjeng
@@ -5808,30 +8006,39 @@ Kangkalung
 Kangker
 Kangkung
 Kaniaya
+Kaniaya
 Kantég
 Kantéh
 Kantél
 Kantenan
+Kantenan
 Kantong
 Kantos
+Kantos
+Kantun
+Kantun
 Kantun
 Kanyaah
+Kanyaah
 Kanyaho
+Kanyahoan
 Kanyahoan
 Kanyenyerian
 Kanyéré
 Kanyeri
 Kanyos
-Kanoman
+Kaolahan
 Kaolahan
 Kaom
 Kaom Marhaen
 Kaop
 Kaopat
 Kaos
+Kaos
 Kaos sangsang
 Kapaduk
 Kapaehan
+Kapahung
 Kapahung
 Kapaider
 Kapak
@@ -5840,17 +8047,24 @@ Kapal
 Kapal Motor
 Kapal udara
 Kapala
+Kapala
 Kapala distrik
+Kapalang
 Kapalang
 Kapalay
 Kapalidkeun
+Kapalingan
+Kapalingan
+Kapalingan
 Kapalingan
 Kapamalian
 Kapanasan
 Kapancong
 Kapandeurian
 Kapanggih
+Kapanggih
 Kapapantenan
+Kapareumnakeun
 Kapareumnakeun
 Kaparigelan
 Kapas
@@ -5858,13 +8072,18 @@ Kapayunan
 Kapengpeongan
 Kapépéd
 Kaperego
+Kaperego
+Kaperego
 Kaperluan
 Kapeung
 Kapiasem
 Kapiceun
 Kapidangdung
 Kapidara
+Kapidara
+Kapidara
 Kapiincu
+Kapilah
 Kapilah
 Kapimilik
 Kapincut
@@ -5873,19 +8092,25 @@ Kaping
 Kaping 
 Kapingburi
 Kapinis
+Kapinis
 Kapinteran
+Kapir
 Kapir
 Kapiraray
 Kapireungpeunan
 Kapiting
 Kapiuhan
 Kapok
+Kapok
 Kapol
 Kaprah
 Kapuk
 Kapundung
 kapungkur
+kapungkur
 Kapur
+Kapur
+Kapurba
 Kapurba
 Kaput
 Kaputan
@@ -5893,18 +8118,28 @@ Kaputran
 Kaputren
 Kaputrian
 Kar
-Karaton
+Karabat
 Karabat
 Karacak
 Karagok
+Karagok
+Karagragan
 Karagragan
 Karah
 Karaha
+Karaha
 Karaman
+Karaman
+Karaman
+Karamat
 Karamat
 Karamba
 Karana
 Karancang
+Karancang
+Karang
+Karang
+Karang
 Karang
 Karanjang
 Karapyak
@@ -5920,6 +8155,7 @@ Karat
 Karatagan
 Karatak
 Karatan
+Karatan
 Karaton
 Karayap
 Karcis
@@ -5928,10 +8164,14 @@ Karéhol
 Karejut
 Karekeb
 Karem
+Karem
 Karémbong
+Karémbong
+Karep
 Karep
 Karepus
 Kareseban
+Karesep
 Karesep
 Karesmen
 Karét
@@ -5946,17 +8186,22 @@ Kari
 Kari hiji
 Karia
 Karib
+Karib
 Karih
+Karijut
 Karijut
 Karikil
 Karinah
 Karingding
 Karinget
+Karinget
 Karingetan
 Karisut
 Karma
+Karma
 Karna
 Karo
+Karogan
 Karogan
 Karohok
 Karooh
@@ -5970,9 +8215,12 @@ Karuan
 Karugrag
 Karuhan
 Karuhun
+Karuhun
 Karuksakan
 Karung  
 Karungkéng
+Karunya
+Karunya
 Karunya
 Karut
 Kas
@@ -5982,10 +8230,14 @@ Kasab
 Kasadasa
 Kasakit
 Kasambut
+Kasambut
 Kasang jinem
 Kasangon
 Kasangsara
 Kasangsaraan
+Kasangsaraan
+Kasangsaraan
+Kasap
 Kasap
 Kasaput pepedut
 Kasar
@@ -5994,11 +8246,14 @@ Kasarung
 Kasawat
 Kasay
 Kasedekeun
+Kasedekeun
 Kasedih
 Kaséér
 Kasempetan
 Kasenangan dunya
 Kasep
+Kasép
+Kasép
 Kasép
 Kaseuseuh
 Kasiat
@@ -6006,6 +8261,7 @@ Kasintu
 Kasir
 Kasmaran
 Kaso
+Kasohor
 Kasohor
 Kasor
 Kasoran
@@ -6019,6 +8275,9 @@ Kasumba
 Kasungka
 Kasur
 Kasurungkeun
+Kasurupan
+Kasurupan
+Kasurupan
 Kasurupan
 Kasusah
 Kasut
@@ -6037,12 +8296,17 @@ Katambis
 Katangkep
 Katapang
 Katara
+Katara
+Katawis
 Katawis
 Katawuran
 Katawuran 
 Katé
+Katé
 Katél
 Katempo
+Katempo
+Katénjo
 Katénjo
 Katepi
 Kateuhak
@@ -6051,15 +8315,19 @@ Kateureugeujeuugan
 Kati
 Katibanan
 Katiga
+Katiga
+Katiga
 Katiisan
 Katil
 Katilambung
 Katincak
 Katingal
 Katingali
+Katingali
 Katinggaleun 
 Katinggaleun jauh
 Katinggang 
+Katipu
 Katipu
 Katirisan
 Katohyan
@@ -6069,38 +8337,49 @@ Katoran
 Katorekan
 Katotoloyoh
 Katrol
+Katrol
 katubruk
 Katuhu
 Katuk
 Katumbar
+Katumbiri
 Katumbiri
 Katumpang
 Katuncar
 Katurangga
 Katurunan
 Katut
+Katut
+Katut
 Kauangan
 Kaubaran
 Kaul
 Kaula
+kaula
 Kaulinan
 Kaum
 Kaum kuna
 Kaum Ningrat
 Kaungel
+Kaungel
 Kaungkab
 kaungkulan
+Kaungkulan
 Kauni
 Kauninga
+Kauntup
 Kauntup
 Kaustara
 Kaut
 Kautamaan
 Kautangan
 Kautara
+Kautara
 Kawadanaan
 Kawah
+Kawah
 Kawah Upas
+Kawajiban
 Kawajiban
 Kawak
 Kawalahan
@@ -6109,6 +8388,7 @@ Kawali
 Kawalon
 Kawaluratan
 Kawangikeun
+Kawangikeun
 Kawani
 Kawanti-wanti
 Kawantu
@@ -6116,9 +8396,15 @@ Kawao
 Kawaranan
 Kawarasan
 Kawas
+Kawas
+Kawas
+Kawas
+Kawas
 Kawas Ciduh Jeung Reuhak
 Kawas ieu
 Kawasa
+Kawasa
+Kawasna
 Kawasna
 Kawat
 Kawat 
@@ -6130,23 +8416,34 @@ Kawed
 Kawengku
 Kawéni
 Kawentar
+Kawentar
+Kawentar
+Kawentar
+Kawentar
 kaweratan
 Kaweruh
 Kaweur
 Kawi
 Kawih
+Kawih
 Kawilang
+Kawin
 Kawin
 Kawin gantung
 Kawinan
 Kawing cangcang
 Kawista
 Kawistara
+Kawistara
 Kawit
+Kawit
+Kawon
 Kawon
 Kawul
 Kawula
 Kawulaaneun
+Kawung
+Kawung
 Kawung
 Kaya
 Kayakas
@@ -6175,9 +8472,11 @@ Kebon
 Kebuk
 Kebul
 Kebun
+Kebun
 Kebut
 Kecambah
 Kecanduan
+Kecap
 Kecap
 Kécap
 Kecapi
@@ -6196,27 +8495,38 @@ Kécos
 Kecot
 Kecrék
 Kecrik
+Kecrik
 Kecut maur
+Kedah
+Kedah
 Kedah
 Kedal
 Kédanan
 Kedap
+Kédé
+Kédé
 Kédé
 Kedeng
 Kedép
 Kedeplik
 Kedepruk
 Kedér
+Kedér
 Kéder
 Kedewet
 Kedewil
+Kedewil
 Kedik
 Kedir
+Kedir
 Kedodoran
+Kedok
 Kedok
 Kedokan
 Keduk
 Keduk cakar
+Kedul
+Kedul
 Kedul
 Kedung
 Kedut
@@ -6227,10 +8537,17 @@ Kéhkél
 Keik
 Kejat
 Kejem
+Kejem
+Kejem
+Kejem
+Kejem
+Kejem
 Kéjo
 Kéjo poé
 Kejot
 Kekeb  
+Kekebul
+Kekebul
 Kekebul
 Kekebut
 Kekecepan
@@ -6239,11 +8556,15 @@ Kekedengan
 Kekeduk
 Kekedutan
 Kekel
+Kekel
+Kekembangan
 Kekembangan
 Kekemben
 Kekemes
 Kekemplong
 Kekemu
+Kekemu
+kekemu
 Kekendangan
 Kekenteng
 Kekentong
@@ -6251,8 +8572,10 @@ Kékép
 kéképéhan
 Kekeprék
 Keker
+Keker
 Kékéran
 Kékéré
+Kekerepekan
 Kekerepekan
 Kekerot
 Kékéséd
@@ -6274,6 +8597,7 @@ Kelemet
 Kelenci
 Kelendang
 Kélénéng
+Kélénéng
 Keleng
 Kelengténg
 Kelenting
@@ -6293,6 +8617,7 @@ Keleyeng
 Kelid
 Kelin
 Kélingan
+Kélingan
 Kelir
 keliru
 Kélong
@@ -6310,13 +8635,21 @@ Kembang mantéga
 Kembang rampe
 Kembangan
 Kembar
+Kembar
 Kembeng
 Kembu
+Kembu
+Kembu
+Kembung
+Kembung
+Kembung
+Kembung
 Kembung
 Keméja
 Kemék
 Kemendan
 Kemil
+Kemis
 Kemis
 Kemit
 Kemong
@@ -6326,16 +8659,21 @@ Kempelan
 Kémpér
 Kempes
 Kempés
+Kempés
 Kempit
 Kemplang
 Kempléng
+Kempléng
 Kemplong
+Kempot
+Kempot
 Kempot
 Kempot pipi
 Kémpréng
 Kemprung
 Kemu
 Kémutan
+Kéna-kéna
 Kéna-kéna
 Kenal
 Kenap
@@ -6354,6 +8692,7 @@ Kendel
 Kendi
 Kendit
 Kendor
+Kendor
 Kénéh
 Kenek
 Kenék
@@ -6363,11 +8702,14 @@ Kening
 Kenong
 Kentang
 Kentel
+Kentel
+Kenteng
 Kenteng
 Kenténg
 Kénva
 Kenyot
 Kéok
+Kéong
 Kéong
 Kepala bedegong
 kepalang
@@ -6382,6 +8724,7 @@ Keprak
 Keprék
 Keprik
 Keprok
+Keprok
 Kepros
 Keprul
 Kepruy
@@ -6394,14 +8737,18 @@ Keras
 Kerasa
 Kerbau piteuk
 Kere
+Kere
+Kere
 Keré
 Kerejep
 Kerejet
 Kerejut
 Kerek
 Kérék
+Kérék
 Kerek nyegrek 
 Kerékan
+Kerekeb
 Kerekeb
 Kerekes
 Kerelek
@@ -6412,7 +8759,9 @@ Kéréncéng
 Kereng
 Kerentil
 Kerep
+Kerep
 Kerep 
+Kerepek
 Kerepek
 Kérépéng
 Kerepuk
@@ -6423,6 +8772,9 @@ Kéréwédan
 Kerewek
 Kerewes
 Kereyek
+Kereyek
+Keri
+Keri
 Keri
 Kerid
 Keridan
@@ -6434,6 +8786,7 @@ Kerok
 Kérok
 Keropak
 Kerot
+Kersa
 Kersa
 Kertas
 Kertas salambar
@@ -6450,12 +8803,16 @@ Kesemek
 Keset
 Kését
 Kesit
+Kesit
+Kesit
 Ketak
 Kétak
 Ketan
 Keteb
 Keteg
+Keteg
 Keteg jajantung
+Keték
 Keték
 Kéték
 Ketekat-Ketekit
@@ -6468,38 +8825,66 @@ Keting
 Ketinggang
 Ketip
 Ketir
+Ketir
 Keton
 Kétrok
 Ketruk 
 Ketu
+ketu
 Ketuk
 Keudeu
 Keudeung
 Keuem
 Keueum
 Keueung
+Keueung
+Keueung
+Keueung
 Keuheul
+Keuheul
+Keuheul
+Keuheul
+Keuheul
+Keuheul
+Keukeuh
+Keukeuh
 Keukeuh
 Keukeup
 Keukeupeulan
 Keukeureuweut
 Keumbing
 Keumeuh
+Keumeuh
 Keumpleung
 Keun bae
+Keuna
+Keuna
 Keuna
 Keuna kana
 Keuneung
 Keunyang
 Keupeul
+Keupeul
+Keupeul
+Keur
+Keur
+Keur
+Keur
+Keur
 Keur
 Keur kotoran
 Keur kuriak
+Keur kuring
 Keur kuring
 Keur maneh
 Keur meuli béas
 Keur nulis
 Keur pikeun
+Keur pikeun
+Keureut
+Keureut
+Keureut
+Keureut
 Keureut
 Keureutan
 Keusik
@@ -6507,23 +8892,30 @@ Keusik badag
 Keusik laut
 Keusik lembut
 Keuyeup
+Keuyeup
+Keuyeup
 Kewajiban istri
 Kewatesan 
 Kéwér
 Kéwes
 Kewuk
+Kewuk
 Key
 Keyeng
 Khadam
 Ki
+Ki
 Kiamah
 Kiamis
+Kiara
 Kiara
 Kias
 Kiat
 Kibir
 Kiblat
 Kica-Kica
+Kiceup
+Kiceup
 Kiceup
 Kicik
 Kiciprit
@@ -6532,13 +8924,18 @@ Kidang
 Kidul
 Kidung 
 Kieu
+Kieu
 Kihapit
 Kihiang
+Kiih
+Kiih
+Kiih
 Kiih
 Kijing
 Kiju
 Kikinciran
 Kikindeuwan
+Kikiping
 Kikiping
 Kikir
 Kikiriman
@@ -6547,6 +8944,7 @@ Kikis
 Kikisik
 Kila-kila
 KIlat
+Kilir
 Kilir
 Kilitik
 Kilo
@@ -6559,6 +8957,7 @@ Kimpul
 Kina
 Kinanti
 Kinarya
+Kinarya
 Kinasih
 Kinayah
 Kinca
@@ -6566,6 +8965,7 @@ Kincid
 Kincir
 Kingkiihan
 Kingkilaban
+Kingkin
 Kingkin
 Kini-kini
 Kintel
@@ -6585,20 +8985,29 @@ Kiray
 Kireum
 Kiridit
 Kirik
+Kirik
+Kirim
+Kirim
 Kirim
 Kiriman
 kiripik
 Kiruh
+Kiruh
+Kiruh
 Kisa
 Kisas
 Kisat
+Kisi-kisi
 Kisi-kisi
 Kismis
 Kiswa
 Kitab
 Kitab Usul
 Kitu
+Kitu
 Kiwa
+Kiwari
+Kiwari
 Kiwari
 Klaliru
 Klép
@@ -6619,6 +9028,7 @@ Koclok
 Koco
 Kocop
 Kocor
+Kocor
 Kocoran
 Kodi
 Kodian
@@ -6628,6 +9038,10 @@ Kodomoyo
 Kodompol
 Koét
 Kohkol
+Kohkol
+Kohkol
+Kohok
+Kohok
 Kohok
 Koja
 Kojor
@@ -6638,6 +9052,7 @@ Kokod
 Kokodén
 Kokodok
 Kokodoreun
+Kokodoreun
 Kokola
 Kokolo
 Kokolot 
@@ -6646,6 +9061,7 @@ Kokomoan
 Kokompotan
 Kokono
 Kokontor
+Kokoréh
 Kokoréh
 Kokoro
 Kokoro Nyoso Malarat Rosa
@@ -6657,6 +9073,8 @@ kokoséhan
 kokosod
 Kokosodan
 Kokotak
+Kokotak
+Kokotor
 Kokotor
 Kokotor jelema
 Kokowowongan
@@ -6671,6 +9089,8 @@ Koleha
 Kolek
 Koléséd
 Koling
+Koling
+Kolom
 Kolom
 Kolomberan
 Kolomoh
@@ -6678,6 +9098,10 @@ Kolong
 Kolontong
 Kolor
 Kolosod
+Kolot
+Kolot
+Kolot
+Kolot
 Kolot
 Kolot dapur
 Kolot pawongan
@@ -6694,6 +9118,8 @@ Komboy
 Koméng
 Komet
 Komo
+Komo
+Komo
 Kompa
 Kompan
 Kompas
@@ -6709,18 +9135,24 @@ Kondang
 Kondé
 Konéas
 Konéng
+Konéng
+Konéng
+Koneng Umyang 
 Koneng Umyang 
 Kongang
 Kongas
 Kongkoak
 Kongkolak
 Kongkorong
+Kongkorong
+Kongkorongok
 Kongkorongok
 Kongkoyang
 Kongkur
 Konjuk
 Kono
 Konsep
+Kontan
 Kontan
 Kontrak
 Kontrakan
@@ -6730,6 +9162,7 @@ Kopé
 Kopeah
 Kopéah
 Koper
+Koper
 Kopi
 Koplok
 Kopo
@@ -6738,6 +9171,7 @@ Koprak
 Kopral
 Koprék
 Koprot
+Koral
 Koral
 Koran
 Korang
@@ -6759,12 +9193,15 @@ Korét
 Kori
 Korma
 Korod
+Korod
 Koromod
 Koromong
 Koroncong
 Korondang
 Korong
 Koropak
+Koropak
+Koropok
 Koropok
 Koropos
 Korosak
@@ -6777,6 +9214,10 @@ Koséh
 Koséwad 
 Kosod
 Kosok
+Kosok
+Kosong
+Kosong
+Kosong
 Kosong
 Kosta
 Kostum
@@ -6791,8 +9232,16 @@ Kotok
 Kotok bongkok
 Kotoken
 Kotokeun
+Kotokeun
 Kotokeun 
 Kotor
+Kotor
+Kotor
+Kotor
+Kotor
+Kotor
+Kotor
+Kotoran
 Kotoran
 Kowowong
 Koyan
@@ -6809,10 +9258,17 @@ Kronjo
 Ku
 Ku 
 Ku lantara
+Ku lantara
 Ku manéh
 Ku sabab
+Ku sabab
+Kuah
 Kuah
 Kuar
+Kuat
+Kuat
+Kuat
+Kuat
 Kuat
 Kubang
 Kubek
@@ -6820,6 +9276,9 @@ Kubeng
 Kubik
 Kubra
 Kubur
+Kubur
+Kubur
+Kuburan
 Kuburan
 Kucek
 Kucel
@@ -6827,13 +9286,20 @@ Kucem
 Kuciah
 Kuciwa
 Kucubung
+Kucubung
+Kucubung
+Kucur
+Kucur
 Kucur
 Kucuwas-kucewis
 Kuda
 Kuda adu
 Kuda lumping
+Kuda lumping
 Kuda samparani
 Kuda tunggang
+Kuda umbal
+Kuda Umbal
 Kuda umbal
 Kuda-kuda
 Kudang
@@ -6842,10 +9308,17 @@ Kudek
 Kudis
 Kudrat
 Kudu
+Kudu
+Kudu
+Kudu
+Kudu
+Kudu
 Kudu mayar
+Kudung
 Kudung
 Kudupruk
 Kudupung
+Kuéh
 Kuéh
 Kuéh lapis
 Kueh Pancong
@@ -6868,15 +9341,23 @@ Kukulonciran
 Kukulu
 Kukuluban
 Kukulutus
+Kukulutus
+Kukulutus
+Kukulutus
+Kukulutus
+Kukumbah
 Kukumbah
 Kukumbul
+Kukumbul
 Kukupu
+Kukurayeun
 Kukurayeun
 Kukurilingan
 Kukurilingan 
 kukurud
 Kukus
 Kukusumahan
+Kukut
 Kukut
 Kukuy
 Kula
@@ -6888,8 +9369,15 @@ Kulambu
 Kulan
 Kulauheu
 Kulawadet
+Kulawadet
+Kulawarga
+Kulawarga
+Kulawarga
 Kulawarga
 Kulawargi
+Kulawargi
+Kulawu
+Kulawu
 Kulawu
 Kulem
 Kuleuheu
@@ -6898,6 +9386,8 @@ Kuli tani
 Kuliah
 Kulian
 Kuliat
+Kulimis
+Kulimis
 Kulimis
 Kulinan
 Kulisik
@@ -6914,27 +9404,38 @@ Kulub cau
 Kulumud
 Kulutus
 Kuluwung
+Kuluwung
 Kuluwut
 Kumadép
 Kumaha
+Kumaha
+Kumaha Onam
 Kumaha Onam
 Kumahaaneun
 Kumahakeun
+Kumaki
 Kumaki
 Kumalancang
 Kumalungkung
 Kuman
 Kuman Penyakit
 Kumaonam
+Kumaonam
 Kumapang
+Kumargi
 Kumargi
 Kumasép
 Kumawani
 Kumawula
 Kumbah
+Kumbah
+Kumbah
+Kumbah
 Kumbang
 Kumbuh
 Kumed
+Kumed
+Kumedép
 Kumedép
 Kumejot
 Kumelendang
@@ -6944,15 +9445,21 @@ Kumeregkeg
 Kumetir
 Kumincir
 Kumis
+Kumis
 Kumis ucing
 Kumpal-kumpul
 Kumpay
 Kumpet
 Kumplit
 Kumpul
+Kumpul
+Kumpulan
+Kumpulan
+Kumpulan
 Kumpulan
 Kumur
 Kuna
+Kunaon
 Kunaon
 Kuncén
 Kunclung
@@ -6965,14 +9472,20 @@ Kungkurah
 Kungsi
 Kuniang hudang
 Kunjal
+Kunjal
+Kunjal
 Kuno
+Kuno
+Kunti
 Kunti
 Kuntilanak
 Kuntit
 Kuntung
 Kunyam-kunyem
+Kunyam-kunyem
 Kunyuk
 Kupa
+Kupat
 Kupat
 Kupat-képot 
 Kuping
@@ -6981,12 +9494,17 @@ Kupu
 Kupuk
 Kurabu
 Kuramas
+Kuramas
+Kurang
 Kurang
 Kurang ajar
 Kurang atikan
 Kurang jelas
 Kurang luang
 Kurang saeundan
+Kurang saeundan
+Kurang saeundan
+Kurang sasetrip
 Kurang sasetrip
 Kurang seundan
 Kurap
@@ -6997,15 +9515,22 @@ Kureb
 Kuren
 Kurés
 Kuriak
+Kuriak
 Kuriak 
 Kuricakan
 Kurihit
 Kuriling
 Kurilingan
 Kuring
+Kuring
+Kuring
+Kuring
 Kuring saréréa
 Kuripan
 Kuris
+Kuru
+Kuru
+Kuru
 Kuru
 Kurubut
 Kurud
@@ -7019,21 +9544,31 @@ Kurup
 Kurupuk
 Kurusuk
 kusen
+Kusen
 Kusial
 Kusir
 Kusruk
 Kusuma 
 Kusumah
+Kusumah
+Kusumah
+Kusut
+Kusut
+Kusut
 Kusut
 Kuta
 Kutang
 Kutil
 Kutipan
+Kutipan
 Kutiplak
 Kutu
+Kutu
+Kutuk-gendeng
 Kutuk-gendeng
 Kutung
 Kuuk
+Kuwu
 Kuwu
 Kuwung-kuwung
 Kuya
@@ -7045,6 +9580,8 @@ Laan
 Laas
 Labas
 Labé
+Labé
+Labrak
 Labrak
 Labuh
 Labuh jangkar
@@ -7052,16 +9589,22 @@ Labuh nangkuban
 Labur
 laca lécé
 Lacak
+Lacak
 Laci
 Lacur
+Lacur
+Lada
 Lada
 Ladang
 Ladeg
 Ladén
 Ladog
 Ladrag
+Ladrag
 Laduni
 Laér
+Laér
+Laga
 Laga
 Lagaday
 Lagag-lagog
@@ -7069,17 +9612,23 @@ Laga-lagu
 Lagam
 Lagar
 Lagas
+Lagas
+Lagedu
 Lagedu
 Laggam
 Lagi
+Lagu
 Lagu
 Lagu buhun
 Lagu Marhaba
 Lagu rancag
 Laha-loho
+Laha-loho
 Lahan
 Lahang
+Lahang
 Lahar
+Lahir
 Lahir
 Lahir 
 Lahun
@@ -7087,6 +9636,8 @@ Lahunan
 Lahuta
 Laif
 Lain
+Lain
+Lain dikieuna
 Lain dikieuna
 Lain éta
 Lain Memeueusan
@@ -7095,32 +9646,55 @@ Lain Wayah
 Laip
 Lais
 Laja
+Laja
+Laja
 Lajang
+Lajeng
+Lajeng
+Lajeng
+Lajeng
 Lajeng
 Lajer
 Lajim
 Laju
+Laju
+Laju
+Laju
+Laju
 Lajuning laku
+Lajur
 Lajur
 Lakar
 Lakeran
 Laki
 Laki rabi
+Laki rabi
+Lakian
 Lakian
 Laklak dasar
 Lakon
 Lakon gawé
 Lakop
+Lakop
 Lakop daun
 Laksa
 Laksamana
 Laksana
+Laksana
+Laksana
+Laku 
 Laku 
 Lalab
 Lalab rumbah
 Lalagasan
+Lalagasan
+Lalajo
+Lalajo
 Lalajo
 Lalaki
+Lalaki
+Lalaki
+Lalakon
 Lalakon
 Lalamakan
 Lalampahan
@@ -7131,25 +9705,39 @@ Lalandian
 Lalandong
 Lalangiran
 Lalangit
+Lalangit
+Lalangsé
+Lalangsé
 Lalangsé
 Lalangsudan
 Lalanjang
 Lalantang
 Lalantangan
+Lalantangan
 Lalanyah
 Lalar
+Lalar-liwat
 Lalar-liwat
 Lalaunan
 Lalautan
 Lalawak
 Lalawanan
+Lalawanan
+Lalawora
+Lalawora
+Lalawora
+Lalawora
 Lalawora
 Lalawuh
 Lalawura
 Lalay
+Lalay
+Lalay
 Lalay badot
 Lalayaran
+Lalayaran
 Lalayu sekar
+lalayu sekar
 Lalegok
 Lalembut
 Laleur
@@ -7157,12 +9745,16 @@ Lali
 Laliangan
 Lalim
 lalindeng
+lalindeng
 Lalu
 Lalu saliwatan
 Laluasa
 Lalumpatan
+Lalumpatan
+Lalumpatan
 Lamad
 Lamak
+Lamar
 Lamar
 Lamari
 Lamari makan
@@ -7172,7 +9764,11 @@ Lamban
 Lambang
 Lambang sari
 Lambar
+Lambar
+Lambar
+Lambar
 Lambaran
+Lambat
 Lambat
 Lambé
 Lambera
@@ -7182,14 +9778,17 @@ Lambon
 Lambung
 Lambus
 Lambusir
+Lambusir
 Lambut
 Lamé
 Lameta
 Lami
 Lamit
 Lamo
+Lamo
 Lamokot
 Lamot
+Lampah
 Lampah
 Lampanyat
 Lampar
@@ -7198,34 +9797,58 @@ Lampénéng
 Lampeni
 Lampias
 Lamping
+Lamping
+Lamping
 Lampion
 Lampir
 Lampiran
 Lampit
+Lampu
 Lampu
 Lampud
 Lampuyang
 Lampuyang ruum
 Lamuk
 Lamun
+Lamun
+Lamun
+Lamun
+Lamun
+Lamun
+Lamun
+Lamun
+Lamun
+Lamun
+Lamunan
 Lamunan
 Lamur
+Lamur
 Lamusir
+Lamusir
+Lana
+Lana
 Lana
 Lancah
 Lancah Maung
 Lancang
+Lancang
+Lanceuk
 Lanceuk
 Lancing
 Lancingan
+Lancip
 Lancip
 Landak
 Landep
 Landes
 Landesan
 Landeuh
+Landeuh
+Landeuh
+Landeuh
 Landi
 Landong
+Landung
 Landung
 Langab
 Langari
@@ -7234,18 +9857,32 @@ Langeu
 Langgan
 Langganan
 Langgar
+Langgar
+Langgar
 Langgeng
+Langgeng
+Langgeng
+Langgeng
+Langgeng
+Langgir
 Langgir
 Langgong
 Langit
+Langit
+Langka
 Langka
 Langkap
 Langkarak
 Langki
 Langkonyang
 Langkung
+Langkung
+Langkung
+Langlang
 Langlang
 Langlang buana
+Langlayangan
+Langlayangan
 Langlayangan
 Langlayeuseun
 Langsar
@@ -7257,11 +9894,15 @@ Langsud
 Langsung
 Lanjam
 Lanjang
+Lanjang
+Lanjang
+Lanjang
 Lanjaran
 Lanjung
 Lansat
 Lantang
 Lantar
+Lantaran
 Lantaran
 Lantas
 Lantayan
@@ -7270,6 +9911,7 @@ Lanteg
 Lantéra
 Lantip
 Lantip budi
+Lantis
 Lantis
 Lanto
 Lantrah
@@ -7284,11 +9926,13 @@ Lapang udara
 Lapangan
 Lapar
 Lapat-lapat
+Lapat-lapat
 Lapis
 Lapisan
 Lapor
 Lapur
 Laput
+Lara
 Lara
 Lara karugan
 Lara masakat
@@ -7296,8 +9940,10 @@ Lara panglipur kalbu
 Larang
 Larap
 Laras
+Laras
 Larung
 Las
+Lasmana
 Lasmana
 Lasmi 
 Lastari
@@ -7308,30 +9954,44 @@ Latih
 Latihan
 Latu
 Lauk
+Lauk
 Lauk asin
 Lauk Buruk Milu Mijah
 Lauk laut
 Laun
+Laun
 Laun-laun
 Laur
+Laut
 Laut
 Laut kidul
 Lautan
 Lautan seuneu
 Lawan
+Lawan
+Lawan
+Lawan
 Lawang
 Lawang kori
 Lawang Para
 Lawang saketeng
+Lawang saketeng
+Lawang saketeng
 Lawang sakéténg
+Lawas
 Lawas
 Lawéronték
 Laweun
 Lawon
+Lawon
 Lawung
 Laya
 Layad
+Layad
+Layad
 Layah
+Layak
+Layak
 Layak
 Layan
 Layang
@@ -7339,46 +9999,65 @@ Layang ambia
 Layanna
 Layar
 Layeut
+Layeut
+Layeut
+Layon
 Layon
 Layu
 Layung
 Layur
+Léah
 Léah
 Léb
 Lebah
 Lebak
 Lebar
 Lébar
+Lébar
 Lebe
 Lebeng
 Lébér
+Lébér
+Leber 
 Leber 
 Lébér wawanén
 Lebet
 Lébléban
 Lebok
 Lebu
+Lebu
+Lebu
 Lebu rokok
+Lebuh
 Lebuh
 Lebur 
 Lécé
 Lecek 
 Lécét
+Lécét
+Léci
 Léci
 Ledeg
 Lédeng
+Ledis
+Ledis
 Ledis
 Ledok
 Lédot
 Ledrek
 Ledug
 Lééh
+Lééh
+Lega
+Lega
 Lega
 Legaday
 Légé
 Légég
+Légég
 Legit
 Legleg
+Legok
 Legok
 Legon
 Leguk
@@ -7387,10 +10066,12 @@ Lehoan
 Lejar
 Léjég
 Léjét
+Léjét
 Lejo
 Lekasan
 Léké
 Leker
+Leket
 Leket
 Leket ibadah
 Leketey
@@ -7408,35 +10089,45 @@ Léléda
 Lelek
 Lelembut
 Lelembutan
+Lelembutan
 Lelempegan
 Lélémpeng 
 Lelengén
+lelengén
 Léléngkah halu
 Léléngohan
 lelentuk
 Lelenyapan
 Lelenyepan
 Lelep
+Lelep
 lelepen
+Leler
 Leler
 lélér
 Lélésaheun
+Leleson
 Leleson
 Lelet
 Lélétak
 Leleteun
 Léléwa
 Lelewek
+Lelewek
+Léléwodéh
 Léléwodéh
 leleyepan
 Lém
 Lemah
+Lemah cai
+Lemah cai
 Lemah cai
 Lemar
 Lemari enteung 
 Lemari és
 Lémbak
 Lémbang
+Lembék
 Lembék
 Lémbér
 Lémbéréh
@@ -7446,9 +10137,15 @@ Lémbok
 Lémbon
 Lembu
 Lembur
+Lembur
+Lembur
+Lembur
 Lembur anyar
 Lembut
+Lembut
 Lémék
+Lémék
+Lemes
 Lemes
 lemet
 Lémo
@@ -7456,19 +10153,25 @@ Lémong
 Lempag
 Lempah
 Lempar
+Lempar
 Lémpar
 Lempay
 Lempeng
+Lempeng
+Lempeng
 Lémpéng
+Lémpés
 Lémpés
 Lempog
 Lémpoh
 Lempréh
 Lempung
+Lempung
 Lemu
 Léna
 Lénang
 Lencana
+Léncop
 Léncop
 Léndé
 Lendeng
@@ -7483,8 +10186,11 @@ Lénggang
 Lenggeceng
 Lénggéréng
 Lenggik
+Lenggik
+Lenggik
 Lénggok
 Lenggrek
+Lenggut
 Lenggut
 Lenghoy
 Lengis
@@ -7492,17 +10198,25 @@ Léngkah
 Lengkeh
 Léngkéng
 Lengkep
+Lengkep
+Lengkep
+Lengkep
 Léngkét
 Léngkob
 Léngkong
 Lenglang
 Lénglang
+Lénglang
+Lénglé
 Lénglé
 Lengo
 Léngoh
+Léngoh
 Léngsér
 Lengus
+Lengus
 Lening
+Lenjang
 Lenjang
 Lénong
 Lénsa
@@ -7513,6 +10227,7 @@ Lentong
 Lentreng
 Lentud
 Lenyap
+Lenyap
 Lenyep
 Lenyepan
 Léob
@@ -7521,21 +10236,30 @@ Léok
 Léong 
 Léor
 Léot
+Léot
 Lepas
+Lepat
 Lepat
 Lépé
 Lepéh
 Lépét
+Lépét
 Lépra
 Lépri
 Lepus
+Lepus
 Léréng
 leres
+Leres
+Leres
 Lérés
 Leresan
 Lérét
 Lésang
 Lésot
+Lésot
+Lesu
+Lesu
 Lesu
 Létah
 Létah badak
@@ -7550,8 +10274,12 @@ Leubeut
 Leueur
 Leueut
 Leugeut
+Leugeut
 Leuhang
 Leuheung
+Leuheung
+Leuir
+Leuir
 Leuir
 Leuit
 Leukeun
@@ -7561,30 +10289,49 @@ Leuleueur
 Leuleumeungan
 Leuleungitan
 Leuleus
+Leuleus
 Leuleus awak
+Leuleutikan
 Leuleutikan
 Leuleuy
 Leumeung
 Leumeung ganggong
 Leumpang
+Leumpang
+Leumpang
 Leumpang pairing - iring
 Leumpeuh
 Leumpeuh yuni
+Leumpeuh Yuni
 Leunca
 Leuncang
 Leuncangeun
 Leungeun
+Leungeun
 Leunggeuh
 Leungit
+Leungit
+Leungit
+Leungit
+Leungit
+Leungit
+Leungit
 Leungit kakuatan 
+Leungiteun
 Leungiteun
 Leunjeur
 Leunjeuran
 Leunyay
 Leupas
+Leupas
+Leupas
 Leupeut
 Leuseuh
+Leuseuh
 Leutak
+Leutik
+Leutik
+Leutik
 Leutik
 Leutik 
 Leutik camperenik
@@ -7592,7 +10339,12 @@ Leutik pisan
 Leuweung
 Leuweung beledegan
 Leuweung geledegan
+Leuweung geledegan
+Leuweung geledegan
+Leuweung geledegan
 Leuweung gerot
+Leuwi
+Leuwi
 Leuwi
 Leuwih
 leuya
@@ -7604,19 +10356,27 @@ Leyep
 Leyur
 Lian
 Liang
+Liang
 Liang haseup 
 Liang hawa
 Liang tai
+Liar
+Liar
 Liar
 Liat
 Libur
 Liburan
 Licik
+Licik
+Licik
+Licin
 Licin
 Licinan
 Licineun
 Lidig
 Lieuk 
+Lieur
+Lieur
 Lieur
 Lieus
 Ligar
@@ -7626,8 +10386,12 @@ Liker
 Liket
 Likur
 Lila
+Lila
+Lilah
 Lilah
 Lila-lila
+LIla-lila
+Lilin
 Lilin
 lilinggeran
 Lilir
@@ -7645,21 +10409,29 @@ Limit
 Limpas 
 Limpeu
 Limpeuran
+Limpeuran
 Limus
 Lincar
+Lindeng
 Lindeng
 Lindeuk
 Lindih
 Lindu
 Linduk 
 Lindur
+Lindur
+Lingas
 Lingas
 Linggek
 Lingger
 linggih
+Linggih
+Linggih
 Linggis
 Linghas
+Linghas
 Lingih
+Lingkung
 Lingkung
 Lingkung lembur
 Lingkup
@@ -7669,46 +10441,64 @@ Linglung
 Lingsem
 Lingsig
 Lingsir
+Lingsir
+Lingsir 
 Lingsir 
 Lini
 Linjing
 Lintang
 Lintar
 Lintuh
+Lintuh
+Linu
+Linu
 Linu
 Linuhung
 linyih
 Linyok
+Linyok
+Lio
 Lio
 Liong
 Liontin 
+Lipet
 Lipet
 Lipur
 Liput
 Lir
 Liren
+Liren
 Lirén
 Lirik
 Liris
+Liris
+Liron
 Liron
 Liron tambih
 Lisa
 Lisah
+Lisan
 Lisan
 Lisung
 Lisus
 Lita
 Liud
 Liuh
+Liuh
 Liung
 Liwar
 Liwat
+Liwat
+Liwat
+Liwat
+Liwat Wates
 Liwat Wates
 Liwet
 Liwung
 Loa
 Loba
 Loba 
+Loba akal
 Loba akal
 Loba gawe
 Loba omong
@@ -7722,6 +10512,7 @@ Lobang
 Lobang kancing
 Locéng
 Locot
+Locot
 Lodaya
 Lodéh
 Lodok
@@ -7729,7 +10520,9 @@ Lodong
 Lodor
 Lodro
 Logak
+Logak
 Logam
+Logat
 Logat
 Logodor
 Logojo
@@ -7745,10 +10538,13 @@ Lolodok
 Loloh
 Lolong
 Lolongkrang
+Lolongkrang
 Lolos
 Loma
 Lomar
 Lomari
+Lomari
+Lombang
 Lombang
 Lombang pamiceunan runtah
 Lompong
@@ -7759,9 +10555,11 @@ Londok
 Longkéang
 Longok
 Longsong
+Longsong
 Lonjor
 Lontar
 Lonté
+Lonyod
 Lonyod
 Lopang
 Loréng
@@ -7783,12 +10581,18 @@ Luar
 Luar biasa
 Luar-léor
 Luas
+Luas
 Lubak-libuk
 Lubang
 Lubar
 Lubar idah
 Lubar lidah
 Lucir
+Lucir
+Lucu
+Lucu
+Lucu
+Lucu
 Lucu
 Ludes
 Ludeung
@@ -7801,17 +10605,30 @@ Lugay
 Lugina
 Luh
 Luhung
+Luhung
+Luhung
+Luhur
+Luhur
+Luhur
 Luhur
 Luhur Martabatna
 Luhureun
 Luis
 Lukak
 Lukut
+Lukut
 Luli
 Lulub
 Lulucon
+Lulucon
+Lulucon
+Lulucon
+Lulucon
+Lulugu
+Lulugu
 Lulugu
 luluh
+Luluhur
 Luluhur
 Lulumban
 Lulumpatan
@@ -7834,23 +10651,33 @@ Lumbung
 Lumého
 Lumpat
 Lumpat sakalumpat-lampet
+Lumpat sakalumpat-lampet
 Lumpat tarik
 Lumpat tarik (kuda)
 Lumpat tibabaranting
+Lumpat tibabaranting
 Lumping
+Lumrah
 Lumrah
 Lumur
 Lunas
 Luncat
+Luncat
 Luncat luhur
+Luncat luhur
+Luncat Mulang
 Luncat Mulang
 Lungé
 Lunggak-léngok 
 Lunggak-linggek
 Lungguh
+Lungguh
+Lungkawing
 Lungkawing
 Lungsar
 Lungse
+Lungsé
+Lungsé
 Lungsé
 Lungsi
 Lungsur
@@ -7865,8 +10692,10 @@ Luput
 Luput pisan
 Lur
 Lurah
+Lurah
 Lurah manten
 Lurug
+Lusuh
 Lusuh
 Lutung
 Lutung kasarung
@@ -7874,7 +10703,9 @@ Luuh
 Luu-léét
 Luwang-liwung
 Luwuk
+Luwuk
 Luyuh-layah
+Ma
 Ma
 Maan
 Maap
@@ -7887,24 +10718,41 @@ Mabok
 Mabra
 Mabur
 Maca
+Maca
 Maca Marhaba
 Macakal
 Macakeun
 Macam-macam
 Macan
+Macan
+Macan tenangan 
 Macan tenangan 
 Macangkrama
+Macangkrama
+Macangkrama
+Macapat
 Macapat
 Macek
+Macem
+Macem
 Macem
 Macem-macem 
 Macet
 Maceuh
 Macok
+Macok
+Macok
+Macok
+Macok
+Macok
+Macok
+Macok
 Macul
 Mada
 Madakeun
+Madakeun
 Madanan
+Madang
 Madang
 Madangkrang
 Madat
@@ -7923,18 +10771,25 @@ Madrasah tsanawiyah
 Madu
 Madu kucing
 Madukara
+Madukara
 Madya
 Madyagantang
 Maehan
+Maehan
 Maehan 
 Maehan Maneh
+Maehan maneh
 maén
+Maén
 Maén bal
+Maén bal
+Maen Rebutan
 Maen Rebutan
 Maenbal
 Maenya
 Magah
 Magahan
+Magak
 Magak
 Magang
 Magas
@@ -7944,18 +10799,29 @@ Magelaran
 Maghfiroh
 Maghrib
 Magol
+Magol
 Mah
+Maha
 Maha
 Maha guru
 Maha Kawasa
 Maha mulya
 Maha raja
 Mahabu
+Mahabu
+Mahabu
+Mahabu
+Mahabu
+Mahabu
+Mahal
 Mahal
 Mahala
+Mahala
+Mahamkeun
 Mahamkeun
 Mahasiswa
 Mahdi
+Maher
 Maher
 Mahér
 Mahéswara
@@ -7972,21 +10838,26 @@ Mairan
 Mais
 Maiséna
 Maja
+Maja
 Majad
 Majalah
 Majar
 Majeg
 Majegan
 Majeng
+Majeng
 Majlis
 Majlis ulama
 Majmu
 Majnun
+Majnun
+Maju
 Maju
 Maju 
 Maju kahirupan lahir-batinna
 Majukeun
 Makabutuh
+Makam
 Makam
 Makar
 Makara
@@ -7995,9 +10866,13 @@ Makaya
 Makayakeun
 Makbul
 Make
+Make
+Make
 Maké
 Maké acara
 Make rante
+Makelar
+Makelar
 Makelar
 Makhluk
 Makihikeun
@@ -8007,7 +10882,11 @@ Maksa mirusa
 Maksad
 Maksakeun Maneh
 Maksimeum
+Maksimeum
 Maksud
+Maksud
+Maksud
+Makuta
 Makuta
 Mala
 Maladara
@@ -8016,6 +10895,7 @@ Malahan
 Malahmandar
 Malaikat
 Malaka
+Malaka
 Malakal maot
 Malakalmaot
 Malakmandar
@@ -8023,34 +10903,59 @@ Malam
 Malam  buatan
 Malam jumaah
 Malang
+Malang
+Malang Mulintang
+Malang Mulintang
 Malang Mulintang
 Malangmang-mulungmung
 Malang-mulintang
 Malar
+Malar
+Malarat
+Malarat
+Malarat
 Malarat
 Malaria
 Malaria tropika
 Malati
 Malawading
 Malaweung
+Malaweung
 Malayu
+Malédog
+Malédog
 Malédog
 Maléla
 Malem
 Maléngkok
+Maléngkok
 Malengpeng
 Maléngpéng
+Maléngpéng
+Males
 Males
 Maleukmeuk
 Maliding sanak
 Malidkeun
+Malidkeun
+Malidkeun
 Malik
+Malim
 Malim
 Malim bahaya
 Malindes
+Malindes
+Maling
+Maling
 Maling
 Maling-Maling
+Maling-maling
 Malingping
+Malingping
+Malire
+Malire
+Malire
+Malire
 Malire
 Maluguran 
 Malulu
@@ -8058,7 +10963,9 @@ Ma'lum
 Ma'lumat
 Maluruh
 Mama
+Mama
 Mamacanan
+Mamah
 Mamah
 Mamajeng
 Mamala
@@ -8078,23 +10985,39 @@ Mamatahan
 Mamatih
 Mamayu
 Mamih
+Mamih
+Mampuh
+Mampuh
+Mampuh
+Mampuh
+Mampuh
 Mampuh
 Ma'mum
 Ma'mur
+Ma'mur
+Ma'mur
 Mana
 Ma'na
+Ma'na
 Manah
+Manah  
 Manah  
 Manahoréng
 Manan
 Manasan
+Manasan
+Manasan
+Manasan
 Manateuing
+Manawi
 Manawi
 Mancal
 Mancala
 Mancanagara
 Mancangah
+Mancangah
 Mancat
+Mancawura
 Mancawura
 Mancer
 Manceran
@@ -8105,10 +11028,12 @@ Mandah
 Mandala
 Mandalika
 Mandat
+Mandat
 Mandataris
 Manday
 Mande
 Mandean
+Mandeg
 Mandeg
 Mandeg-Mayon
 Mandepun
@@ -8116,6 +11041,7 @@ Mandeurikeun Maneh
 Mandi
 Mandi kembang
 Mandi oray
+Mandiri
 Mandiri
 Mandita
 Mando
@@ -8125,13 +11051,18 @@ Mandraguna
 Mandura
 Maneh
 Manéh
+Manéh
+Manéh
 Maneh 
 Manehna
+Manehna
+Manéhna
 Manéhna
 Manehna Ge Teu Indit
 Maneuh
 Mangabad-ngabad
 Mangan
+Mangandeuh
 Mangandeuh
 Mangani
 Mangantenkeun
@@ -8143,15 +11074,21 @@ Mangeran
 Mangga
 Manggah
 Manggar
+Manggar
 Manggih
 Manggihan
 Manggihan hal anu ngahalangan atawa ngahambat
 Manggu
 Manggul
+Manggul
+Manggul
+Manggul
+Manggul
 Manggulang-mangguling
 Manggungan
 Manggut
 Manggut-Manggut
+Mangka
 Mangka
 Mangka hadé
 Mangkak
@@ -8161,8 +11098,13 @@ Mangkas
 Mangkat
 Mangkel
 Mangku
+Mangku
+Mangku
+Mangku
 Mangkuban
 Mangkubumi
+Mangkuk
+Mangkuk
 Mangkuk
 Mangkuk 
 Mangkuk ceulian paragi nginum enteh
@@ -8171,19 +11113,27 @@ Mangle
 Mangléorkeun
 Manglumpatkeun
 Mangmang
+Mangmang
 Mangmeulahkeun
 Mangmeulikeun
 Mangnyieunkeun
 Mangpaat
+Mangpaat
 Mangpang-Meungpeung
+Mangpang-meungpeung
 Mangpaung
 Mangpeng
 Mangprét
 Mangprung
 Mangrupa
+Mangrupa
 Mangrupa cingcin
 Mangsa
+Mangsa
+Mangsa
+Mangsa
 Mangsabodo
+Mangsar-mingsir
 Mangsar-mingsir
 Mangsi
 Mangsi cina
@@ -8194,8 +11144,12 @@ Mangyuta-Yuta
 Manihot
 Manikam
 Manik-manik
+Manik-manik
 Manila
 Maning
+Maning
+Manis
+Manis
 Manis
 Manis lambé
 Manisan
@@ -8203,7 +11157,11 @@ Manjah
 Manjak
 Manjang
 Manjangan
+Manjangan
+Manjangan
 Manjing
+Manjing
+Manjur
 Manjur
 Manjurkeun
 Manoa
@@ -8211,17 +11169,25 @@ Manon
 Mansuh
 Mantang
 Mantangul
+Mantangul
 Mantega
 Manték
 Mantel
 Manten
+Manten
 Manteng
 Manteng 
+Manteng 
+Mantengkeun
 Mantengkeun
 mantenna
+Mantenna
+Mantenna
+Mantenna
 Mantep
 Manting
 Mantog
+Mantra
 Mantra
 Mantri
 Mantri guru
@@ -8229,9 +11195,13 @@ Mantri Ukur
 Mantri Ulu
 Mantu
 Mantuan
+Mantuan
+Mantuan
+Mantuan
 Mantun
 Manuk
 Manuk sabangsa ekek
+Manusa
 Manusa
 Manusa Purba
 Manyang-manyung
@@ -8240,7 +11210,18 @@ Manyeuseup
 Manyit
 Manyun
 Maok
+Maok
+Maok
+Maok
+Maok
 Maos
+Maot
+Maot
+Maot
+Maot
+Maot
+Maot
+Maot
 Maot
 Maot Meteng
 Map
@@ -8251,6 +11232,7 @@ Mapah
 Mapahat
 Mapakan
 Mapalangan
+Mapalangan
 Mapan
 Mapantes
 Maparin
@@ -8259,6 +11241,8 @@ Mapatahan Naek Ka Monyet
 Mapatahan Ngojay Ka Meri
 Mapatkeun jampe pamake
 Maphum
+Maphum
+Mara
 Mara
 Marab
 Marabaan Anak Pamajikan
@@ -8269,34 +11253,46 @@ Maradukeun
 Marag
 Marahmay
 Marahmay 
+Marahmay 
+Marahmay 
 Marak
 Marakayangan
 Marakbak
 Maranéhna
 Maranggi
 Maras
+Maras
 Marasan
 Marawanan
+Marawanan
+Marcapada
 Marcapada
 Marebutkeun
 Marek
 Marele
 Marema
+Marema
 Mareme Nama Pohon Maret
 Maren
 Marengan
 Marentah
+Marentah
+Mareuman
 Mareuman
 Marga
 Margaluyu
 Margasatwa
 Margi
+Margi
+Marhaba
 Marhaba
 Marhaen
 Marhumah
 Mariem
+Mariem
 Marieuskeun
 Marigi
+Mariksa
 Mariksa
 Mariksa perkara
 Maripat
@@ -8317,10 +11313,15 @@ Maru
 Marud
 Marud Sampeu
 Marudah
+Marudah
+Marudah
+Marudah
 Marudah Hate
 Maruka
 Marukan
 Marungkawut
+Marungkawut
+Ma'Rup
 Ma'Rup
 Marurung
 Marus
@@ -8330,11 +11331,20 @@ Masagi
 Masak
 Masakah
 Masakat
+Masakat
+Masakat
+Masakat
+Masakat
+Masalah
 Masalah
 Masamoan
 Masang
+Masang
+Masang
 Masang borongsong anjing
 Masar
+Masarakat
+Masarakat
 Masarakat
 Maseaan
 Maseakeun
@@ -8342,6 +11352,7 @@ Maséakeun
 Masehi
 Mashaf
 Masigit
+Masih
 Masih
 Masih Digawe
 Masih Dipaksa Ge Moal Daek
@@ -8352,6 +11363,7 @@ Masjid Agung
 Masjid Jami
 Masjid Raya
 Maskape
+Maskape
 Maskawin
 Masket
 Maskumambang
@@ -8359,6 +11371,8 @@ Masrahkeun
 Masrahkeun Maneh
 Masrik
 Mastaka
+Mastaka
+Mastar
 Mastar
 Mastikeun
 Masyarakat umum
@@ -8368,46 +11382,68 @@ Mata Ali
 Mata Dijuan Ke Peda
 Mata duiteun
 Mata Keranjang
+Mata Keranjang
 Mata Sapi
 Mata Simeuteun
+Mata simeuteun
 Matahiang
 Mataholang
 Matak
+Matak
 Matak aeb
 Matak bingung
+Matak ibur
 Matak ibur
 Matak kagagas
 Matak Muringkak Bulu Punduk
 Matak Oge
 Matak Olab
 Matak Onar
+Matak Onar
 Matak sieun
 Matakna
 Mata-Mata
+Mata-Mata
 Matang
+Matang
+Matangpuluh
 Matangpuluh
 Matek
 Mateni
+Mateni
+Mateni
+Mateni
+Mateni
 Matigeni
+Matih
 Matih
 Matok
 Matotoskeun
 Matrial
 Matuh
+Matuh
+Matuh
 Matung
 Maturan
 Maujud
+Maujud
 Maunat
+Maung
 Maung
 Maung kumbang
 Maung Ompong
 Mawa kabur 
+Mawa kabur 
 Mawa lumpat
 Mawar
 Maya
+Maya
+Mayak
 Mayak
 Mayakpak
 Mayan
+Mayang
+Mayang
 Mayang
 Mayang 
 Mayar
@@ -8425,16 +11461,21 @@ Mebel
 Meber
 Mébér
 meberkeun
+Meberkeun
+Meberkeun
 Mebleng
 Mecah
 Mecakan
 Medah-Meduh
 Medal
+Medal
 Medali
 Medan
 Médan laga
 Medar
+Medar
 Medarkeun 
+Mede
 Mede
 Medé
 Meded
@@ -8443,18 +11484,24 @@ Medeng
 Medenghel
 Medit
 Medok
+Medok
 Medsos
 Medu
 Meeng
 Mega
 Megah
+Megah
 Megantara
+Megar
 Megar
 Megarkeun
 Megat Dijalan
 Meh
+Meh
+Meh
 Meh Anggeus
 Meh Bae
+Meh bae
 Meh-Mehan
 Mehong
 Mei
@@ -8466,8 +11513,14 @@ Meja Tulis
 Meje
 Mejen
 Mekar
+Mekar
+Mekar
+Mekar
 Melak
 Melalu-Melu
+Melang
+Melang
+Melang
 Melang
 Melas-Melis
 Melati
@@ -8477,8 +11530,12 @@ Meledek
 Meledos
 Meledug
 Melempem
+Melempem
+Melencing
 Melencing
 Melendung
+Melendung
+Meleng
 Meleng
 Melenge
 Melengek
@@ -8489,9 +11546,11 @@ Melentung
 Meles
 Meletek
 Meleték 
+Meleték 
 Meletok
 Melid
 Melik
+Melong
 Melong
 Melung
 Memang
@@ -8506,30 +11565,45 @@ Memeniran
 Memeres
 Memeres 
 Mempan
+Mempan
 Mena
+Menak
+Menak
+Menak
 Menak
 Ménak
 Menak Murba
 Menangis
 Menantu
 Mencek
+Mencek
+Mencek
+Mencenges
+Mencenges
 Mencenges
 Mencet
 Menciap
+Mencil
+Mencil
+Mencil
 Mencil
 Mencilkeun maneh
 Mencog
 Mencolok
 Mencolong
 Mencos
+Mencos
 Mencrang
 Mencret
+Mencret
 Mencuri
+Mendak
 Mendak
 Mendak Taun
 Mendayu
 Mendek
 Mendeko
+Mendelik
 Mendelik
 Menderita
 Menderu
@@ -8546,10 +11620,12 @@ Mendung
 Menekung
 Menel
 Meneng
+Meneng
 Menerkeun
 Menganteurkeun
 Méngba
 Mengbal
+Menge
 Menge
 Mengesot
 Menggamit
@@ -8569,13 +11645,16 @@ Menghirup
 Menghisap
 Menghoramat
 Mengi
+Mengi
 Mengigau
 Mengiris
 Mengisap
 Mengke
 mengkol
+Mengkol
 Méngkol
 Mengkol ka kenca
+Mengkol tina aeas
 Mengkol tina aeas
 Mengkolkeun
 Mengled
@@ -8593,13 +11672,20 @@ Menjeun
 Menta
 Ménta
 Mental
+Mental
 Mentas
+Mentas
+Mentegeg
+Mentegeg
 Mentegeg
 Menteng
 Menter
 Mentereng
 Mentingkeun
 Mentud
+Mentud
+Menyan
+Menyan
 Menyan
 Meong
 Méong
@@ -8609,12 +11695,14 @@ Mérah Jambu
 Merak
 Merak Ngibing
 Meral
+Meral
 Merang
 Merang Awi
 Merasakan
 Merat
 Merbait
 Merban
+Merdika
 Merdika
 Mere
 Méré
@@ -8630,8 +11718,11 @@ Meredong
 Merejel
 Merejih
 Merek
+Merek
+Merekedeweng
 Merekedeweng
 Merekenyenyen
+Mereketetet
 Mereketetet
 Mereketkeun Maneh
 Merekis
@@ -8639,14 +11730,22 @@ Merekpek
 Merelek
 Merem
 Merenah
+Merenah
 Meresan
 Mérésan
 Merhatikeun
+Merhatikeun
+Merhatikeun
+Merhatikeun
+Meri
+Meri
 Meri
 Merkarakeun
 Mertua
 Meruhkeun
+Meruhkeun
 Merul
+Mesat 
 Mesat 
 Mesat bedog
 Mesem
@@ -8660,28 +11759,48 @@ Mesum
 Metat
 Meteng
 Metengkeun
+Metengkeun
 Meter
 Meteran
 Metet
 Metodeu
+Metodeu
 Metot
+Metot
+Metot
+Metot
+Metot
+Metu
 Metu
 Metung
 Meubeut
 Meubeut-Meulit
 Meueusan
+Meueusan
 Meueus-Meueus
+Meugeus
 Meugeus
 Meuhpeuy
 Meujeuh
 Meujeuhna
 meulah
+Meulah
 Meulah 
 Meuleum jagong
 Meuli
 Meumeut
 Meunang
+Meunang
+Meunang
+Meunang
+Meunang
+Meunang
+Meunang
 Meunang hadiah
+Meunang hadiah
+Meuncit
+Meuncit
+Meuncit
 Meuncit
 Meungkeut
 Meungkeut ku perban
@@ -8690,34 +11809,54 @@ Meungpeun
 Meungpeung
 Meupeus Keuyang
 Meureun
+Meureun
 Meurit
+Meurit
+Meuseuh
+Meuseuh
+Meuseuh
 Meuseuh
 Meuseul
 Meuting
+Meuting
 Meuweuh
 Meuyeum
+Meuyeum
+Mewah
 Mewah
 Mewek
 Mewok
 Miang
+Miang
 Miara
 Miceun
+Miceun
+Miceun
+Miceun
+miceun
 Miceun maneh
 Miceunan
 Micicid
 Midangdam
+Midangdam
 Mideudeuh
+Miéling
+Miéling
 Miéling
 Miesa
 Migawe
 Migusti
 MIhapékeun
+Mihapékeun
+Miharep
 Miharep
 Miharep pisan
 Miheulaan
 Mihrab
 Mihukum
+Mihukum
 Miindung
+Mijah
 Mijah
 Mijahkeun Lauk
 Mikaanyaah
@@ -8727,6 +11866,9 @@ Mikacua
 Mikadeudeuh
 Mikageuleuh
 Mikahayang
+Mikahayang
+Mikahayang
+Mikahayanga
 Mikahayanga
 Mikahéman
 Mikahoyong
@@ -8738,10 +11880,12 @@ Mikapoken
 Mikarep
 Mikaresep
 Mikarunya
+Mikarunya
 Mikawelas
 Mikeun
 Mikolot
 Mikung
+Milang
 Milang
 Milemburan
 Milepas
@@ -8751,7 +11895,9 @@ Mili Mintur
 Miliar
 Milihatur
 Milik
+Milik
 Milisi
+Milu
 Milu
 Milu 
 Milu cicing
@@ -8761,9 +11907,12 @@ Mimbar
 Mimis
 Mimiseun
 Mimiti
+Mimiti
+Mimiti
 Mimiti nyaho
 Mimitran
 Minang
+Minangka
 Minangka
 Minantu
 Minantuan
@@ -8777,40 +11926,55 @@ Mindahkeun
 Mindahkeun sakabeh pangeusi pasantren ka tempat sajen
 Mindel
 Mindeng
+Mindeng
+Mindeng
+Mindeng
+Mindeng
 Minder
 Mindi
 Mindo
 Mindring
+Mineral
 Mineral
 Mineung
 Mineus
 Minggat
 Minggon
 Minggu
+Minggu
 Mingguan
+Mingkeun
 Mingkeun
 Mingkin
 Mingpat
 mingpin
 Mingsal
+Mingsal
+Mini
 Mini
 Minimeum
 Minimum
 Mintaraga
 Mintelu
 Mintonkeun
+Mintonkeun
+Mintul
 Mintul
 Mintur
 Minuhan
 Minus
 Minyak
+Minyak
 Minyak héés
+Minyak Jalantah
 Minyak Jalantah
 Minyak Kalapa
 Minyak lambé
 Minyak Rambut
 Minyak Tanah
 Minyak Wangi
+Minyak Wangi
+Mios
 Mios
 Mipis
 Mipit
@@ -8822,21 +11986,40 @@ Mirasa
 Mirig
 Miring 
 Miris
+Miris
+Miris
+Mirong
 Mirong
 Mirosea
+Mirosea
+Mirosea
+Misah
+Misah
+Misah
 Misah
 Misalah
 Misan Mindo
 Misi
 Misil
+Misil
+Miskin
+Miskin
+Miskin
+Miskin
+Miskin
 Miskin
 Misleuk
+Misleuk
+Misti
 Misti
 Mitembeyan
 Mitoha
+Mitoha
 Mitoha awewe
 Mitra
+Mitra
 Miuk
+Miwah
 Miwah
 Miyuni Hayam Kabiri
 Miyuni Umang
@@ -8846,16 +12029,23 @@ Moal
 Moal Boa
 Moal jadi kumaha
 Mobil
+Mobil
 Moci
+Mocot
+Mocot
 Mocot
 Modal
 Modal Dengkul
 Mode
 Model
+Model
+Moderen
 Moderen
 Modeu
 Modin
+Modin
 Modol
+Modos
 Modos
 Moé
 Moekan
@@ -8863,9 +12053,13 @@ Mogok
 Moha
 Mohal
 Mohehed
+Mohehed
 Moheng
 Mojang
+Mojang
+Mojang
 Mojang 
+Mokaha
 Mokaha
 Mokahaan
 Mokla
@@ -8873,20 +12067,42 @@ Mokprok
 Mole
 Molelel
 Molohok
+Molohok
+Molohok
+Molohok
 Molongo
+Molongo
+Molongpong
+Molongpong
 Molongpong
 Molonyon
 Molopos
 Molotok
 Molotot
+Molotot
+Molotot
+Molotot
+Molotot
+Molotot
+Molotot
+Molotot
+Molotot
 Molotot teu ngiceup - ngiceup
+Momobilan
 Momobilan
 Momok
 Momong
 Momore
 Momot
+Momot
+Momot
+Momot
+Momot
+Moncorong
 Moncorong
 Mondok
+Mondok
+Mones
 Mones
 Mongkleng
 Mongmong
@@ -8894,23 +12110,33 @@ Mongplo
 Monster
 Montir
 Montok
+Montok
 Montong
 Monyah
 Monyet
 Monyét
+Monyét
+Monyét
+Monyét
 Monyet Kapalingan Jadung
 Monyet Ngagugulung Kalapa
+Monyet Ngagugulung Kalapa
+Monyong
 Monyong
 Mopo
 Mopo Memeh Nanggung
 Mopole
 Moral
 Moreret
+Moreret
 Mori
+Moro
 Moro
 Morokodokdok
 Morontod
 Moronyoy
+Moronyoy
+Morosot
 Morosot
 Mortir
 Mosi
@@ -8925,9 +12151,15 @@ Motor Bengsin
 Motoris
 Mowande
 Moyan
+Moyan
+Moyan
 Moyang
 Moyeg
 Moyodok
+Moyok
+Moyok
+Moyok
+Moyok
 Moyok
 Mu'Akad
 Mu'Alap
@@ -8936,6 +12168,9 @@ Muat
 Muatan
 Muatkeun
 Mubadir
+Mubadir
+Mubadir
+Mubaleg
 Mubaleg
 Mubus
 Mubyar
@@ -8943,50 +12178,76 @@ Mucekil
 Mucuk
 Mucuk Eurih
 Mucung
+Mucung
+Mucunghul
 Mucunghul
 Muda
 Mudal
+Mudal
+Mudal
+Mudal
+Mudal
+Mudal
+Mudal 
 Mudal 
 Muda-Mudi
 Mudawarah
 Mudegdeg
 Mudi
 Mudik
+Mudik
+Mudu
 Mudu
 Muga
+Muga
 Muga-muga
+Muga-muga
+Mugen
 Mugen
 Mugi-mugi
 Mugis
 Muguhkeun
 Muguran
+Muguran
+Muguran
+Muguran
 Muhammad
 Muhara
+Muharam
 Muharam
 Muhit
 Muhlis
 Muhrim
 Muhun
+Muhun
+Muhun
 Mujaer
 Mujaér
 Mujarab
+Mujarab
+Mujarad
 Mujarad
 Muji
 Muji Maneh
 Mujijat
 Mujur
 Muka
+Muka
+Muka
 Muka 
 Muka panto maksa
 Mukadimah
 Mukahkeun
+Mukahkeun
 Mukena
+Mukim
 Mukim
 Muklis
 Mukti
 Mukti Wibawa
 Mukukung
 Mulamanti
+Mulang
 Mulang
 Mulang Ka Rahmatullah
 Mulang Tamba
@@ -8995,24 +12256,41 @@ Mulangkeun
 Mulangkeun kanyeri
 Mulangkeun Panineungan
 Mulangkeun Panyiraman
+Mulangkeun Panyiraman
 Mulasara
+Mulasara
+mulasara
+mulasara
+Mulek
 Mulek
 Mules
 Muli
 Mulih
+Mulih
+Mulih
 Mulintang
+Mulintang
+Mulud
 Mulud
 Muludan
 Muluk
+Mulung
+Mulung
 Mulung
 Mulung minantu
 Mulungkeun
 Muluntu
 Mulus
+Mulus
 Mulya
+Mulya
+Mulya
+Mulya
+Mumbul
 Mumbul
 Mumfarid
 Mu'Min
+Mumul
 Mumul
 Mumulan
 Mumule
@@ -9020,30 +12298,42 @@ Mumuluk
 Mumuncangan
 Mumundingan
 Mumunggang
+Mumunggang
+Mun
 Mun
 Munahan
 Munajat
 Munapék
 Munara
 Munasabah
+Munasabah
+Muncang
 Muncang
 Muncang Labuh Ka Puhu
 Muncereng
 Muncrat
+Muncrat
+Muncrut
 Muncrut
 Muncugug
+Muncugug
+Muncul
 Muncul
 Mundak
 Munday
 Mundayan
 Mundel
+Mundel
 Munding
 Mundu
 Mundur
+Mundur
 Mundur Papan Kalawan Tulis
+Mung
 Mung
 Munggah
 Munggah Haji
+Munggaran
 Munggaran
 Munggeng
 Mungguh
@@ -9052,26 +12342,41 @@ Mungkered
 Mungkir
 Mungkulan
 Mungkur
+Mungkur
+Mungkuran
 Mungkuran
 Mungkus
 Mungpulung
+Muni
 Muni
 Munkar
 Munkar Jeung Nakir
 Muntab
 Muntab-Muntab
+Muntab-muntab
+Muntah
 Muntah
 Muntir
+Muntir
+Mupakat
+Mupakat
 Mupakat
 Mupuh
 Mupuh 
 Mupuhuan
+Mupuhuan
+Mupus
+Mupus
 Mupus
 Mupusti
 Murad
+Murad
+Murag
+Murag
 Murag
 Murag bulu 
 Murah
+Murangkalih
 Murangkalih
 Murang-Mareng
 Murang-Maring
@@ -9081,23 +12386,33 @@ Murbeng Alam
 Murda
 Murengked
 Muriang
+Muriang
+Muriang
 Muriang kotok
 Muriang Teu Kawayaan
+Muriang Teu Kawayaan
 Murid
+Murilit
 Murilit
 Muring
 Muringis
 Muringis 
 Muringkak
+Muringkak
+Muringkak
 Muringkak bulu punduk
 Murintil
+Murintil
 Murka
+Murni
 Murni
 Mursid
 Murtad
 Murub Mubyar
 Murugul
 Muruhpuy
+Muruhpuy
+Murukukung
 Murukukung
 Murukusunu
 Muruluk
@@ -9106,6 +12421,7 @@ Murus
 Muruy
 Musapir
 Musawarah
+Musawarah
 Mushaf
 Musibah
 Musibat
@@ -9113,23 +12429,35 @@ Musieum
 Musik
 Musim labuh
 Muskil
+Muskil
+Muslihat
 Muslihat
 Muslim
 Muslimat
+Musna
+Musna
+Musna
 Musna
 Musola
 Musrik
 Mustahik
 Mustahil
 Mustajab
+Mustajab
+Mustaka
 Mustaka
 Mustika
 Mustika Asem
 Mustika Pagulingan
 Mustung
 Musuh
+Musuh
+Musuh
 Musuh Gerot
 Musuh Kabuyutan
+Musuh Kabuyutan
+Muter
+Muter
 Muter
 Muter 
 Mutiara
@@ -9137,30 +12465,44 @@ Mutiktrik
 Mutlak
 Mutu
 Mutuh
+Mutuh
 Mutuh Matak Lucu
 Mutung
+Mutung
+Mutuskeun
 Mutuskeun
 Muwakif
 Muyudun
 Muyung
 Na
+Na
 Naas
+Naas
+Naas
+Naas
+Nabeuh
 Nabeuh
 Nabi
 Nabi Adam
 Nabi Panutup
 Nabrak
+nabrak
 Nabrak dasar laut
 Nada
 Nadang
+Nadar
 Nadar
 Nadi
 Nadir
 Nadran
 Naek
+Naek
+Naek
+Naek
 Naekan
 Naeun
 Naga
+Nagara
 Nagara
 Nagara luar
 Nagarawan
@@ -9171,14 +12513,22 @@ Nagrak
 Nagri
 Nagri Astina
 Naha
+Naha
+Naha
 Nahan
+Nahan
+Naheur
 Naheur
 Nahi
 Nahnay
+Nahnay
+Nahnay
+Nahu
 Nahu
 Naib
 Najan
 Najis
+Naker
 Naker
 Nakleuk
 Nakol
@@ -9188,28 +12538,46 @@ Nala
 Nalak
 Nalaktak
 Nalangsa
+Nalangsa
+Nalangsa
 Nalapung 
 Nalar
+Nalar
 Nalian
+Nalian
+Nalika
+Nalika
+Nalika
 Nalika
 Nalikeun
 Nalingalikeun
 Nalipak
+Nalipak
 Naliti
 Nalungtik
+Nalungtik
+Nalungtik
+Nalungtik
 Nam
+Nam
+Nam
+Nambahan
 Nambahan
 Nambleg
 Nambru
 Nami
 Namnam
 Namper
+Namper
 Nampiling
+Namung
 Namung
 Nanah
 Nanahaonan
 Nanangkaan
 Nanaonan
+Nandangan
+Nandangan
 Nandangan
 Nandonkeun
 Nanduk
@@ -9219,55 +12587,100 @@ Nanggung
 Nanghunjar
 nangih
 Nanging
+Nanging
 Nangis
 Nangka
 Nangka Walanda
+Nangka walanda
+Nangkarak
+Nangkarak
 Nangkarak
 Nangkarak Bengkang
+Nangkarak bengkang
 Nangkeup
 Nangkeup harigu
 Nangkeup tuur
+Nangkeup tuur
+Nangkeup tuur
+Nangkoda
 Nangkoda
 Nangkring
+Nangkring
+Nangkuban
+Nangkuban
+Nangkuban
 Nangkuban
 Nangna-Nengne
 Nangtang
+Nangtang
 Nangtawing
+Nangtayungan
+Nangtayungan
+Nangtayungan
 Nangtayungan
 Nangtung
 Nangunjar
 Nanjak
+Nanjak
 Nanjeur
+Nanjung
+Nanjung
+Nanjung
 Nanjung
 Nanyaan
 Naon
+Naon
+Naon sababna
 Naon sababna
 Naon-Naon
+Naon-naon
 Napak Jalak
 Napa-kacang
+Napakah
 Napakah
 Napak-hancang
 Napas
 Napel
+Napel
+Napelkeun
+Napelkeun
+Napelkeun
 Napelkeun
 Napsi-Napsi
 Napsu
+Napsu
+Napsu
+Napsu
 Napsu 
 Nara
+Nara
+Naraca
 Naraca
 Narah
+Narajang
+Narajang
+Narajang
+Narajang
+Narajang
+Narajang
 Narajang
 Naraka
 Narapidana
 Naratas jalan
 Narik
+Narik
 Narik kadali
 Narik Napas
+Narima
 Narima
 Narpati
 Narpidan
 Nasab
 Nasabah
+Nasehat
+Nasehat
+Nasehat
+Nasehat
 Nasehat
 Naséhat
 Nasehat 
@@ -9275,16 +12688,23 @@ Nasib
 Nasib hadé
 Nasihat supaya nglakukeun hiji hal
 Nasional
+Nasional
+Nastiti
 Nastiti
 Nataan 
+Nataku
 Nataku
 Natal
 Natrat
 Natus
 Nawaetu
+Nawaetu
 Nawing
 Nawis
+Nawis
 Nayaga
+Nayaga
+Neangan
 Neangan
 Néangan akal
 Néangan tapak
@@ -9292,24 +12712,32 @@ Neba
 Necis
 Neda
 Nedeng
+Nedeng
 Neger
 Negla
 Negrak
 Negro
 Negtog
 Neguh
+Neguh
 Neja
 Nekad
 Néké
+Néké
 Nekeh
+Nekel
 Nekel
 Neleg
 Nembang
+Nembang
+Nembe
 Nembe
 Némbongan
 Nembongkeun
+Nembongkeun
 Nembres
 Nempatan
+Némpél
 Némpél
 Nempoan
 Nendeng
@@ -9318,6 +12746,8 @@ Neneh
 Néng
 Nenggang
 Nenggel
+Nenggel
+Nénggor
 Nénggor
 Nengterewelang
 Nengtet
@@ -9330,7 +12760,12 @@ Néplak
 Nepungan
 Nerag
 Nerangkeun
+Nerangkeun
+Nerangkeun
 Nerapkeun
+Nerapkeun
+Neregteg
+Neregteg
 Neregteg
 Nerekel
 Neros
@@ -9338,19 +12773,30 @@ Neruskeun
 Nétélakeun
 Netra
 Neuhneur
+Neuhneur
+Neukteup
 Neukteup
 Neuleuman
 Neuleuman 
 Neumbrag
+neumbrag
+Neundeun
 Neundeun
 Neunggar
+neunggar
+Neunggeul
+Neunggeul
 Neunggeul
 Neunggeulan
 Neureuy
 Neut
 Neuteuli
+Neuteuli
+Neuteup
 Neuteup
 Neutneutan
+Newak
+Newak
 Newak
 Newak jelema jahat
 Newakan 
@@ -9358,12 +12804,16 @@ Newek
 Newel
 Ngaabadikeun
 Ngababad
+Ngababad
+Ngababad
 Ngabadamikeun
 Ngabadé
 Ngabaékeun
 Ngabagel
+Ngabagel
 Ngabagi
 Ngabagjakeun
+Ngabahekeun
 Ngabahekeun
 Ngabajo
 Ngabakti
@@ -9371,7 +12821,10 @@ Ngabalangkeun
 Ngabalanjakeun
 Ngabales ku prilaku nu hade
 Ngabalieur
+Ngabalieur
+Ngabalieur
 Ngabalodor
+Ngabalukarkeun
 Ngabalukarkeun
 Ngabandaleut
 Ngabandar
@@ -9380,9 +12833,13 @@ Ngabangsat
 Ngabanjur
 Ngabantah
 Ngabantingkeun
+Ngabantingkeun
 Ngabanyu Mili
 Ngabareuhan
+Ngabareuhan
 Ngabaris
+Ngabaris
+Ngabar-ngabar
 Ngabar-ngabar
 Ngabaruntak
 Ngabasmi
@@ -9392,14 +12849,17 @@ Ngabayangkeun
 Ngabayuan
 Ngabebaskeun
 Ngabecir
+Ngabecir
 Ngabedakeun
 Ngabedel
 ngabedol
+Ngabedol
 Ngabedong
 Ngabejaan
 Ngabekelan
 Ngabekem
 Ngabekok
+Ngabela
 Ngabela
 Ngabela 
 Ngabela-bela
@@ -9417,29 +12877,38 @@ Ngaberele
 Ngaberele 
 Ngaberesihan
 ngaberesihkeun
+Ngaberesihkeun
 Ngabetot
 Ngabeulit
+Ngabeungbeuratan
 Ngabeungbeuratan
 Ngabeuratkeun
 Ngabewara
 Ngabewarakeun
 Ngabiasakan
 Ngabibira
+Ngabibira
 Ngabigeu
 Ngabigeug
 ngabingbing
 Ngabingungkeun
+Ngabingungkeun
+Ngabirigidig
 Ngabirigidig
 ngablag
 Ngablak
 Ngablu
 Ngabodor
 Ngabohong
+Ngabohong
+Ngabohongan
 Ngabohongan
 Ngabojeg
 Ngabolaykeun hiji perkara
 Ngabolékérkeun
 Ngabonceng
+Ngabonceng
+Ngabongkar
 Ngabongkar
 Ngabongohan 
 Ngaborehkeun
@@ -9447,12 +12916,18 @@ Ngaborogod
 Ngaboséh
 Ngabosenkeun
 Ngabring
+Ngabring
+Ngabring
+Ngabring
 Ngabringkeun
+Ngabrul
 Ngabrul
 Ngabuang
 Ngabubut
 Ngabubuy 
 Ngabudah
+Ngabudah
+Ngabudalkeun
 Ngabudalkeun
 Ngabudi ucing
 Ngabukbak
@@ -9465,7 +12940,10 @@ Ngaburiyay
 Ngaca
 Ngaca 
 ngacak
+Ngacak
+Ngacak
 Ngacapi
+Ngacaprak
 Ngacaprak
 Ngacir
 Ngaclong
@@ -9482,9 +12960,12 @@ Ngadalian
 Ngadalian nafsu
 Ngadalikeun
 Ngadalingding
+Ngadalingding
 Ngadaméykeun
 Ngadangu
 Ngadangukeun
+Ngadapang
+Ngadapang
 Ngadapang
 Ngadatangan
 Ngadatangkeun
@@ -9494,9 +12975,14 @@ Ngadayung
 Ngadedempès
 Ngadedet
 Ngadegdeg
+Ngadegdeg
 Ngadegdeg 
 Ngadegkeun
+Ngadegkeun
+Ngadegkeun
+Ngadegkeun
 Ngadegkeun organisasi
+Ngadek
 Ngadek
 Ngadekem
 Ngadelek
@@ -9508,11 +12994,15 @@ Ngadengkek
 Ngadep
 Ngadèrèk
 Ngadeudeul
+Ngadeudeul
 Ngadeuheus
 Ngadeuheusan
 Ngadeukeutan
+Ngadeukeutan
+Ngadeukeutan
 Ngadeukeutkeun
 Ngadidik
+Ngadilak
 Ngadilak
 Ngadiukan
 Ngadongengkeun
@@ -9524,8 +13014,10 @@ Ngadua kalian
 Ngaduitkeun
 Ngaduk
 Ngadukeun
+Ngadukeun
 Ngaduk-ngaduk
 Ngadupak
+Ngaduruk
 Ngaduruk
 Ngaduum
 Ngaendahkeun
@@ -9544,6 +13036,10 @@ Ngagak
 Ngagakgak
 Ngagaladah
 Ngagalaksak
+Ngagalaksak
+Ngagalaksak
+Ngagalaksak
+Ngagalaksak
 Ngagalayah
 Ngagalèong
 Ngagaleuh
@@ -9551,8 +13047,10 @@ Ngagalo
 Ngagaloler
 Ngagalura
 Ngagambar
+Ngagambar
 Ngagambarkan
 Ngagambréng
+Ngagandong
 Ngagandong
 Ngagandul
 Ngaganggu
@@ -9568,6 +13066,7 @@ Ngagaradah
 Ngagaralang
 Ngagaranggam
 Ngagarayam
+Ngagarayam
 Ngagareleng 
 Ngagaris
 Ngagaro
@@ -9576,18 +13075,26 @@ Ngagasab
 Ngagatul
 Ngagauk
 Ngagaur
+Ngagaur
 Ngagawean
 Ngagawing
 Ngagayabag
 Ngagayem
+Ngagayem
+Ngagayem
+Ngagayem
 Ngagayem 
 Ngagayun
+Ngagebeg
+Ngagebeg
 Ngagebeg
 Ngageblag
 Ngagebos
 Ngagebot
 Ngagebrag
 Ngagebug
+Ngagebug
+Ngagebugan
 Ngagebugan
 Ngagecek
 Ngagédag
@@ -9600,6 +13107,8 @@ Ngageder
 Ngagedig
 Ngagédongkeun
 Ngagedor panto
+Ngagedur
+Ngagedur
 Ngagedur
 Ngagedur 
 Ngagedurkeun sumanget
@@ -9614,10 +13123,13 @@ Ngagéléhé
 Ngagelendeng
 Ngageleng
 Ngagéléng
+Ngagéléng
 Ngageleser
 Ngageletek
 ngagem
+Ngagem
 Ngagem agama
+Ngagembrong
 Ngagembrong
 Ngagempél
 Ngagempeng
@@ -9625,6 +13137,7 @@ Ngagempuran
 Ngagencay
 Ngagenclang
 Ngagenclang 
+Ngagendang
 Ngagendang
 Ngagéndang
 Ngagendang 
@@ -9634,15 +13147,19 @@ Ngagendur
 Ngagenggem
 Ngagentor
 Ngagentraan
+Ngagentraan
 Ngagenyas
+Ngageol
 Ngageol
 Ngagéol
 Ngagéré
+Ngagerebeg
 Ngagerebeg
 Ngageregel
 Ngagéréléng
 Ngagerem
 Ngageremet
+Ngagerendeng
 Ngagerendeng
 Ngagerenung
 Ngagerenyih
@@ -9651,9 +13168,16 @@ Ngageretak
 Ngagerewel
 Ngagerit
 Ngageroan
+Ngageroan
+Ngageroan
+Ngageroan
+Ngageroan
+Ngagerung 
 Ngagerung 
 Ngagésoh
 Ngagesrek
+Ngageter
+Ngageter
 Ngageter
 Ngageter 
 Ngagétkuen
@@ -9675,6 +13199,7 @@ Ngagéyot
 Ngagganggu
 Ngagibeg
 Ngagibleg
+Ngagibleg
 Ngagibrig
 Ngagicel
 Ngagidir
@@ -9688,6 +13213,8 @@ Ngagilir
 Ngagilisir
 Ngagimbreung
 Ngagimbung
+Ngagimbung
+Ngagintir
 Ngagintir
 Ngagirangan
 Ngagiriming
@@ -9695,25 +13222,38 @@ Ngagiring
 Ngagiringsing
 Ngagiriwil
 Ngagitek
+Ngagitek
 Ngagitik
 Ngagiut
 Ngagiwar
+Ngagiwarkeun
 Ngagiwarkeun
 Ngagiwing
 Ngaglenggeng
 Ngagoak
 Ngagoda
 Ngagodog
+Ngagodog
+Ngagogog
 Ngagogog
 Ngagogoréng
 Ngagojod
 Ngagokan
+Ngagokan
+Ngagokan
 Ngagolak
+Ngagolak
+Ngagolak
+Ngagolak 
+Ngagolak 
+Ngagolak 
 Ngagolak 
 Ngagolang
 Ngagoléah
 Ngagolédag
 Ngagolépak
+Ngagoler
+Ngagoler
 Ngagoler
 Ngagolér
 Ngagolétak
@@ -9722,6 +13262,8 @@ Ngagolosor
 Ngagoloyoh
 Ngagoméng-goméng
 Ngagondeng
+Ngagondeng
+Ngagondéng
 Ngagondéng
 Ngagonjak
 Ngagonyok
@@ -9730,7 +13272,10 @@ Ngagoréng
 Ngagorengkeun
 Ngagorok
 Ngagorolong
+Ngagorolong
 Ngagoronggong
+Ngagorowok
+Ngagorowok
 Ngagorowok
 Ngagosok
 Ngagotong
@@ -9749,11 +13294,13 @@ Ngagugudag
 Ngagugujeg
 Ngagugulukeun
 Ngaguguntur
+Ngaguguntur
 Ngagugunyeng
 Ngaguher
 Ngaguik
 Ngaguis
 Ngagujrudkeun
+Ngagukguk 
 Ngagukguk 
 Ngagula
 Ngagulanggaper
@@ -9762,6 +13309,7 @@ Ngagulidag
 Ngaguligah
 Ngaguliksek
 Ngaguling
+Ngagulingkeun
 Ngagulingkeun
 Ngagulinting
 Ngagulipak
@@ -9777,15 +13325,25 @@ Ngagundukan
 Ngagundukeun
 Ngagunemkeun
 Ngagungkeun
+Ngagungkeun
 Ngagupay
 Ngagupayan
+Ngagupayan
 Ngaguratan
+Ngagurilap
+Ngagurilap
+Ngagurilap
+Ngagurilap
 Ngagurilap
 Ngaguriling
 Ngagurinjal
 Ngaguruan
+Ngaguruan
 Ngagurubag
 Ngagurubug
+Ngaguruh
+Ngaguruh
+Ngaguruh
 Ngaguruh
 Ngaguruh 
 Ngagurumut
@@ -9794,7 +13352,11 @@ Ngagusruk
 Ngagusur
 Ngagutrut
 Ngagutrut nulis
+Ngagutrut nulis
 Ngaguyurkeun
+Ngaguyurkeun
+Ngahadean
+Ngahadean
 Ngahadean
 Ngahadéan
 Ngahadiran
@@ -9803,17 +13365,28 @@ Ngahagal
 Ngahahambur
 Ngahahangu
 Ngahaja
+Ngahaja
 Ngahajakeun
 Ngahajatan
 Ngahalangan
+Ngahalangan
+Ngahalangan
+Ngahalangan
+Ngahalangan
+Ngahalangan
+Ngahalangan
+Ngahalangan
+Ngahaleuang
 Ngahaleuang
 Ngahalkeun
 Ngahaminan
 Ngahampas
 Ngahampura
+Ngahampura
 Ngahanakeun
 Ngahanca
 Ngahaneutkeun
+Ngahangkeutkeun
 Ngahangkeutkeun
 Ngahangkeutkeun 
 Ngahapit
@@ -9839,6 +13412,7 @@ Ngaheluk
 Ngahénggoy
 Ngaheos
 Ngahéot
+Ngahéot
 Ngahérang
 Ngahéroan
 Ngaheruk
@@ -9854,26 +13428,40 @@ Ngahiam
 Ngahiang
 Ngahiap-hiap
 Ngahias
+Ngahias
+Ngahias
 Ngahiasan
+Ngahiem
 Ngahiem
 Ngahieuman
 Ngahieung
 Ngahihidan
 Ngahihileudan
+Ngahihileudan
+Ngahiji
+Ngahiji
+Ngahiji
 Ngahiji
 Ngahijikeun
 Ngahilian
 Ngahiliwir
 Ngahina
+Ngahina
+Ngahina
 Ngahina bebeakan
 Ngahintul
 Ngahirupan
+Ngahitutan
 Ngahitutan
 Ngahiung
 Ngahiung 
 Ngahkar
 Ngahodhod
 Ngahompét
+Ngahompét
+Ngahontal
+Ngahontal
+Ngahontal
 Ngahontal
 Ngahua
 Ngahualkeun
@@ -9881,10 +13469,14 @@ Ngahuapan
 Ngahucuhkeun
 Ngahudang
 Ngahudang 
+Ngahudang 
 Ngahudang wawanén
 Ngahudangkeun
 Ngahuit
 Ngahukum
+Ngahuleng
+Ngahuleng
+Ngahuleng
 Ngahuleng
 Ngahuntu
 Ngahunyud
@@ -9893,31 +13485,54 @@ Ngahurup
 Ngaimahan
 Ngaimaman
 Ngais
+Ngais
+Ngais
+Ngait
+Ngait
 Ngait
 Ngaitkeun
 Ngaitkeun pikir
 Ngajabel
+Ngajabel
+Ngajabel
 Ngajadi teuas
 Ngajadikeun cai
 Ngajaga
+Ngajaga
+Ngajaga
 Ngajagalkeun
+Ngajajah
+Ngajajah
+Ngajajah
+Ngajajah
 Ngajajah
 Ngajajapkeun
 Ngajajar
+Ngajajar
+Ngajajar
 Ngajajarkeun
 ngajak
+Ngajak
+Ngajak
 Ngajalanan
+Ngajalankeun
 Ngajalankeun
 Ngajamanan
 Ngajambret
 Ngajampé
 Ngajangkari
+Ngajangkari
 ngajar
 Ngajaran
 Ngajaul
 Ngajawab
+Ngajawab
+Ngajawab
 Ngajawara
 Ngajebengan
+Ngajebengan
+Ngajebian
+Ngajebian
 Ngajebian
 Ngajeblag
 Ngajebloskeun
@@ -9929,6 +13544,7 @@ Ngajejembrung
 Ngajejer
 Ngajejeran
 Ngajejewet
+Ngajejewet
 Ngajejewét
 Ngajelegur
 Ngajelengeng
@@ -9937,20 +13553,30 @@ Ngajendul
 Ngajenggut
 Ngajenghak
 Ngajenghok
+Ngajenghok
 Ngajengkang
 Ngajentul
 Ngajepat
 Ngajepit
+Ngajepit
 Ngajepitkeun
+Ngajerit
+Ngajerit
 Ngajerit
 Ngajerit Maratan Langit
 Ngajeten
 Ngajeunkeun
 Ngajewer
 Ngajingjing
+Ngajingjing
+Ngajingjing
+Ngajingjing
+Ngajingjing
 Ngajinjing
 Ngajiwakeun 
 Ngajiwir
+Ngajiwir
+Ngajleng
 Ngajleng
 Ngajodo
 Ngajogo
@@ -9971,6 +13597,7 @@ Ngajungkat
 Ngajungkel
 Ngajungkiring
 Ngajuru
+Ngajuru
 Ngajurung
 Ngakalakeun
 Ngaku
@@ -9981,31 +13608,48 @@ Ngakutan
 Ngala Teu Menta
 Ngala`nat
 Ngalaan
+Ngalaan
+Ngalaan baju
 Ngalaan baju
 Ngaladangan
+Ngaladénan
 Ngaladénan
 Ngaladog
 Ngalagar
 Ngalagena
 Ngalagu
 Ngalahir  
+Ngalahir  
 Ngalahirkeun
 Ngalainkan
 Ngalajeran
 Ngalajur napsu
+Ngalajur napsu
 Ngalakonan
 Ngalakonan 
 Ngalaksanakeun
+Ngalaksanakeun
+Ngalaksanakeun
+Ngalaksanakeun
+Ngalaksanakeun
 Ngalaksanakeun 
+Ngalakukeun
+Ngalakukeun
+Ngalakukeun
 Ngalakukeun
 Ngalalab
 Ngalalakon
 Ngalalana
+Ngalalana
+Ngalalana
+Ngalalanyahan
 Ngalalanyahan
 Ngalalar
 Ngalaleur
 Ngalalu
 Ngalamar
+Ngalamar
+Ngalambangsari
 Ngalambangsari
 Ngalambus
 Ngalamot curuk
@@ -10015,6 +13659,9 @@ Ngalampanyat
 Ngalampat
 Ngalampud
 Ngalamuk
+Ngalamuk
+Ngalamun
+Ngalamun
 Ngalamun
 Ngalana
 Ngalancong
@@ -10027,30 +13674,51 @@ Ngalanggar
 Ngalanggengkeun
 Ngalangkang
 Ngalangkung
+Ngalangkung
+Ngalangkung
+Ngalangkung
+Ngalangkungan
+Ngalangkungan
 Ngalangkungan
 Ngalanglang
+Ngalanglang
+Ngalanglang
 Ngalanglaung 
+Ngalanglaung 
+Ngalanglayung
 Ngalanglayung
 Ngalangsud
 Ngalanteg
 Ngalanto
 Ngalantrah
 Ngalantung
+Ngalantung
+Ngalantur
 Ngalantur
 Ngalap haté
 Ngalapalkeun
 Ngalarang
+Ngalarang
 Ngalarang kaluar ti hiji wewengkon
 Ngalarapkeun
 Ngalatih
+Ngalatih
 Ngalatih diri
+Ngalawan
 Ngalawan
 Ngalawangan
 Ngalayad
+Ngalayad
+Ngalayad
+Ngalayad 
 Ngalayad 
 Ngalayah
 Ngalayan
 Ngalayanan
+Ngalayanan
+Ngalayang
+Ngalayang
+Ngalayang
 Ngalayang
 Ngalayung
 Ngaléb
@@ -10061,9 +13729,11 @@ Ngalebur
 Ngalebur dosa
 Ngalédot
 Ngalegleg
+Ngalegleg
 Ngaleguk
 ngaléjég
 ngalejokan
+Ngalejokeun
 Ngalejokeun
 Ngaleketek
 ngalekik
@@ -10078,6 +13748,7 @@ Ngalelengo
 Ngalelep
 Ngalelepkeun
 Ngalelepkeun 
+Ngalelepkeun 
 Ngalélér
 Ngalelet
 ngalemar
@@ -10087,14 +13758,18 @@ Ngalempagkeun
 Ngalempreh
 Ngaleng
 Ngalénggang
+Ngalénggang
 ngalenggeceng
 Ngalenggut
 Ngalenghoy
+Ngalenghoy
 Ngalenghoy 
+Ngalengis
 Ngalengis
 Ngalengkah
 Ngaléngkah
 Ngalengkah gancang 
+Ngaléngkahan
 Ngaléngkahan
 Ngalengkepan
 Ngaléntab
@@ -10104,6 +13779,7 @@ ngaléod
 ngaléok
 Ngaléong
 ngaléor
+Ngaléor 
 Ngaléor 
 ngaléot
 ngalepas
@@ -10119,8 +13795,18 @@ Ngaleugeut
 Ngaleumpeuh
 Ngaleungit
 Ngaleungitkeun
+Ngaleungitkeun
+Ngaleungitkeun
+Ngaleungitkeun
 Ngaleuseuhan
 Ngaleut
+Ngaleut
+Ngaleut
+Ngaleut
+Ngaleut
+Ngaleut
+Ngaleut
+Ngaleutikan
 Ngaleutikan
 Ngaleutikeun
 Ngaleuwihan
@@ -10129,15 +13815,25 @@ Ngaley
 Ngaleyek
 ngaliang
 Ngaliangan
+Ngaliangan
+Ngaliangan
+Ngaliangan
 Ngaliangan panto
 ngalicin
 Ngalieuk
+Ngalieuk
+Ngalieuk
+Ngalieuk
 Ngalieurkeun
 ngalieus
+Ngalieus
 ngaligeuh
+Ngaligeuh
+Ngaligeuh
 ngaliglag
 Ngalih
 ngaliker
+Ngalilindeuk
 Ngalilindeuk
 Ngalilipur
 ngalimba
@@ -10145,8 +13841,13 @@ ngalimbung
 ngalimed
 ngalindih
 ngalindur
+Ngalindur
+Ngalindur
+Ngalindur
+Ngalindur
 Ngalinggihan bumi
 Ngalinggihan karaméan
+ngalingkung
 ngalingkung
 Ngalingling
 Ngalinjing
@@ -10160,14 +13861,18 @@ Ngalisanan
 Ngalisankeun
 Ngaliung
 Ngaliwat
+Ngaliwat
+Ngaliwatan
 Ngaliwatan
 Ngaliwet
 Ngalkukeun bagian tina babak
+Ngalobaan
 Ngalobaan
 Ngalobakeun
 Ngalobang
 Ngalodéh
 Ngalohong
+Ngalolos
 Ngalolos
 Ngalongok
 Ngalongok 
@@ -10197,8 +13902,12 @@ Ngamandian
 Ngamandoran
 Ngamangadeuh
 Ngambang
+Ngambang
+Ngambang
+Ngambangkeun
 Ngambangkeun
 Ngambekan
+Ngambeu
 Ngambeu
 Ngambeuan
 Ngambung
@@ -10209,6 +13918,7 @@ Ngamenak
 Ngameunangkeun
 Ngamili
 Ngamimitian
+Ngamimitian
 Ngamomore
 Ngamongmong
 Ngamonyah-Monyah
@@ -10218,6 +13928,8 @@ Ngampéng
 Ngamplang
 Ngamprah
 Ngampul
+Ngampul
+Ngampung
 Ngampung
 Ngamuatkeun
 Ngamuga-Muga
@@ -10228,26 +13940,34 @@ Ngamumule
 Ngamumulé
 Ngamumurah
 Ngamupakatkeun
+Ngamupakatkeun
 Ngamuradan
 Ngamurah-Mareh
 Ngamuridkeun
 Ngamusik
 Ngamusnahkeun
+Ngamusnahkeun
+Ngan
 Ngan
 Ngan 
 Ngan  
+Ngan  
 Ngan aya dina rekaan
+Ngan Kari Ngaran
 Ngan Kari Ngaran
 Ngan sakilat
 Nganapakahan
 nganaséhatan
 Ngancing
+Ngancing
 Ngancingan
 Nganclang
+Ngancul
 Ngancul
 Ngancurkeun
 Ngandang
 Ngandelkeun
+Ngandika
 Ngandika
 Ngandum
 Ngandung
@@ -10256,7 +13976,9 @@ Ngandung harti
 Ngandung haté
 Ngangaranan
 Nganggur
+Nganggur
 Ngangkarawak
+Ngangkat
 Ngangkat
 Ngangkat-ngangkat
 Ngangkaung
@@ -10264,7 +13986,10 @@ Ngangkod
 Ngangkrak
 Ngangkrang
 Ngangkruk
+Ngangkruk
 Ngangluh
+Ngangluh
+Ngangres
 Ngangres
 Ngangsar
 Ngangseu
@@ -10273,13 +13998,18 @@ Ngangsitkeun
 Ngangsonn
 Nganiaya
 Nganjang
+Nganjang
+Nganjrek
+Nganjrek
 Nganjrek
 Nganjul
 Ngantai
 Ngantay
 Ngantéh
 Nganteng
+Nganteng
 Nganténgan
+Ngantep
 Ngantep
 Nganteur
 Nganteuran
@@ -10288,6 +14018,7 @@ Nganti dawuh
 Ngantunken
 Nganuhunkeun
 Nganyahokeun
+Nganyam
 Nganyam
 Nganyam samak
 Nganyenyeri
@@ -10299,15 +14030,25 @@ Ngaping
 Ngaping ngajaring
 Ngaprak
 Ngapung
+Ngapung
+Ngapung
+Ngapung
 Ngapungkeun
 Ngapur
 Ngaput
 Ngaraas
 Ngaracik
+Ngaracik
 Ngaragaji
 Ngarahkeun
 Ngarahrahan
+Ngarahrahan
 Ngarahuh
+Ngarahul
+Ngarahul
+Ngarahul
+Ngarahul
+Ngarahul
 Ngarahul
 Ngaraja dèwèk
 Ngarambat
@@ -10315,16 +14056,26 @@ Ngarambet Mindo
 Ngaramekeun
 Ngarampa
 Ngarampas
+Ngarampas
+Ngarampas
+Ngarampog
 Ngarampog
 Ngaramuk
 Ngaran
 Ngaran bungbuahan
 Ngarang
+Ngarang
+Ngaranggeum
 Ngaranggeum
 Ngarangkep
+Ngarangkep
+Ngarangket
+Ngarangket
 Ngarangket
 Ngarangket 
 Ngarangsom
+Ngaranjah
+Ngaranjah
 Ngaranjah
 Ngaraoskeun
 Ngarapihkeun
@@ -10337,17 +14088,22 @@ Ngararata
 Ngarasa
 Ngarasa yakin ka
 Ngarasakeun
+Ngarasakeun
 Ngarasanan
+ngarasanan 
 ngarasanan 
 Ngarasiah
 Ngaraskeun
 Ngaraut
 Ngarautan
 Ngarawat
+Ngarawat
 Ngarawatan
 Ngarawu
 Ngarayakeun
 Ngarayap
+Ngarebut
+Ngarebut
 Ngarebut
 Ngaregepkeun
 Ngareka
@@ -10364,26 +14120,37 @@ Ngarep-ngarep
 Ngarepok
 Ngareret
 Ngarérét
+Ngarérét
 Ngarét
 Ngareuah-reuah
+Ngareuah-Reuah
+Ngareuah-Reuah
+Ngareuhak
 Ngareuhak
 Ngareumbeuy
 Ngareuneuhan
+Ngareuneuhan
+Ngareuneuhan
 Ngareuneuhkeun
 Ngareunteut
+Ngareunteut
+Ngareureuah
 Ngareureuah
 Ngareuwaskeun
 Ngarigelkeun
 Ngarih
 Ngarikeun
 Ngarindat
+Ngarindat
 Ngaringkel
 Ngaringkus
 Ngaririweuh
 Ngariung
 Ngariut
+Ngariut
 Ngarobah 
 Ngarogahai
+Ngarogahala
 Ngarogahala
 Ngarogrog
 Ngaronjat
@@ -10391,6 +14158,8 @@ Ngaronjat
 Ngarontok
 Ngaroris
 Ngarosok
+Ngarti
+Ngarti
 Ngarti
 Ngartikeun
 Ngarugal-Rigel
@@ -10402,6 +14171,7 @@ Ngarumbay tur kusut
 Ngarumbaykeun 
 Ngarunghal
 Ngaruntuy
+Ngaruntuy
 Ngaruntuykeun
 Ngarurug
 Ngarut
@@ -10410,13 +14180,16 @@ Ngasaaan
 Ngasaan
 Ngasakan
 Ngaso
+Ngaso
 Ngasongkeun
 Ngasrog
 ngasuh
+Ngasuh
 Ngasupken kana acara
 Ngasupkeun kalayan paksa
 Ngasupkeun kana acara
 Ngati
+Ngatik
 Ngatik
 Ngatrok
 Ngatur
@@ -10424,15 +14197,18 @@ Ngaut
 Ngautang
 Ngautangkeun
 Ngawada
+Ngawada
 Ngawadahan
 Ngawadalkeun Maneh
 Ngawadang
+Ngawadon
 Ngawadon
 Ngawadul
 Ngawagel
 Ngawagu
 Ngawahan
 Ngawajaan beusi
+Ngawajiban
 Ngawajiban
 Ngawakilan
 Ngawakilkeun
@@ -10444,15 +14220,23 @@ Ngawalian
 Ngawalon
 Ngawaluratkeun
 Ngawangkong
+Ngawangkong
+ngawangkong
+ngawangkong
 ngawangkongkeun
 Ngawangsit
 Ngawangsulan
 Ngawangun
+Ngawangun
+Ngawangun
 Ngawangun Imah
 Ngawangun rumah tangga
 Ngawangwang
+Ngawangwang
+Ngawangwang
 Ngawani - wani
 Ngawanohkeun
+Ngawarah
 Ngawarah
 Ngawaratah
 Ngawaris
@@ -10471,6 +14255,9 @@ Ngawayang
 Ngawayuh
 Ngawedakan
 Ngawelah
+Ngawelah
+Ngawengku
+Ngawengku
 Ngawengku
 Ngawengkuan
 Ngaweratan
@@ -10480,6 +14267,7 @@ Ngaweweleh
 Ngaweweratan
 Ngawidang
 Ngawidian
+Ngawih
 Ngawih
 Ngawilahan
 Ngawin
@@ -10493,6 +14281,7 @@ Ngawiwirang
 Ngawiwiw
 Ngawowoy
 Ngawujud
+Ngawujud
 Ngawujudkeun
 Ngawujuk
 Ngawula
@@ -10500,7 +14289,9 @@ Ngawulaan
 Ngawulakeun
 Ngawulang
 Ngawuluku
+Ngawuluku
 Ngawungkul
+Ngawurkeun
 Ngawurkeun
 Ngawur-ngawurkeun
 Ngawurukan
@@ -10508,18 +14299,26 @@ Ngawurungkeun
 Ngawut-ngawut
 Ngawuwuhan
 Ngayakeun
+Ngayakeun
+Ngayakeun
 Ngayakinkeun
 Ngayuga
 Ngebon
+Ngebon
 Ngebrak
 Ngebul
+Ngebul
+Ngebul
 Ngecapan
+Ngece
+Ngece
 Ngece
 Ngecebrek
 Ngeceng
 Ngecerkeun
 Ngeceskeun
 Ngécéskeun
+Ngeclak
 Ngeclak
 Ngecrek
 Ngecrik
@@ -10540,15 +14339,23 @@ Ngéjo
 Ngekesek
 Ngekeupan
 Ngekrek
+Ngekrek
 Ngelabkeun
 Ngelakeun
 Ngelarapkeun kecap
 Ngelas
 Ngelay
 Ngélébét
+Ngélébét
 Ngélébétkeun
 Ngéléhan
 Ngéléhkeun
+Ngéléhkeun
+Ngéléhkeun
+Ngéléhkeun
+Ngéléhkeun
+Ngélék
+Ngélék
 Ngélék
 Ngelél
 Ngelemeng
@@ -10569,12 +14376,17 @@ Ngelid
 Ngelingan
 Ngelol
 Ngelonan
+Ngelonan
 ngeluk
+Ngelun
+Ngelun
 Ngelun
 Ngemat
 Ngembang
 Ngembarkeun
 ngembeng
+Ngembeng
+Ngembeng
 Ngembeng cipanon
 Ngembung
 Ngemil
@@ -10596,6 +14408,7 @@ Ngencarkeun
 Ngencleng
 Ngencodkeun
 Ngencring
+Ngencul
 Ngencul
 Ngendahkeun
 Ngendar
@@ -10620,6 +14433,7 @@ Ngeprik
 Ngepros
 Ngeprul
 ngepruy
+Ngepruy
 Ngepung
 Ngepung Meja
 Ngepung méja
@@ -10639,6 +14453,7 @@ Ngeruk
 Ngesang
 Ngeset
 Ngesod
+Ngesod
 Ngestokeun
 Ngéstukeun
 Ngesun
@@ -10655,32 +14470,55 @@ Ngeueum
 Ngeueung
 Ngeukeuhan
 Ngeunaan
+Ngeunaan
+Ngeunaan
+Ngeunaan
+Ngeunah
+Ngeunah
+Ngeunah
 Ngeunah
 Ngeungkeuy
+Ngeungkeuy
 Ngeunteung
+Ngeupeul
 Ngeupeul
 Ngeupeulan
 Ngeureut 
 Ngeurihkeun
 Ngeusi
+Ngeusi
 Ngeusian
 Ngeuteung
 Ngeuyembeu
 Ngeuyeub-ngeuyeub
+Ngeuyeub-ngeuyeub
+Ngeuyeuk
 Ngeuyeuk
 Ngewa
 Ngewag
+Ngewag
+Ngewag
 Ngéyong-ngéyong
+Ngéyong-ngéyong
+Ngiangkeun
 Ngiangkeun
 Ngiberan
 Ngical
 Ngiceup
+Ngiceup
+Ngiceup
 Ngiceupan
 Ngicip-ngicip
+Ngicip-ngicip
+Ngicip-ngicip
+Ngiclik
 Ngiclik
 Ngicuk-ngicuk
 Ngider
+Ngider
 Ngider 
+Ngiderkeun
+Ngiderkeun
 Ngiderkeun
 Ngidul
 Ngidung
@@ -10701,9 +14539,14 @@ Ngimankeun
 Ngimeutan
 Ngimpasan utang
 Ngimpi
+Ngimpi
+Ngimpi
+Ngimpleng
 Ngimpleng
 Ngimutan
 Nginangan
+Nginangan
+Ngincer
 Ngincer
 Nginditkeun
 Ngindung
@@ -10716,7 +14559,9 @@ Ngingkig
 Ngingu
 Nginjeum
 Nginjeumkeun
+Nginjeumkeun
 Nginm
+Ngintip
 Ngintip
 Ngintum
 Nginum
@@ -10727,27 +14572,40 @@ Ngiplik
 Ngipuk
 Ngirabkeun buuk
 Ngira-ngira
+Ngira-ngira
 Ngiridit
 ngirigkeun
 Ngirim
+Ngirim
+Ngiring
 Ngiring
 Ngiring sungkawa
 Ngiringan
+Ngiringan
+Ngiringkeun
 Ngiringkeun
 Ngirining
 Ngiruhan cai
+Ngirung
+Ngirung
 Ngirung
 Ngirut
 Ngisat diri
 Ngised
 Ngiser 
+Ngiser 
 Ngisikan
+Ngising
 Ngising
 Ngising 
 Ngislamkeun
+Ngislamkeun
+Ngistrénan
 Ngistrénan
 Ngitung
 Ngitung Repok
+Ngiuhan
+Ngiuhan
 Ngiuhan
 Ngiwat
 Ngkolakeun
@@ -10759,6 +14617,9 @@ Ngobor
 Ngoboran
 Ngobos
 Ngobrol
+Ngobrol
+Ngobrol
+Ngobrol
 Ngobrolkeun
 Ngocal-Ngocal
 Ngoceak
@@ -10766,30 +14627,46 @@ Ngocéak
 Ngoceh
 Ngocék
 Ngocoblak
+Ngocoblak
+Ngocoblak
+Ngocomang
+Ngocomang
 Ngocomang
 Ngoconan
+Ngocor
 Ngocor
 Ngocor tarik 
 Ngocorkeun
 Ngodok
+Ngodok
+Ngodok
 Ngoét
 Ngogel
+Ngogel
+Ngohgor
 Ngohgor
 Ngohkoh
 Ngohngor
 Ngojay
+Ngojay
 Ngok
+Ngokok
 Ngokok
 Ngokolo
 Ngokolotan
 Ngokos
 Ngolah
+Ngolah
 Ngolahkeun
 Ngoléab
+Ngolébat
+Ngolébat
 Ngolébat
 Ngolembar
 Ngolesan
 Ngolo
+Ngolo
+Ngolomoh
 Ngolomoh
 Ngolongan
 Ngolongok
@@ -10804,6 +14681,7 @@ Ngomboan
 Ngome
 Ngome Awak
 Ngomean
+Ngomean
 Ngomentaran
 Ngomong
 Ngomong kotor
@@ -10813,8 +14691,11 @@ Ngoncrang
 Ngondang
 Ngonéng
 Ngonghol
+Ngonghol
 Ngongkorongan
 Ngongkos
+Ngongkos
+Ngontrog
 Ngontrog
 Ngopepang
 Ngopet
@@ -10830,6 +14711,7 @@ Ngoréjat
 Ngorobokan
 Ngorok
 Ngorondang
+Ngorondang
 Ngorong
 Ngorosak
 Ngorowot
@@ -10839,12 +14721,16 @@ Ngotéktak
 Ngotoean
 Ngotok ngowo
 Ngotokngowo
+Ngotokngowo
 Ngowo
 Ngoyok
+Ngoyondon
+Ngoyondon
 Ngoyondon
 Ngsising
 Nguar-nguar
 Ngubaran
+Ngubek
 Ngubek
 Ngubek Balong
 Ngubeng
@@ -10852,36 +14738,48 @@ Nguber
 Ngubur
 Ngucap
 ngucapkeun
+Ngucapkeun
+Ngucapkeun
 Ngucek
 Nguciwakeun
 Ngucur
+Ngucur
 Ngudag
+Ngudag
+Ngudar
 Ngudar
 Ngudukeun
 Ngudulkeun
 Ngugujrudkeun
 Ngugung-Ngugung
 Nguji
+Nguji
+Ngujur
 Ngujur
 Ngujur Ngalér
 Ngukey
+Ngukey
 Ngukir
 Ngukud
+Ngukuntit
 Ngukuntit
 Ngukur
 Ngukur Ka Kujur
 Ngukut anak batur
 Ngulahék
 Ngulampreng
+Ngulampreng
 Ngulangkeun
 Ngulangkeun Pacul
 Ngulapés
 Ngulas-Ngales
 Ngulayaban
+Ngulayaban
 Nguleg
 Nguleman
 Ngulet
 Ngulian
+Nguliat
 Nguliat
 Ngulik
 Ngulik Elmu
@@ -10891,14 +14789,27 @@ Ngulon
 Ngulub
 Ngulur
 Nguluwut
+Nguluwut
+Nguluwut
 Ngumaha
+Ngumaha
+Ngumbah
+Ngumbah
+Ngumbah
 Ngumbah
 Ngumbar Nafsu
 Ngumbara
+Ngumbara
+Ngumbara
+Ngumbara
+Ngumbara
+Ngumbara 
 Ngumbara 
 Ngumpet
 Ngumplang
 Ngumpulkeun
+Ngumpulkeun
+Ngumumkeun
 Ngumumkeun
 nguncung
 Ngundag
@@ -10908,9 +14819,11 @@ Ngunduh
 Ngunduh Mantu
 Ngunduran
 Ngunek-ngunek
+Ngunek-ngunek
 Ngunggahan
 Ngunggahkeun
 Ngunghak
+Ngungkab
 Ngungkab
 ngungkuek
 Ngungkug
@@ -10918,12 +14831,20 @@ Ngungkulan
 Ngungkung
 Ngungkurahan
 Ngungsi
+Ngungsi
+Ngungsi
+Ngungsi
 Ngungudag
+Ngungun
+Ngungun
+Ngungun
 Ngungun
 Nguniang
 Nguninga
+Nguninga
 Nguningakeun
 Ngunjal
+Nguntun
 Nguntun
 Nguntun 
 Nguntup
@@ -10932,37 +14853,58 @@ Ngunung-ngunung
 Ngupahan
 Ngupahkeun
 Ngupat
+Ngupat
 Ngupaya
 Nguping
 Ngupingkeun
 Ngupuk
 Nguras beuteung
+Nguras beuteung
 Ngurebkeun
 Ngurek
 Nguriling
+Nguriling
+Nguriling
+Nguriling
+Ngurilingan
 Ngurilingan
 Ngurilingkeun
 Ngurubut
 Ngurud gula
 Ngurungan
+Ngurungan
+Ngurungan
 Ngurupkeun
 Ngurus
+Ngurus
+Ngurus
+Ngurus
+Ngurut
 Ngurut
 Ngusahakeun sangkan boga tatakrama
 Ngusap
 Ngusap Birit Bari Indit
 Ngusapan
+Ngusapan
+Ngusapan
+Nguseup
+Nguseup
 Nguseup
 Ngusik-Ngusik  
 Ngusik-Ngusik Ula Mandi  
 Ngusik-Ngusik Ula Mandi Ngahudangkeun Macan Turu
 Ngusir
+Ngusir
+Ngusir
 Ngusrukeun
 Ngusud 
 Ngusulkeun
+Ngusulkeun
 Ngusut
 Ngusutkeun
+Ngusutkeun
 Ngutamakeun
+Ngutarakeun
 Ngutarakeun
 Nguteuk
 Ngutik
@@ -10970,19 +14912,28 @@ Ngutik-Ngutik
 Ngutiplakeun
 Ngutus
 Nguyahan
+Nguyahan
 Nguyang
 Nguyung
 Nguyup
+Nguyup
+Niat
+Niat
 Niat
 Nigas
 Nigas beuheung
 Niiskeun
 Nikah
+Nikah
 Nikreuh
+Nikung
+Nikung
 Nikung
 Nila
 Nilem
 Nilep
+Nilep
+Nilik-nilik
 Nilik-nilik
 Nimba
 Nimbang-nimbang
@@ -10990,25 +14941,38 @@ Nincak
 Nincak sawawa
 Ningal
 Ningali
+Ningali
 Ningalikeun 
 Ninggalkeun kesan
 Ninggalkeun tapak
+Ninggang
 Ninggang
 Ningkah
 Ningker
 Ningnang
 Ningrat
+Ningrat
 Nini
 Nini Maranak
 Nini Moyang
 Nini-Nini
+Nini-nini
+Nini-nini
 Nipah
 Nipas
 Nipu
+Nipu
+Nipu
+Nipu
+Nirca
 Nirca
 Nirmala
 Niron
+Niron
+Niron
+Niron
 Niru
+Nirwana
 Nirwana
 Nisab
 Niskala
@@ -11016,40 +14980,63 @@ Niskara
 Nispu
 Nispu Saban
 Nista
+Nista
 niténan
+Niténan
+Niténan
 Niti
 Nitis
 Noda
 Noel
+Noel
+Noél
 Noél
 Noga
 Nogtrog
 Nohonan
 Nolak
+Nolak
+Nolol
 Nolol
 Nombro
+Nombro
+Nomer
 Nomer
 Nomer panungtun
 Non
 Nong
 Nonggéng
+Nonggéng
+Nonggerak
 Nonggerak
 nonghol
+nonghol
+Nonghol
+Nonghol
 Nongnong
 Nongton
 Nongtot lého
 Nonob
 Nonoman
+Nonoman
+Nonoman
+Nonoman
 Nontot bool
 Noong
+Norah
 Norah
 Norobos
 Noroktok huntu 
 Norostos
 Notog
+Notog
+Notor
 Notor
 Notorogan
+Notorogan
+Notorogan
 Noyek
+Nu
 Nu
 Nu bakal datang
 Nu boga
@@ -11058,8 +15045,10 @@ Nu datangna ti luar
 Nu diandelkeun
 Nu diparentah
 nu dipikacinta
+Nu dipikacinta
 Nu dipikahayang
 Nu haladir
+Nu Matak
 Nu Matak
 Nu mikaresep
 Nu mikaresep pisan
@@ -11067,17 +15056,24 @@ Nu ngabaladah kampung
 Nu ngalolos tur diteangan pulisi
 Nu ngisep candu
 Nu Nyaah Dipulang Moha
+Nu Nyaah Dipulang Moha
 Nu nyicingan
 Nu sabenerna
 Nuar 
 Nubles
+Nubles
+Nubruk
 Nubruk
 Nugraha
 Nuhun
 Nuju
+Nuju
+Nuju
+Nujum
 Nujum
 Nukang
 Nukangan
+Nulak cangkéng
 Nulak cangkéng
 Nulakan panto
 Nular
@@ -11086,14 +15082,19 @@ Nulis ku spidol
 Nulungan
 Nuluykeun lacak bapana
 Numpak
+Numpak
 Numpakan kandaraan
 Numpang
 Numpes
 Numpi
 Numpukeun
 Numpurkeun
+Numpurkeun
+Nundung
 Nundung
 Nundutan
+Nunggelis
+Nunggelis
 Nunggelis
 Nunggiring
 Nunggul pinang
@@ -11101,6 +15102,7 @@ Nungkulan
 Nungtun
 Nunjukeun
 Nunuk
+Nunutur
 Nunutur
 Nunutur batur
 Nur
@@ -11116,30 +15118,47 @@ Nusa
 Nusantara
 Nutug
 Nutung
+Nutung
 Nutup
 Nya éta
 Nya éte
 Nyaah
+Nyaah
+Nyaah
 Nyaangan
 Nyaba
+Nyabak
 Nyabak
 Nyabakan
 Nyabet
 Nyabok
 Nyabut
+Nyabut
+Nyabut
+Nyabut
 Nyabutan
+Nyabutan
+Nyacag
 Nyacag
 Nyacag daging 
 Nyacahkeun
+Nyacahkeun
+Nyacampah
 Nyacampah
 Nyacar
+Nyacar
+Nyacas
 Nyacas
 Nyacat
 Nyacing
 Nyadakeun
 Nyaeta
+Nyaeta
+Nyaeta
+Nyagak
 Nyagak
 Nyageurkeun
+Nyaho
 Nyaho
 Nyai
 Nyakakak
@@ -11151,13 +15170,21 @@ Nyakup
 Nyalahan
 Nyalangkrung
 Nyalindung
+Nyalindung
 Nyalira
+Nyalukan
+Nyalukan
 Nyalukan
 Nyaluuh
 Nyambat
+Nyambat
+Nyambung
+Nyambung
 Nyambung
 Nyambut
+Nyambut
 Nyamos
+Nyampur
 Nyampur
 Nyampuran
 Nyampurkeun
@@ -11167,12 +15194,20 @@ Nyanda
 Nyandak
 Nyandra
 Nyandu
+Nyandu
 Nyandung
+Nyandung
+Nyangcang
+Nyangcang
 Nyangcang
 Nyanggéréng
 Nyanggi 
 Nyanggir
 Nyanghareup
+Nyanghareup
+Nyanghareupan
+Nyanghareupan
+Nyanghareupan
 Nyanghareupan
 Nyanghulu
 Nyanghunjar
@@ -11190,31 +15225,53 @@ Nyapé
 Nyapelekeun
 Nyapirakeun
 Nyapit
+Nyapit
+Nyapluk
 Nyapluk
 Nyaram
 Nyarék
 Nyarekan
 Nyarékan
 Nyarekan laklak dasar
+Nyarekan laklak dasar
+Nyaring
+Nyaring
+Nyaring
+Nyaring
 Nyaring
 Nyarios
+Nyarios
+Nyarita
+Nyarita
 Nyarita
 nyaritakeun
+nyaritakeun
+Nyaritakeun
+Nyaritakeun
+Nyaritakeun
 Nyaritana teu laju
 Nyasaak
 Nyata
 Nyatet
 Nyatu
 Nyawa
+Nyawa
+Nyawad
+Nyawad
 Nyawad
 Nyawang
+Nyawang
+Nyawang
+Nyebar
 Nyebar
 Nyebarkeun
 Nyebor
 Nyébor
+Nyébor
 Nyebrot
 Nyedekeun
 Nyednyedan 
+Nyedot
 Nyedot
 Nyegah
 Nyeh
@@ -11222,19 +15279,25 @@ Nyehcer
 Nyekar
 Nyekek
 Nyekel
+Nyekel
 Nyekel Kalungguhan
 Nyekelan
 Nyelapkeun
+Nyelapkeun
 Nyémah
+Nyempad
 Nyempad
 Nyemplu
 Nyempod
 Nyengcelak
 Nyengir
+Nyengir
 Nyengis
 Nyengor
 Nyengsreng
 Nyentak
+Nyentak
+Nyentok
 Nyentok
 Nyentreu
 Nyentug
@@ -11242,69 +15305,100 @@ Nyenyep
 Nyepak
 Nyepeng
 Nyepitan
+Nyepitan
 Nyepret
 Nyerang
 Nyerat
 Nyere
 Nyéréd
 Nyerep
+Nyerep
+Nyeri
 Nyeri
 Nyeri hate
 Nyeri Napas
 Nyérong
 Nyetiran
 Nyeuneu
+Nyeuneu
+Nyeuneu
 Nyeungcleu
 Nyeungseung
 Nyeupan
 Nyeupan 
+Nyeupan 
 Nyeureud
 Nyeuseuh
+Nyeuseuh
+Nyeuseuh
+Nyeuseup
 Nyeuseup
 Nyi
 Nyiap
 Nyiaran
 Nyicil
+Nyicil
+Nyicingan
 Nyicingan
 Nyiduh
 Nyiduhan
 nyieun
+Nyieun
+Nyieun
+Nyieun
 Nyieun  kalimah
 Nyieun kacindekan
 Nyieun pucuk ti girang 
 Nyieun tindakan
 Nyikikik
+Nyikikik
 Nyiksa
 Nyiksik
 Nyiku
+Nyilakakeun
 Nyilakakeun
 Nyileungleum 
 Nyileungleuman
 Nyiliwuri
 Nyimpang
+Nyimpang
 Nyindekeun
+Nyingcet
+Nyingcet
 Nyingcet
 Nyingkah
 Nyingkahan
+Nyingkahan
 Nyingkir
+Nyingraykeun
 Nyingraykeun
 Nyingsieunan
 Nyingsring
+Nyintreuk
+Nyintreuk
 Nyintreuk
 Nyipat
 Nyiram
 Nyirikan
 Nyirorot
+Nyirorot
 Nyiru
+Nyiruan
 Nyiruan
 Nyitak
 Nyiuk
 Nyiuk 
 Nyium
+Nyium
+Nyiwit
+Nyiwit
 Nyiwit
 Nyoba
 Nyobaan
+Nyobaan
 Nyoba-nyoba
+Nyoba-nyoba
+nyobian
 nyobian
 Nyocog
 Nyocog daging 
@@ -11316,18 +15410,24 @@ Nyokel
 Nyokot
 Nyolek
 Nyolok
+Nyolok
+Nyolowedor
 Nyolowedor
 Nyondong
 Nyongcolang
 Nyongkab
 Nyongsrong
 Nyonto
+Nyonto
 Nyopet
 Nyoret
 Nyorokcok
 Nyorosod
+Nyorosod
 Nyorot
 Nyoso
+Nyoso
+Nyosoek
 Nyosoek
 Nyosoék
 Nyosok jero
@@ -11337,6 +15437,9 @@ Nyuhungkeun
 Nyuksruk
 Nyukur
 Nyumponan
+Nyumput
+Nyumput
+Nyumput
 Nyumput
 Nyunatan
 Nyuncung
@@ -11355,14 +15458,21 @@ Nyurung
 Nyurungkeun
 Nyurup
 Nyuruput
+Nyuruput
+Nyuruput
 Nyusahkeun
 Nyusud
+Nyusud
 Nyusud lacak bangsat
+Nyusun
 Nyusun
 Nyuuh
 Oa
 O'Ah
 Oaseu
+Obah
+Obah
+Obah
 Obah
 Obat
 Obat Cacing
@@ -11371,12 +15481,16 @@ Obeng
 Oblog
 Obong
 Obor
+Obor
 Obos
 Obral
 Obrol
 Obrolan
+Obrolan
+Obrolan
 Obrot
 Obroy
+Obyag
 Obyag
 Ocal
 Oceh
@@ -11384,18 +15498,31 @@ Ocehan
 Ocek
 Oces
 Ocon
+Ocon
+Ocon
+Ocon
+Ocon
 Odeng
 Odoh
 Odol
 Odong-Odong
+Odong-Odong
+Odoy
 Odoy
 Ogan
 Oge
+Ogé
+Ogé
 Ogé
 Ogel
 Ogin
 Ogo
 Ogoan
+Ogoan
+Ogoan
+Ogoan
+Ogoan
+Ojah
 Ojah
 Ojeg
 Okneum
@@ -11408,21 +15535,31 @@ Olahraga
 Ole
 Oleh-oleh
 Oleng
+Oleng
 Oleng Penganten
 Ole-Olean
+Oles
 Oles
 Olimpiade
 Olla
 Olo
 Olohok
+Olohok
+Olohok
+Olohok
+Olok
 Olok
 Olok Tembok
 Olol
 Olol leho
+Olol Leho
+Olo-Olo
 Olo-Olo
 Olot
 Omas
 Omat
+Omat
+Ombak
 Ombak
 Ombak banyuaan
 Ombak Banyuan
@@ -11431,24 +15568,34 @@ Ombak Paneka
 Ombak Sakutra
 Ombeh
 Omber
+Omber
 Ome
 Omong
 Omong 
+Omong kosong
 Omong kosong
 Omongan 
 Ompong
 Ompreng
 Omyang
 On
+On
 Onam
+Onam
+Onar
 Onar
 Oncog
 Oncom
 Oncom Milo
 Oncor
+Oncor
 Ondang
 Ondangan
+Ondangan
+Ondangan
+Ondangan
 Onde
+Ondeng
 Ondeng
 Onde-Onde
 Onderdil
@@ -11460,15 +15607,20 @@ Onggol-Onggol
 Ongkek
 Ongkir
 Ongkoh
+Ongkoh
 Ongkoh-Ongkoh
+Ongkos
 Ongkos
 Ongok
 Ongol-Ongol
 Onjoy
+Onjoy
 Onom
+Onslah
 Onslah
 Onta
 Ontohod
+Ontrog
 Ontrog
 Oorayan
 Opak
@@ -11476,10 +15628,16 @@ Opak Sampeu
 Opat
 Opatan
 Open
+Open
+Open
+Open
+Open
+Openan
 Openan
 Opera
 Operasi
 Opieun
+Opium
 Opium
 Oplet
 Opnemer
@@ -11502,17 +15660,23 @@ Ordonan
 Organisasi
 Organisator
 Orkes
+Orkes
 Orog
 Orog Sampeu
 Orok
 Orok Beureum
+Orok Beureum
+Orokan
 Orokan
 Orokaya
 Orong-Orong
 Orowodol
 Orsinil
+Orsinil
 Ortodok
 Osog
+Osok
+Osok
 Osok
 Osol
 Otel
@@ -11522,9 +15686,14 @@ Oto
 Otomatis
 Otong
 Owah
+Owah
+Owah
 Owah gingsir
 Owel
 Owo
+Oyag
+Oyag
+Oyag
 Oyag
 Oyag 
 Oyek
@@ -11533,10 +15702,16 @@ Oyong
 Oyos
 Oyot
 Pa
+Pa
+Pa
 Pa Lurah
 Paamprok
 Paanteur-anteur julang
 Pabalatak
+Pabalatak
+Pabalatak
+Pabaliut
+Pabaliut
 Pabaliut
 Pabarencay
 Pabaru
@@ -11546,20 +15721,30 @@ Pabéntar paham
 Pabetot-betot
 Pabeulit
 Pabeyan
+Pabeyan
 Pabrik
 Pabuaran
 Pabuen
+Pabuen
 Pabuis
+Paburantak
 Paburantak
 Paburencay
 Paburisat
 Pacabakan
+Pacabakan
+Pacabakan
 Pacalang
+Pacampur
+Pacampur
+Pacampur
 Pacampur
 Pacang
 Pacar
 Pacara kuku
 Pacaraken
+Pacarian
+Pacarian
 Pacarian
 Pacek
 Pacèngkadan
@@ -11567,19 +15752,26 @@ Pacental-cental
 Pacer
 Pacet
 Pacikeuh
+Pacikeuh
 Pacikrak
 Pacikrak Ngalawan Merak
 Pacilingan
+Pacilingan
 Pacing
 Paciweuh
+Paciweuh
+Paciweuh 
 Paciweuh 
 Paciwit-ciwit
 Pacogregan
 Pacogrégan
 Pacok
+Pacok
+Pacuan
 Pacuan
 Pacul
 Pacundang
+Pada
 Pada
 Padahal
 Padaharan
@@ -11590,26 +15782,38 @@ Padameuli
 Padang
 Padangajugjug
 Padangkrang
+Padangkrang
+Padangkrang-Pedengkreng
 Padangkrang-Pedengkreng
 Pada-Pada
 Padaringan
+Padati
 Padati
 Padekeut
 Pademen
 Padesaan
 Padet
+Padet
+Padet
 Padeuekeut
 Padeukeut
 Padika
+Padika
+Padma
 Padma
 Padmasana
 Padmi
+Padmi
+Padud
 Padud
 Padudan
 Paduk
 Paduka
 Paduli
+Paduli
 Padumuk
+Padumukan
+Padumukan
 Padumukan
 Padung
 Padungdengan
@@ -11617,24 +15821,37 @@ Padungdung
 Paduraksa
 Padusunan
 Paedah
+Paedah
 Paeh
 Paéh
+Paéh
+Paéh
+Paéh
+Paéh
+Paeh Pikir
 Paeh Pikir
 Paeh Poso
 Paesan
+Paesan
+Pagak
 Pagak
 Pagalèntor
+Pagawé
 Pagawé
 Pagawe anu ngurus keuangan
 Pagawe leuti
 Pagawé nagara
 Pagawe pabrik
 Pagawean
+Pagawean
 Pagawéan
 Pagawéan 
 Pagawean Mungkar
+Pagawean Mungkar
 Pagawean teu uni
 Pagebug
+Pagebug
+Pagegeye
 Pagegeye
 Pagégéyé
 Pagelaran
@@ -11645,10 +15862,17 @@ Pager Bitis
 Pager Gunung
 Pager Hirup
 Pageto
+Pageto
+Pageto
 Pagéton
+Pageuh
+Pageuh
+Pageuh
+Pageuh
 Pageuh
 Pagigir - gigir
 Pagigir-gigir
+Pagilinggsik
 Pagilinggsik
 Paginding-ginding
 Pago
@@ -11657,14 +15881,24 @@ Pagorényang
 Pagulingan
 Paguling-guling
 Paguneman
+Paguneman
+Paguneman
+Pagupon
 Pagupon
 Paguron
+Paguron luhur
 Paguron luhur
 Paguruan
 Pahajat
 Pahala
+Pahala
+Paham
+Paham
+Paham
 Paham
 Pahang
+Pahang
+Pahareup-hareup
 Pahareup-hareup
 Pahat
 Pahatu
@@ -11675,9 +15909,15 @@ Pahereng
 Paheula-heula
 Paheut
 Pahibut
+Pahibut
+Pahibut
+Pahibut
 Pahing
 Pahla
+Pahla
 Pahlawan
+Pahlawan
+Pahugi
 Pahugi
 Pahung
 Paido
@@ -11685,47 +15925,76 @@ Paidon
 Paila
 Pailit
 Paimbaran
+Paimbaran
 Pair
 Pairing-iring
 Pais
 Paisan
 Pait
+Pait
+Pait
 Pait Paria
 Pait-peuheur
 Pajagalan
+Pajagalan
 Pajajaran
 Pajar
+Pajaratan
 Pajaratan
 Pajauh
 Pajeg
 Pajeg kasab
 Pajejel
+Pajejel
+Pajejel
+Pajejel
+Pajejel
 Pajemuhan
+Pajeng
 Pajeng
 Pajeng 
 Paju
 Pajuaran
+Pajuaran
 Pakacar
+Pakacar
+Pakakas
+Pakakas
+Pakakas
+Pakakas
+Pakakas
+Pakakas
 Pakakas
 pakakas tani
 Pakalangan
+Pakalangan
+Pakalangan
 Pakaléng-kaléng
 Pakampungan
+Pakanci
 Pakanci
 Pakandangan
 Pakara
 Pakarang
 Pakarangan
+Pakarangan
+Pakarangan
+Pakasaban
 Pakasaban
 Pakaulan
+Pakaya
+Pakaya
 Pakaya
 Pake
 Pakean
 Pakebonan
 Pakelakan
 Pakem
+Pakem
 Pakemitan
 Pakeun
+Pakeun
+Pakewuh
 Pakewuh
 Pakgade
 Pakia-Kia
@@ -11733,9 +16002,13 @@ Pakihi
 Pakir
 Pakojot
 Pakokolot
+Pakokolot
 Pakreng-kereng
 Paksa
+Paksa
 Paksa-Pirusa
+Paksa-pirusa
+Paku
 Paku
 Paku Andam
 Paku Haji
@@ -11746,29 +16019,40 @@ Pakulian
 Pakulitan
 Pakumbuhan
 Pakumpulan
+Pakumpulan
 Pakupis
 Pala
 Palabuan
+Palabuan
 Palabuhan
+Palak
 Palak
 Palakiah
 Palal
 Palalangon
 Palang
 Palanggeran
+Palanggeran
 Palangkakan
 Palangsiang
 Palantungan
+Palapah
 Palapah
 Palasipah
 Palasipah 
 Palastik
 Palastra
+Palastra
 Palataran
 Palawangan
 Palay
+Palay
+Palay
+Palay
+Palayangan
 Palayangan
 Palayaran
+Palebah
 Palebah
 Paledang
 Palem
@@ -11777,22 +16061,39 @@ Palengpeng
 Paler
 Palered
 Palid
+Palid
+Palid
+Palih
 Palih
 Palimanan
 Paling
 Palintangan
+Palintangan
+Palintangan
 Palintangan 
 Palipis
 Palire
+Palire
+Palisan
 Palisan
 Palita
+Palita
+Palita
+Palita
+Palita
 Palsapah
+Palsu
+Palsu
+Palsu
 Palsu
 Palu
 Palugon
 Palupuh
 Paluruh
+Paluruh
 Pamabokan
+Pamabokan
+Pamacek
 Pamacek
 Pamadatan
 Pamadegan
@@ -11803,6 +16104,8 @@ Pamagasan
 Pamagersari
 Pamahugi
 Pamajikan
+Pamajikan
+Pamajikan
 Pamajikan ngora 
 Pamajikan teu resmi
 Pamake  
@@ -11810,6 +16113,7 @@ Pamaleran
 Pamali
 Pamandangan
 Pamanggih
+Pamanggul Pamimpin Panggung
 Pamanggul Pamimpin Panggung
 Pamaparin
 Pamarentah
@@ -11820,12 +16124,17 @@ Pamatuk nu meber
 Pamayang
 Pambeng
 Pambengan
+Pambengan
 Pambrih
 Paméakan
 Pameget
+Pameget
+Pameget
 Pamengkang
 Pamenta
+Pamenta
 Paménta
+Pamenteu
 Pamenteu
 Pamere
 Pameres
@@ -11833,8 +16142,14 @@ Pameulahan
 Pameuleuman
 Pameuntasan
 Pameunteu
+Pameunteu
+Pameunteu
+Pameunteu
+Pameunteu
+Pameunteu
 Pamiarsa
 Pamiceunan
+Pamili
 Pamili
 Pamingpin
 Pamingpin pasukan
@@ -11846,28 +16161,41 @@ Pamor
 Pamuda
 Pamujian
 Pamuk
+Pamuk
 Pamuka jalan
 Pamulang
 Pamulangan
+Pamulangan
+Pamulangan
+Pamulu
 Pamulu
 Pamundayan
 Pamungkaran
 Pamungkas
+Pamungkas
+Pamungkas
 Pamungtung
+Pamupus
 Pamupus
 Pamuradan
 Pamuruyan
 Pamustungan
 Pana
+Pana
 Panah
+Panakawan
 Panakawan
 Panambah
 Panangan
+Panangan
+Panangan
 Pananggeuy
+Panaratas
 Panaratas
 Panas
 Panas bayeungyang
 Panas Leungeun
+Panas morérét
 Panas morérét
 Panas Ngentak-Ngentak
 Panas tiris
@@ -11876,11 +16204,14 @@ Panasbaran
 Panasehat
 Panas-tiris
 Panatacalagara
+Panatacalagara
 Panataharta
+Panayagan
 Panayagan
 Panca
 Pancabaya
 Pancadria
+Pancah
 Pancah
 Pancaka
 Pancal
@@ -11892,6 +16223,7 @@ Pancarakén
 Pancaroba
 Pancat
 Panceg
+Panceg
 Pancen
 Pancer
 Panci
@@ -11902,16 +16234,25 @@ Pancuran
 Pancurendang
 Pandan
 Pandang
+Pandang
+Panday
 Panday
 Panday Tara Boga Bedog
 Pande
+Pande
+Pandekar
 Pandekar
 Panderesan
 Pandeuri
+Pandeuri
 Pandita
+Pandita
+pandita
 Panduk
 Pandung
 Paneda
+Paneja
+Paneja
 Paneja
 Panen
 Panepak
@@ -11936,7 +16277,12 @@ Pangarep-ngarep
 Pangarih
 Pangarti
 Pangaruh
+Pangaruh
 Pangasilan ladang nipu
+Pangasuh
+Pangasuh
+Pangasuh
+Pangasuh
 Pangasuh
 Pangawakan
 Pangawangunan
@@ -11956,11 +16302,19 @@ Pangéran
 Pangését
 Pangéstu
 Panggal
+Panggal
+Panggal
+Panggal
 Panggedena
+Pangger
+Pangger
 Pangger
 Panggeret
 Panggih
+Panggih
+Panggih
 Panggilingan
+Panggul
 Panggul
 Panggung
 Panghadena
@@ -11978,6 +16332,7 @@ Pangkal
 Pangkalan
 Pangkas
 Pangkat
+Pangkat
 Pangkéng
 Pangkeng 
 Pangkon
@@ -11986,7 +16341,9 @@ Pangkuleman
 Pangkur
 Panglampud
 Panglayar
+Panglayar
 Panglejar
+Panglipur
 Panglipur
 Panglumpatkeun
 Pangocék
@@ -11998,25 +16355,32 @@ Pangrapet
 Pangrasa
 Pangrautan
 Pangrawat
+Pangrawat
 Pangset
 Pangsi
+Pangsiun
+Pangsiun
 Pangsiun
 Pangtayungan
 Pangulas
 Pangulu
 Pangupa jiwa
 Pangupajiwa
+Pangupajiwa
 Pangurus
 Pangutahan
 Pangwangunan
 Pangwelah
+Pangwelah
 Pangwujuk
 Panik
+Panineungan
 Panineungan
 Paninggaran
 Panitén
 Panitih
 Panjak
+Panjang
 Panjang
 Panjang Ingetan
 Panjang Lengkah
@@ -12024,6 +16388,9 @@ Panjang Leungeun
 Panjang Umur
 Panjang-Punjung
 Panjara
+Panjara
+Panjer
+Panjer
 Panjer
 Panon
 Panonoban
@@ -12031,15 +16398,23 @@ Panonpoe
 Pansiun
 Panteng
 Pantes
+Pantes
+Pantes
+Pantes
+Pantes
+Pantes
 Pantesna
 Panto
+Pantrang
 Pantrang
 Pantukangna
 Pantun
 Panuhun
+Panuhun
 Panyajak
 Panyakit
 Panyakit kuris
+Panyana
 Panyana
 Panyapit
 Panyapit 
@@ -12050,8 +16425,10 @@ Panyiksaan
 Panyocok
 Paok
 Paor
+Paor
 Papa
 Papacangan
+Papacuan
 Papacuan
 Papada
 Papadang Ati
@@ -12060,6 +16437,7 @@ Papag
 Papagah
 Papagan
 Papah
+Papah
 Papais
 Papait
 Papak
@@ -12067,6 +16445,7 @@ Papakean
 Papakon
 Papalidan
 Papalihan
+Papalingpang
 Papalingpang
 Papaliwat
 Papaliwat 
@@ -12077,6 +16456,8 @@ Papanasan
 Papancangan
 Papancen
 Papanggalan
+Papanggalan
+Papanggih
 Papanggih
 Papanggihan
 Papanting
@@ -12085,9 +16466,15 @@ Paparabotan
 Paparabotan 
 Paparah
 Paparahuan
+Paparahuan
+Paparahuan
 Paparentah
 Paparikan
+Paparikan
 Paparin
+Paparin
+Paparin
+Papaséaan
 Papaséaan
 Papasten
 Papat Kalima Pancer
@@ -12098,13 +16485,20 @@ Papatungan
 Papatutan
 Papay
 Papayung
+Papayung
 Papendak
 Papiliyun
 Papisah
+Papisah
+Papisah
+Papuket
 Papuket
 Para
 Para Seuneu
 Parab
+Parabot
+Parabot
+Parabot
 Parabot
 Parabot Moderen
 Parabu
@@ -12114,11 +16508,13 @@ Paragi
 Paragpag
 Parahiangan
 Parahu
+Parahu
 Parahu Layar
 Parahu Lisung
 Parahu Mayang
 Parahu Motor
 Paraji
+Paraji Sunat
 Paraji Sunat
 Parak
 Parakan
@@ -12127,9 +16523,12 @@ Paralun
 Paramarta
 Paramon
 Parancah
+Parancah
 Parandene
 Parang
+Parang
 Parang 
+Parangi
 Parangi
 Paranjé
 Paranti
@@ -12138,8 +16537,11 @@ Parantos lajeng
 Parap
 Parapat
 Parapatan
+Parapatan
 Paras
 Parat
+Parawan
+Parawan
 Parawan
 Parawira
 Paray
@@ -12151,28 +16553,39 @@ Pare Unggul
 Paréa-réa
 Parea-Rea Omong
 Paréa-réa omong
+Paréa-réa omong
 Parebut
 Parek
 Pareket
 Parekos
 Parele
 Parelean
+Parelean
 Pareng
 Parentah
 Paréntah dina baris
 Parered
+Pareum
+Pareum
 Pareum
 Pareumeun Obor
 Paria
 Paria Belut
 Paria Gengge
 Paribasa
+Paribasa
 Parieus
 Parigel
+Parigel
+Parigel
+Parigel
+Parigi
 Parigi
 Parik
 Pariksa
+Pariksa
 Parimpen
+Parin
 Parin
 Parindikan
 Paringpen
@@ -12183,20 +16596,33 @@ Paripolah
 Paripurna
 Paririmbon
 Pariuk
+Pariuk
+Pariuk
+Pariuk
+Pariuk
 Pariwisata
 Parna
 Paro
+Paro
+Parok
 Parok
 Paroman
+Paroman
+Paroman
+Parongpong
 Parongpong
 Partikulir
+Partikulir
+Parud
 Parud
 Parud Kalapa
+Parukuyan
 Parukuyan
 Parung
 Parunggu
 Parurugi
 Paruruh
+Pasagi
 Pasagi
 Pasagi Bener
 Pasak
@@ -12204,20 +16630,30 @@ Pasaka
 Pasakan
 Pasal 
 Pasalia
+Pasalia
+Pasalia
 Pasalia Paham
 Pasamoan
 Pasang
 Pasangan
+Pasangan
 Pasanggiri
 Pasanggiri Cianjuran
 Pasanggrog
+Pasanggrog
 Pasanggrok
+Pasanggrok
+Pasangrok
 Pasangrok
 Pasar
 Pasar Malem
 Pasaran
 Pasarandog
 pasea
+Pasea
+Paséa
+Paséa
+Paséa
 Paséa
 Pasedek-Sedek Paray
 Pasehat
@@ -12226,30 +16662,44 @@ Pasek
 Pasekon
 Pasemon
 Pasesedek
+Pasesedek
+Pasesedek
+Pasesedek
+Paseuk
+Paseuk
+Paseuk
 Paseuk
 Paseuk Gelung
 Pasini
 Pasir
+Pasir
 Pasisian
 Pasisian lembur singkur
+Paso
 Paso
 Pasosore
 Pasrah
 Pasrah Arit
 Pasti
+Pasti
+Pasti
 Pasukan
 Pasukan anu rék mantuan
 Pasukan tentara
 Patali
+Patali
+Patali
 Patali jeung
 patali jeung agama
 Patalimarga
+Patangkeup-tangkeup
 Patangkeup-tangkeup
 Patangpuluh
 Patani
 Patepang
 Patepung
 Pateuh
+Pati
 Pati
 Patih
 Patik
@@ -12259,6 +16709,7 @@ Patingkareclak
 Patingkaretip
 Patingrareket
 Patlot
+Patok
 Patok
 Patokan
 Patotos
@@ -12273,8 +16724,12 @@ Patut
 Paududan
 Paudur
 Paul
+Paul
 Paunggul-Unggul
 Paungku-Ungku
+Paur
+Paur
+Paur
 Paur
 Pausahaan
 Paut
@@ -12285,21 +16740,31 @@ Pawéy
 Pawéy 
 Pawon
 Pawongan
+Pawongan
+Paya
 Paya
 Payaan
+Payaan
+Payah
+Payah
 Payah
 Payang
 Payu
+Payu
 Payun
 Payung
+Payus
 Payus
 Pebruari
 Pecak
 Pecat
 Peceklik
 Pecekrek
+Pecekrek
+Pecut
 Pecut
 Pédal
+Pedes
 Pedes
 Pedit
 Pédit
@@ -12307,6 +16772,8 @@ Pegat
 Pegeg
 Pegek
 Pegel
+Pego
+Pego
 Pego
 Pegon
 Pejret
@@ -12318,9 +16785,12 @@ Pel
 Pelabuhan udara
 Pelacuran
 Pelak
+Pelak
 Pele
 Pelem
 Pelenge
+Pelesir
+Pelesir
 Pelesir
 Pelit
 Pelok
@@ -12333,6 +16803,8 @@ Pencenges
 Pencos
 Pencrong
 Pendak
+Pendak
+Pendek
 Pendek
 Pendem
 Peneunggeul
@@ -12341,8 +16813,13 @@ Pengasilan
 Penggantungan
 Pengker
 Pengkol
+Pengkol
+Pengkol
+Pengkol
+Pengkolan
 Pengkolan
 Pengkor
+Pengkuh
 Pengkuh
 Pengpar
 Pengpelangan
@@ -12353,6 +16830,7 @@ Pentil kalapa
 Penting
 Pentog
 Peot
+Peot
 Péot
 Péot hulu
 Peped
@@ -12362,6 +16840,7 @@ Pepentung
 Peperen
 Perah
 Perah 
+Perah 
 Pérah 
 Perah Bedog
 Perah Maneuh
@@ -12369,18 +16848,23 @@ Perahu
 Perak
 Perak pikeun hiasan
 Perang
+Perang
+Perang
 Perang barata
 Perang campuh
 Perang gerilya
 Perang urat sarap
 Perban
+Perban
 Percanten
+Percumah
 Percumah
 Perecit
 Perekedel
 Pereket
 Peren
 Perenahna
+Peres
 Peres
 Perhatian
 Perhatosan
@@ -12390,6 +16874,9 @@ Perhiasan
 Perhitungan
 Perjurit
 Perkara
+Perkara
+Perkara
+Perkawis
 Perkawis
 Perkosa
 Perlaya Ing Yuda
@@ -12406,6 +16893,8 @@ Persis
 Pertiwi lemah cai
 Perwolu
 Peryogi
+Peryogi
+Peryogi
 Pesak
 Pésak
 Pesék
@@ -12420,28 +16909,43 @@ Peucang
 Peujit
 Peun
 Peuncit
+Peuncit
 Peunteun
 Peupeus
+Peura
 Peura
 Peurah
 Peuray
 Peuray 
 Peuret
 Peureum
+Peureum
+Peureum
+Peureum
 Peureum-beunta
 Peureup
 Peureus
+Peureus
 Peureut
+Peurih
 Peurih
 Peuteuy
 Peuting
 Peuyeuh
 Peuyeum
+Peuyeum
 Piagem
 Pianakan
+Pianakan
+Piara
 Piara
 Pias
+Pias
+Pias
 Pibajueun
+Pibajueun
+Piceun
+Piceun
 Piceun
 Picontoeun
 Pidang
@@ -12453,31 +16957,46 @@ Pihatur
 Piibuan
 Piindung
 Piit
+Piit
 Pikabingungeun
 Pikabitaeun
 pikaboseneun
+Pikaboseneun
+Pikaboseneun
 Pikageuleuheun
+Pikahareupeun
 Pikahareupeun
 Pikahariwangeun
 Pikaijideun
 Pikakeuheukeun
 Pikalewangeun
 Pikalucueun
+Pikalucueun
 Pikareseupeun
 Pikarunyaeun
 Pikasebeleun
 Pikaseurieun
+Pikaseurieun
 pikasieuneun
+Pikasieuneun
+Pikasieuneun
 Pikéjo
+Pikeun
 Pikeun
 Pikeun anjeun
 Pikiran
+Pikiran
+Piknik
+Piknik
+Piknik
 Piknik
 Pilahirna
 Pilari
 Pilem 
 Pilemburan
+Pilemburan
 Pileuleuyan
+Piligenti
 Piligenti
 Pilih
 Pimanaeun
@@ -12486,6 +17005,8 @@ Pinareup
 Pinarinan
 Pincang
 Pindah
+Pindah
+Pindah
 Pindah ka pihak musuh
 Pindangan
 Pinding
@@ -12493,13 +17014,28 @@ Pineus
 Pinggang beubeur
 Pinggul ngagitek
 Pingpin
+Pingpin
 Pingpinans
 Pingping
 Pingpong
 Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+Pinter
+pinter
 Pinter campur gaul
 Pinter pisan
 Pinton
+Pinton
+Pintonan
+Pintonan
 Pintonan
 Pinuh
 Pinuh ku
@@ -12520,16 +17056,24 @@ Pipisahan
 Pirak
 Pirakadar
 Piraku
+Piraku
 Pirasat
 Pireu
 Piring Lodor
 Piriwit
 Pirus
 Pisah
+Pisah
 Pisakseurieun
+Pisan
+Pisan
+Pisan
 Pisan
 Pisitan
 Pitak
+Pitapak
+Pitapak
+Pitapak
 Pitapak
 Pitenah
 Pituah
@@ -12542,6 +17086,7 @@ pluk
 Pocel 
 Pocong
 Poe
+Poe
 Poe Munggah
 Poe Natal
 Poé panungtung
@@ -12551,11 +17096,19 @@ Poek Buta Wereng
 Poek mongkleng
 Poekeun 
 Pohara
+Pohara
+Pohara
+Pohara
+Pohara
+Pohara
 Poho
 Pohon sampeu
 Pohpor
 Pojok
+Pojok
+Pojok
 Pokal
+Poko
 Poko
 Pokrol
 Polo
@@ -12571,26 +17124,38 @@ Popotongan
 Poro
 Posong
 Potol
+Potol
 Potong
 Potret
 Poyan
 Poyok
+Poyok
+Poyok
 Prabu
 Prah
+Prah
+Prajurit
 Prajurit
 Prameswari
 Pramuka
 Prayangan
 Pribumi
 Puasa
+Puasa
 Puasa Wajib
+Pucet
 Pucet
 Pucuk
 Pucuk Awian
+Pucuk Awian
 Pucuk mala
 Pucung
+Pucung
+Pudak
 Pudak
 Pudar
+Pudar
+Puguh
 Puguh
 Puguh kitu
 Puguh We
@@ -12601,24 +17166,33 @@ Puhu Ceuli
 Puhu Leungeun
 Puji
 Pukah
+Pukah
 Pukpruk
+Pukul
 Pukul
 Pukul Rata
 Pulang
+Pulang
 Pulang Anting
+Pulang anting
+Pulang Modal
 Pulang Modal
 Pulang Poe
 Pulang-anting
 Pules
 Pulisi
 Pulo
+Pulo
+Pulpen
 Pulpen
 Pulpén
 Puluh
 Puluhan
 Pulung
+Pulung
 Pulunganeun
 Pulus maléla
+Pulut
 Pulut
 Pun
 Pun Adi
@@ -12626,12 +17200,17 @@ Pun Anak
 Pun Biang
 Pun Bojo
 Pun Lanceuk
+Pun Lanceuk
+Pun Lanceuk
+Punah
 Punah
 Puncak manik
 Puncer
 Punclut
 Pundak
 Punday
+Punduk
+Punduk
 Punduk
 Pundung
 Pundung Eon
@@ -12643,23 +17222,36 @@ Pungkur
 Pungpurutan
 Punjul
 Punten   
+Punten   
 Pupucuk
 Pupucukan
 Pupuh
 Pupuhu
+Pupuhu
+Pupuhu
+Pupuhu  
 Pupuhu  
 Pupuhuan
 Pupuhunan
 Pupujan
 Pupujian
 Pupujieun
+Pupujieun
+Pupundakan
 Pupundakan
 Pupungkuran
 Pupur
+Pupur
+Pupus
+Pupus
+Pupus
 Pupus
 Puput
+Puput
+Puputra
 Puputra
 Puputrian
+Puraga
 Puraga
 Puraga Tamba Kadengda
 Purba
@@ -12667,22 +17259,33 @@ Purbakala
 Purbasangka
 Puruluk
 Purun
+Purun
 Purunyus
 Purut
 Purwakanti
 Puseur
+Puseur
 Puseur Dayeuh
+Pusing
 Pusing
 Pustaka
 Pustakamangsa
+Pustakamangsa
 Pusti
 Puter
+Puter
+Putra
 Putra
 Putra kawalon
+Putraan
 Putraan
 Putri
 Putu Mayang
 Putus
+Putus
+Putus
+Putus
+Putusan
 Putusan
 Puyar
 Puyeng
@@ -12695,15 +17298,23 @@ Raas
 Raat
 Rabet
 Rabi
+Rabi
+Racun
 Racun
 Rada
 Ragaji
 Ragrag
 Raharja
 Rahayat
+Rahayat
+Rahayat
+Rahayat
+Raheut
+Raheut
 Raheut
 Rahim
 Rahong
+Rahul
 Rahul
 Rai
 Rajah Pamunah
@@ -12712,16 +17323,32 @@ Rajapati
 Rajaputra
 Rajet
 Rajin
+Rajin
+Rajin
 Raka
 Raket
+Raket
+Raket
 Raksukan
+Raksukan
+Rama
+Rama
 Rama
 Ramat lancah
 Ramatloka
 Rambut
 Rambut salambar
 Rame
+Rame
+Rame
+Rame
+Rame
 Ramé
+Rame pisan
+Rame pisan
+Rame pisan
+Rame pisan
+Rame pisan
 Rame pisan
 Rames
 Ramijud
@@ -12729,41 +17356,65 @@ Ramo
 Ramo Rema
 Rampa
 Rampak
+Rampak
+Rampak
+Rampe
 Rampe
 Rampog
 Rampung
 Rampus
+Rampus
 Ranca
 Rancatan
 Rancucut
+Rancucut
+Randa
+Randa
+Randa
 Randa
 Randeg
 Randegan
 Ranggaék
+Ranggaék
 Ranggaek 
+Ranggeum
 Ranggeum
 Ranging
 Rangkay
 Rangkay 
 rangkay jandela
 Rangket
+Rangket
+Rangket
+Rangket
+Rangkul
 Rangkul
 Rangrang kararanggé
 Rangsom
 Rangu
+Rangu
 Ranjah
 Rante
 Raos
+Raos
+Raos
+Rapet
+Rapet
+Rapet
 Rapet
 Rapét
+Rapih
 Rapih
 Rapot
 Rara 
 Rarabi
 Rarad
 Rarahi
+Rarahi
 Raramean
 Rarampéolan
+Rarampéolan
+Rarancang
 Rarancang
 Rarandaan
 Rarangan
@@ -12775,7 +17426,14 @@ Raraosan
 Rararngan awewe
 Raras
 Rarasaan
+Rarasaan
 Rarawis
+Rarawis
+Raray
+Raray
+Raray
+Raray
+Raray
 Raray
 Raruksak 
 Ras
@@ -12790,10 +17448,14 @@ Rata
 Raut
 Rautaneun
 Rawat
+Rawat
+Rawayan
 Rawayan
 Rawek
 Raya
+Raya
 Rayat
+Rayi
 Rayi
 Rea
 Rea Omong
@@ -12804,25 +17466,34 @@ Rebo
 Rebo Wekasan
 Rebut
 Rebut Tawar
+Rebut Tawar
 Receh
 Recet 
 Regang
 Regas
 Regot
+Regot
+Rehe
 Rehe
 Rek
 Rék
+Rék
 Reka perdaya
+Réka perdaya
 Réka perdaya
 Rekaan
 Rekep
 Rékép
+Reket
 Reket
 Reksak
 Réla
 Réma
 Remeh
 Remen
+Remen
+Remen
+Remeng-remeng
 Remeng-remeng
 Rempel
 Remuk
@@ -12835,12 +17506,18 @@ Renghap
 Rénghap-ranjung
 Réngkas
 Rengkeng
+Rengkeng
+Rengkeng
 Rengkog
 Rengkuh
 Rengrengan
 Rengse
+Rengse
+Réngsé
+Réngsé
 Réngsé
 Rengse 
+Renten
 Renten
 Reog
 Repeh
@@ -12850,43 +17527,76 @@ Reregean
 Rerekétan
 Rérémpo
 Réréncangan
+Réréncangan
+Rerencepan
 Rerencepan
 réréng
 Rereongan
 Rerep
 Rérés
 Resep
+Resep
+Resep
+Resep
+Resep
 Resep pisan
+Resiko dapur
 Resiko dapur
 Resmi
 Reuah-Reuah
 Reuay
 Reueuk
 Reueus
+Reueus
+Reueus
+Reuhak
+Reuhak
 Reuhak
 Reujeung
 Reuma
 Reumatik
 Reuneuh
+Reuneuh
+Reuneuh
+Reuneuh
+Reuneuh
 Reuneuh dara
 Reuneuh jadah
+Reuneuh Jadah
 Reuneuh Munding
 Reungeu
 Reungit
 Reunteut
 Reureuh
+Reureuh
+Reureuh
+Reureuh
 Reureuhak
+Reuwas
+Reuwas
+Reuwas
+Reuwas
 Reuwas
 Reuweuh-reuweuh
 Rewog
 Rewog 
 Rewu
 Reyem-reyem
+Reyem-reyem
 Reyod
 ribut
+Ribut
+Ribut
+Ribut
+Ribut
+Ribut
+Ribut
 Riceuw
 Ricit
 Rido
+Rido
+Rido
+Rieut
 Rieut
 Rigel
 Rigil
@@ -12899,28 +17609,40 @@ Rincik manik
 Rineh
 Rineka Wacana
 Ringkes
+Ringkes
+Ringkes
+Ringkes
 Ringkesan
 Ringkid
 Ringrang
 Rinyuh
+Rinyuh
+Ripuh
 Ripuh
 Ririakan
 Ririkipan
 Ririwa
+Ririwa
 Riung
 Riung Mungpulung
+Riung Mungpulung
+Riungan
 Riungan
 Riung-Mungpulung
 Riut
 Riwayat
 Riweuh
+Riweuh
 Rjin
 Robah
 Roboh
 Rogahala
+Rogahala
 Rohang
 Rohangan
+Rohangan
 Rohangan di istana tempat raja badami teu resmi
+Rojong
 Rojong
 Rok
 Roko
@@ -12928,71 +17650,121 @@ Roko sabatang
 Romadon
 Romobongan
 Rompo
+Rompo
 Rondeu
 Rondeu kahiji
 Rongkah
 Rorompok
 rorongkong
+Rorongkong
+Rorongkong
+Rorongkong
 Ros
 Ruang
 Rubah
 Rubak
+Rubak
 Rubat-rabet
 Rubuh
+Rubuh
+Rudet
 Rudet
 Rugel
 Rugi
 Ruhak
 Ruhak-rengkhik
+Ruhak-rengkhik
+Ruhay
 Ruhay
 Rujak Uleg
 Rujit
 Ruksak
+Ruksak
+Ruksak
+Ruksak
+Ruksak
+Ruksak
 ruksak pisan
+Rumaja
 Rumaja
 Rumaja Putra
 Rumaja Putri
 Rumanggieung
 Rumaos
 Rumasa
+Rumasa
 Rumawat
 Rumbah
 Rumbay
 Rumbe - rumbe
 Rumeuk
+Rumeuk
 Rumpaka
 Rumpu-rampa
+Rumpu-rampa
+Rumpu-rampa
+Rundayan
 Rundayan
 Rungkad
 Rungkun
+Rungkun
+Rungkun
+Rungsing
 Rungsing
 Rungu
 Runtag
+Runtag
 Runtah
+Runtuh
+Runtuh
+Runtuh
+Runtuh
 Runtuh
 Runtuy
 Rupa
+Rupa
+Rupa
+Rupa
+Rupa
+Rupa
 Rupa - rupa beas
 Rupa-Rupa
+Rupa-rupa
+Rupa-rupa
+Rupa-rupa
+Rupa-rupa
 Rupa-rupa deungeun sangu
+Rupi
 Rupi
 Ruruhit
 Rurumbe
 Ruruntuhan
 Rurusuhan
+Rurusuhan
+Rurusuhan
+Rurusuhan
+Rurusuhan
+Rurusuhan
+Rusiah
+Rusiah
 Rusiah
 Rus-Ras
+Rus-Ras
+Rusuh
 Rusuh
 Ruwet
 Saab
 Saabad
 Saat
+Saat
 Saaya-aya
+Saayana
 Saayana
 Sabab
 Sababad
 Sababaraha
 Sababaraha kali
+Sabada
 Sabada
 Sabagé
 Sabagian
@@ -13005,14 +17777,17 @@ Sabaraha abad
 Sabaraha guruntul
 Sabaraha rupa
 Sabenerna
+Sabenerna
 Sabet
 Sabeuleugeujeur
 Sabeuleugeunjeur
 Sabiwir hiji
 Sabondoroyot
 Sabot
+Sabot
 Sabubuhan
 Sabudeureun
+Sabuk
 Sabuk
 Sacewir
 Sada
@@ -13028,6 +17803,7 @@ Sadérék
 Sadèrèk
 Sadeupa
 Sadia
+Sadia
 Sadunya
 Sae
 Saencan
@@ -13036,11 +17812,13 @@ Saendeng-endeng
 Saenggeus
 Saenyana
 Saeutik
+Saeutik
 Saeutikna
 Saeutik-saeutik
 Saewir
 Sagagang
 Sagala anu aya patalina jeung laut
+Sagara keusik
 Sagara keusik
 Sagawayah
 Sagawé
@@ -13054,10 +17832,13 @@ Sageugeus
 Sageuy
 Sagoyot
 Saguruntul
+Saguruntul
+Saguruntul
 Sah
 Saha
 Saha waé
 Sahayuna
+Saheulaanan
 Saheulaanan
 Sahoseun
 Sahuap
@@ -13077,8 +17858,12 @@ Sakabeh
 Sakabéh
 Sakadaék
 Sakadang
+Sakadang
 Sakadar cukup
 Sakadarna
+Sakadarna
+Sakahayang
+Sakahayang
 Sakahayang
 Sakainget
 Sakait
@@ -13098,11 +17883,15 @@ Sakarép ingsuri
 Sakebét
 Sakedahna
 Sakedap
+Sakedap
+Sakedap
+Sakedap
 Sakedapan
 Sakedép Nétra
 Sakedet Netra
 Sakedét nétra
 Sakedeung
+Sakedik
 Sakedik
 Sakemék
 Sakerejep
@@ -13110,6 +17899,12 @@ Sakèsèr daun
 Saketi
 Saketip
 Sakeudeung
+Sakeudeung
+Sakeudeung
+Sakeudeung
+Sakeudeung
+Sakeudeung
+Sakeupeul
 Sakeupeul
 Sakiceup
 Sakieu
@@ -13122,13 +17917,18 @@ Sakotéap
 Sakti
 Saku
 Sakuat tanaga
+Sakuat tanaga
+Sakuduna
 Sakuduna
 Sakujur awak
 Sakulawarga
 Sakuliah
+Sakuliah
 Sakuliah dunya
 Sakumah
 sakumaha
+Sakumaha
+Sakumaha
 Sakumna
 Sakuren
 Sakuriling
@@ -13137,19 +17937,26 @@ Sal
 Saladah
 Salagi
 Salah
+Salah
+Salah
 Salah 
 Salah citak
 Salah larapna
 Salah Paham
+Salah Paham
+Salain
 Salain
 Salajengna
 Salaki
 Salaksa
 Salaku
 Salambar
+Salambar
+Salametan
 Salametan
 Salametan 40 poe
 Salangit
+Salapan
 Salapan
 Salapis
 Salaput hulu
@@ -13157,20 +17964,29 @@ Salat maghrib
 Salawasna
 Salawe
 Salayan
+Salayan
 Salempang
 Saléngkah
 Saleuheung
+Salian
 Salian
 salikur
 Saling Tulungan
 Salingtoel
 Salira
+Salira
+Salira
 Saliwang
+Saliwatan
 Saliwatan
 Salongok
 Salosin
 Salsé
+Salsé
+Salsé
 Saluhureun
+Saluyu
+Saluyu
 Saluyu
 Samagaha
 Samajadna
@@ -13184,7 +18000,9 @@ Samangsa-mangsa
 samar cabak
 Samar polah
 samara
+Samara
 Samarukna
+Sambat
 Sambat
 Sambel
 Sambetan
@@ -13192,11 +18010,14 @@ Sambung layang
 Sambungan
 Sambungan tulang
 Samemeh
+Samemeh
 Samemehna
+Samemena
 Samemena
 Samenel
 Samenit
 Samentawis
+Sameter
 Sameter
 Sami
 Samiliar
@@ -13206,12 +18027,20 @@ Sampak
 Sampean
 Sampéan
 Sampeu
+Sampeu
+Sampeur
 Sampeur
 Samping kebat
 Sampurasun
 Sampurna
 Sanajan
+Sanajan
+Sanajan
+Sanajan
 Sanajan kitu
+Sanajan kitu
+Sanaos
+Sanaos
 Sanaos
 Sanca
 Sandang-Pangan
@@ -13223,10 +18052,12 @@ Sanget
 Sangeunahna
 Sangewa - ngewana
 Sanggem
+Sanggem
 Sanggeus
 Sanggul
 Sanggup
 Sanghyang
+Sangka
 Sangka
 Sangkakala
 Sangkan
@@ -13234,18 +18065,27 @@ Sangki
 Sangsang
 Sangsang Badan Titip Diri
 Sangsara
+Sangsara
+Sangsara
 Sangu
+Saniskara
 Saniskara
 Sankan
 Santosa
 Saomong-Omongna
 Saon
+Saon
 Saorana
+Sapada
 Sapada
 sapada sajak
 Sapadamayan
+Sapadamayan
+Sapadan
 Sapadan
 Sapagodos
+Sapagodos
+Sapalih
 Sapalih
 Sapamanahan
 Sapamulu
@@ -13258,15 +18098,20 @@ Sapapait Samamanis
 Sapapanjangna
 Sapaparat Jalan
 Saparapat
+Saparapat
 Saparat
 Saparo
 Sapasang
 Sapatu
 Sapédah
+Sapédah
 Sapedah Mini
 Sapele
 Saperkara
 Saperti
+Saperti
+Saperti
+Saperti kieu
 Saperti kieu
 Saperti kitu
 Sapertos
@@ -13274,6 +18119,8 @@ Saperwulon
 Sapeutik jeput
 Sapi
 Sapiker
+Sapiker
+Sapiri Umpi
 Sapiri Umpi
 Sapoé jeput
 Sapopoe
@@ -13286,17 +18133,27 @@ Sapupuh
 Sapuratina
 Saragem
 Sarakah
+Sarakah
+Sarakah
+Sarakah
+Sarakah
+Sarakah
 Sarantos
 Sarao
 Sarap
 Sarat
 Sare
+Sare
 Saré
 Sarebu
 Sarempléks
 Sareng
+Sareng
+Sareng
+Sareng
 Saréngséna
 Sareupna
+Sari gunung
 Sari gunung
 Sariawan
 Sarigsig
@@ -13306,22 +18163,32 @@ Saroeh
 Sarombongan
 Sarsilah
 Sarta
+Sarta
+Sarta
 Sarta 
+Sarua
 Sarua
 Sarupa
 Sarupaning
+Sarupaning
 Sarwa
 Sasab
+Sasab
 Sasajén
+Sasak
+Sasak
 Sasak
 Sasak kambang
 Sasalad
 Sasalaman
 Sasambat
+Sasambat
 Sasampoyongan
+Sasampoyongan 
 Sasampoyongan 
 Sasanggaleun
 Sasapu
+Sasar 
 Sasar 
 Sasarap
 Sasarean
@@ -13337,10 +18204,15 @@ Satengah mateng
 Satengan mateng
 Saterusna
 Satia
+Satia
+Satia
+Satia
+Satia
 Sato
 Sato bikang anu kakara reuneuh
 Sato galak
 Sato jangjangan
+Sato jarah
 Sato jarah
 Satria
 Satru
@@ -13358,26 +18230,40 @@ Saumur
 Saumur Dumelah
 Saumur-Umur
 Saung
+Saung
+Saung
+Saung
 Sauntung
 Saupama
 Saur
 saur manuk
 Saurang
 Saurangan
+Saurangan
+Sauted
 Sauted
 sawajarna
 Sawaktu-Waktu
+Sawaktu-Waktu
+Sawaktu-waktu
 Sawan geureuh
 Sawanda
 Sawang
+Sawang
 Sawareh
+Sawareh
+Sawarga
+Sawarga
 Sawarga
 Sawatara
 Sawatara waktu
 Sawates pundak
 Sawawa
+Sawawa
+Sawawa
 Sawedalan
 Sawelas
+Sawenang-Wenang
 Sawenang-Wenang
 Sawidak
 Sayaga
@@ -13391,12 +18277,24 @@ Seah
 Sebar
 Sebat
 Sebel
+Sebel
+Sebel
 Sebenerna
 Sedek
 Sédéng
 Sedep
 Sedep malem
 Sedih
+Sedih
+Sedih
+Sedih
+Sedih
+Sedih
+Sedih
+Sedih
+Sedih
+Sedih
+Sedih kingkin
 Sedih kingkin
 Sedih pisan
 Sedikit
@@ -13404,10 +18302,12 @@ Seep
 Seepeun
 Segala rupa
 Segut
+Segut
 Sehat
 Sehat pisan
 Sejati 
 Sejen
+sejen
 Sekar
 Sekin
 Sel
@@ -13423,6 +18323,8 @@ Selong
 Selpi
 semacam
 Semah
+Semah
+Sémah
 Sémah
 Sembada
 Semir sapatu
@@ -13435,25 +18337,37 @@ Semu hejo
 Semu hideung
 Senam
 Senang
+Senang
+Senang
 Sendal
 Sendok enteh
 Sendok leutik
+Seneng
 Seneng
 Senggeh
 Sengok
 Seniwati
 Sentak
+Sentak
+Sentak
 Senteg
+Sepa
 Sepa
 Sépak
 seperti
+Seperti
+Seperti
 Sepi
 Sepré
+Sepuh
+Sepuh
+Sepuh
 Sepuh
 Serab
 Serakah
 Serang
 Serat
+Serat Kanayagan
 Serat Kanayagan
 Seratus tahun
 Séréd
@@ -13465,12 +18379,15 @@ Serep
 Séréwél
 Seribu kabur
 Sering
+Sering
 Sernag
 Sero
 Serupa 
 Sesa
 Sésa
 Sésa perang
+Sesah
+Sesah
 Sesah
 Seseepan
 Sesek
@@ -13489,18 +18406,29 @@ Seuneu naraka
 Seuneuan
 Seungeut
 Seungit
+Seungit
 Seungit ngadalinding
+Seupah
 Seupah
 Seupan
 Seureud
 Seureuh
 Seuri
+Seuri
+Seuri
+Seuri
+Seuri
+Seuri ngagakgak
 Seuri ngagakgak
 Seuri ngehkey
 Seuseuh
+Seuseuh
+Seuseungitan
 Seuseungitan
 Seuseup
 Sia
+Sia
+Sial
 Sial
 Siang
 Sia-sia
@@ -13511,21 +18439,31 @@ Sidang
 Sideku
 Siduru
 Sieun
+Sieun
+Sieun
+Sieun
 Sieun 
 Sieun ku maung
 Sieunan
 Sieur
 Siga
 Sihung
+Sihung
+SIhung
 Sihung 
 Siih
 Sikep
+Sikep
+Siki
+Siki
 Siki
 Siki kanjut
 Siksa
 Siksaan
 Siku
 SIlaing
+Silaing
+Silalatu
 Silalatu
 Silanglang
 Siligenti
@@ -13556,14 +18494,22 @@ Sim kuring
 Simeut
 Simpang
 Simpe
+Simpe
+Simpé
 Simpé
 Simpen
+Sinar
 Sinar
 sinaran
 Sinareng
 Sindang
+Sindang
+Sinden
 Sinden
 Sing saha
+Singget
+Singget
+Singget
 Singget
 Singgetan 
 Singhoréng
@@ -13572,26 +18518,41 @@ Singkil
 Singsireumeun
 Sipat
 Sirah
+Sirah
+Sirah
 Sirah cai
 Siram
 Siraru
+Sireum
 Sireum lada
 SIriigsig
+Sirik
+Sirik
+Sirik
 Sirik
 Sirik pidik
 Sirnalaya
 Sirung
+Sirung
 Sirungan
+Sirungan
+Sisi
 Sisi
 Sisidueun
 Sisikian
 Sisindiran
 Sisit
 Situ
+Situ
+Situ
 Siwur
 Soak
+Soak
 Soang
+soang
 Soanten
+Sobat
+Sobat
 Sobat
 Sobat dalit
 Sobat kentel
@@ -13601,34 +18562,66 @@ Soca
 Sodakoh
 Sodor
 Soeh
+Soeh
+Soeh
+Soeh
+Soeh
+Soek
+Soek
+Soek
+Soek
+Soek
 Soek
 Soék
 Sohéh
 Sohor
 Sok
+Sok
 Sok Ngarasa Sebel
 Soklat
+Soldadu
 Soldadu
 Solder
 Solobong
 Sologoto
 Solokan
+Solokan
+Solokan
+Somah
+Somah
 Somah
 Somahan
+Somahan
 sombong
+Sombong
+Sombong
+Sombong
+Sombong
+Sombong
+Sombong
+Someah
 Someah
 Sonagar
+Sonagar
 Songhék
+Sono
 Sono
 Sono kacida 
 Sonten
 Sopan
+Sopan
 sopan santun
+Sopan santun
+Sora
+Sora
 Sora
 Sora anu ngaharewos
 Sora hawar-hawar 
 Sora tarik
 Soraan
+Sorangan
+Sorangan
+Sorangan
 Sorangan
 Sorangan Bae
 Sorban
@@ -13637,14 +18630,20 @@ Soré
 Sorobot
 Sosoca
 Soson-soson
+Soson-soson
 Sri Panggung
 Statsion
 Sual
 Suan
+Suan
+Suan
+Suan
 Suargi
+Suci
 Suci
 Sudagar 
 Sue
+Sué
 Sué
 Suéh
 Sugan
@@ -13654,6 +18653,9 @@ Suguh
 Suhunkeun
 Sujana
 Suka
+Suka
+Suka
+Suka
 Suka bungah
 Suku
 Suku nu aya kukuan
@@ -13661,6 +18663,7 @@ Sukur
 Sukuran
 sulam
 Suling
+Sulit
 Sulit
 Suluh
 Sulur - sulur
@@ -13670,13 +18673,16 @@ Sumbang saran
 Sumpah Mimbar
 Sumpan
 Sumping
+Sumping
 Sumput
 Sumsuam
+Sumuhun
 Sumuhun
 Sumur abadi di tanah suci mekah
 Sunah Mu'Akad
 Sunatan
 Sungkup
+Sungsuam
 Sungsuam
 Sungut
 Sup
@@ -13684,28 +18690,46 @@ Supa
 Supa Pare
 Supados
 Supata
+Supata
+Supata
+Supaya
 Supaya
 Supir
 Surabi
+Surak
 Surak
 Surak ambal-ambalan
 Surat ideran
 Surat Putusan
 Surawung
 Surem
+Surem
+Surem
+Surem
+Surem
+Surem
 Surem 
+Surga
 Surga
 Surti
 Surud
 Surung
+Surung
 Surungan
+Surup
 Surup
 Surup 
 Suruput
 Surutu
+Surutu
+Susah
+Susah
+Susah
+Susah
 Susah
 Susu
 Susuguh
+Susukan
 Susukan
 Susumbar
 Susunan
@@ -13713,31 +18737,51 @@ Susunan acara
 Sutra Wilis
 Suuk
 Suung
+Suung
+Suung
 Suwing
 Suwung
 Ta`jub
+Taar
+Taar
+Taar
 Taar
 Taat
 Taat kana paréntah agama
 Tabah
 Tabeat
+Tabeat
+Tabéat
 Tabéat
 Tabléng
 tabrak
+Tabrak
 Tabrakan
+Tabrakan
+Tabuh
 Tabuh
 Tacan
 Tacan Pareng
 Tagih
 Tagiwur
+Tagiwur
 Tahan
+Tahap
 Tahap
 Tahayul
 Taheur
 Tahta
 tai
+Tai
+Tai
+Tai
 Tai hiang
 Tajong
+Tajong
+Tajong
+Tajug
+Tajug
+Tajug
 Tajug
 Takbur
 Taker
@@ -13745,28 +18789,44 @@ Takis
 Takokak
 Takol
 Taktak
+Taktak
+Taktak
 Taktik
+Talaga
+Talaga
 Talaga
 Talapok
 Talapung
 Talatah
 Talenan
+Talenan
+Taleus
 Taleus
 Tali
 Tali  
 Tali kadali
 Talian
 Talinga
+Talinga
+Talingaan
 Talingaan
 Talingakeun
+Talingakeun
+Taliti
+Taliti
 Taliti
 Talobéh
 Taluk
+Taluk
 Talungtik
+Tamat
+Tamat
 Tamat
 Tamba kawaranan
 Tambaga
 Tambah
+Tambah
+Tambelar
 Tambelar
 Tambih
 Tambur
@@ -13779,26 +18839,37 @@ Tamper
 Tampi
 Tampik
 Tampiling
+Tampiling
+Tampiling
 Tampir
 Tamu
 Tan Wates Wangen
+Tanaga
 Tanaga
 Tanah datar
 Tanak pakidulan
 Tanceb
 Tanda
+Tanda
+Tanda
 Tanda jasa
 Tanda-tanda
+Tandes
 Tandes
 Tandon
 Taneuh
 Tangan peureup
 Tangara
+Tangara
+Tanggah
+Tanggah
 Tanggah
 Tanggah 
 Tanggal
 Tanggay
 Tanggel waler
+Tangginas
+Tangginas
 Tangginas
 Tanggoh
 Tanggung
@@ -13807,55 +18878,89 @@ Tanghi
 Tangins
 Tangis
 Tangkal
+Tangkal
+Tangkal
 Tangkal asem
 Tangkal cau
 Tangkarak
 Tangkeup
+Tangkeup
+Tangkeup
 Tangkil
 Tangkorék
 Tangkub
+Tangkub
 Tangkuban Parahu
 Tangtos
+Tangtos
+Tangtu
+Tangtu
 Tangtu
 Tangtung
+Tangtung
+Tangtung
 Tangtungan
+Tangtungan
+Tangtungan
+Tani
 Tani
 Tanjeur
 Tanpa Wilangan
+Tanpadaksa
 Tanpadaksa
 Tanwande
 Tanya
 Taohid
 Taos
 Tapak
+Tapak
+Tapak
 Tapak dampal suku
 Tapak liman
 Tapel kuda
 Tapel Wates
+Tapel wates
+Tapi
+Tapi
+Tapi
 Tapi
 Tapsir
+Tarajang
+Tarajang
 Tarajang
 Taraje
 Tarajé
 Taraju
 Tarang
+Tarang
+Tarang
+Taranjang
 Taranjang
 Tarasi
 Taraté
+Taraté
 Tarawéh
 Taréh
+Tarekah
+Tarekah
 Tarekah
 Tarékah
 Tarétéd
 Tarigu
 Tarik
+Tarik
+Tarik
+Tarik
+Tarik 
 Tarik 
 Tarima
 Taringgul
 Tarjamah
 Tarompét
 Taros
+Taros
 Tartib
+Tarumpah
 Tarumpah
 Tas
 Tasbé
@@ -13870,6 +18975,7 @@ Tatah kurung
 Tatanén
 Tataneuhan
 Tatangga
+Tatangga
 Tatanggahan
 Tatanggi
 Tatanya
@@ -13879,13 +18985,19 @@ Tata-titi
 Tatih
 Tato
 Tatu
+Tatu
 Tatu Parna
+Taun
 Taun
 Tawekal
 Tawis
+Tawis
+Tawis katineung
 Tawis katineung
 Taya guam
 Taya guna
+Taya gunana
+Taya gunana
 Taya gunana
 Taya hargaan
 Taya hartina
@@ -13895,6 +19007,7 @@ Taya rasrasan
 Taya ras-rasan
 Taya Wilanganan
 Tayoh Ke Patutna
+Tayoh Ke Patutna
 Tayung
 Te keudeu
 Teang
@@ -13902,14 +19015,23 @@ Teanggeuy
 Tebih
 Teda
 Tegal
+Tegal
+Tegal
+Tegal eurih
 Tegal eurih
 Tegalan
+Tegalan
+Tegap
 Tegap
 Tegel
 Tegep
 Tegor
 Teguh
+Teguh
+Teguh
 Tehel
+Tehel
+Tékad
 Tékad
 Teke
 Teken
@@ -13918,10 +19040,13 @@ Teko
 Telat
 Téléng
 telenges
+Telenges
 Telih
 Teluh kéjo
 Temah Wadi
 Tembang
+Tembang
+tembang
 Tembong
 Témbong
 Tembus
@@ -13930,6 +19055,7 @@ Temen Wekel
 Tempat
 Tempat diajar ngaji
 Tempat panganten
+Tempo
 Tempo
 Témpo
 Tenaga
@@ -13943,13 +19069,18 @@ Tenggek
 Ténggék
 Tengi
 Tengtrem
+Tengtrem
+Tengtrem
+Tengtrem
 Tenjo
 Ténjo
 Tentara
 Teoh
 Tépa
+Tépa
 Tepak
 Tepang
+Tepas
 Tepas
 Tepi
 Tepung
@@ -13959,9 +19090,13 @@ Tepung wates
 Ter aspal
 Terang
 Teras
+Teras
+teras
+Teras
 Terdampar
 Tere
 Terebang
+Tereh
 Tereh
 Terharu
 Terjerembab
@@ -13969,14 +19104,22 @@ Terong
 Terung
 Terung Maruka
 Terus
+Terus
+Terus
+Terus
 Terus Ngocor Tur Loba
 Terus Rasa
 Terusan
 Terusing ratu rembesing kusumah
 Terus-terusan
+Terus-terusan
+Terus-terusan
+Terus-terusan
+Terus-terusan
 Tétécéan
 Teteh
 Tetela
+Tétéla
 Tétéla
 Tetembangan
 Tetempoan
@@ -13984,13 +19127,17 @@ Tetengger
 Téténjoan
 Tetep
 Teterejel
+Teterejel
 Tétés
+Teu
+Teu
 Teu
 teu adil
 Teu aman
 Teu anggeus
 Teu asup
 Teu asup 
+Teu aya
 Teu aya
 Teu aya duan
 teu becus
@@ -14002,9 +19149,11 @@ Teu Bisa Usik Malik
 Teu boga bapa
 Teu boga pagawean
 teu daek cicing
+teu daek cicing
 Teu damang manah
 Teu Daya Teu Upaya
 Teu daya upaya
+teu daya upaya
 Teu Dipaduli
 Teu Dipalire
 Teu Diwaro
@@ -14015,14 +19164,18 @@ Teu hadir
 Teu hayang
 Teu Hir Teu Walahir
 Teu ilahar
+Teu ilahar
 teu irit
 Teu jadi
+Teu jadi
+Teu Jadi
 Teu kaasupan cai
 Teu kadangu sora
 Teu kalis
 Teu kaop
 Teu kapalire
 Teu kapirosea
+Teu kaurus
 Teu kaurus
 Teu Kawawa
 Teu kendat
@@ -14041,19 +19194,25 @@ Teu maliré
 Teu mantes
 Teu Matut
 Teu Metu
+Teu Metu
 Teu nenjo
 Teu ngagugu
 Teu ngahargaan
 Teu Ngaku
 Teu ngalagu
 Teu Nurut
+Teu nurut
 Teu nyaho
+Teu Nyaho Di Hitut Bau
 Teu Nyaho Di Hitut Bau
 Teu Nyana 
 Teu nyesa
 Teu panasaran
 Teu pantes
+Teu pantes
 Teu Parok
+Teu Parok
+Teu Parurun
 Teu Parurun
 Teu Payaan
 Teu Puguh Monyet Hideungna
@@ -14063,15 +19222,24 @@ Teu reugeujeug
 Teu sabaraha
 Teu sarua jeung batur
 Teu sopan
+Teu sopan
 Teu subur
+Teu suka
 Teu suka
 Teu tega
 Teu Umum
+Teu Umum
+Teu uni
+Teu uni
 Teu uni
 Teu Uyahan
 Teu walakaya
+Teu walakaya
+Teu Walakaya
 Teu Wasa
 Teu Weleh
+Teu Weleh
+Teu Werat
 Teu Werat
 Teu Weudeu
 Teuas
@@ -14079,70 +19247,109 @@ Teuas jeung heuras
 Teuas seperti waja
 Teueul
 Teuing
+Teuing
 Teukteuk
 Teuleum
 Teundeun
+Teundeun
 Teuneung
+Teunggeul
+Teunggeul
+Teunggeul
 Teunggeul
 Teurab
 Teurak
+Teureub
 Teureub
 Teuteup
 Téwak
 Ti
 Ti  
 Ti heula
+Ti heula
+Ti heula
 Ti mimiti
 Ti ngawitan
 Ti Oorok
+Tiarap
+Tiarap
 Tiarap
 Tiasa
 Tibabaranting
 Tibalik
 Tibatan
+Tibatan
+Tibra
+Tibra
 Tibra
 tidagor
+Tidagor
+Tidagor
+Tidagor
+Tidagor
 Tidak bisa membaca
+Tigebrus
+Tigebrus
 Tigebrus
 Tigejebur
 Tigeledug
 Tigeletuk
 Tigin
+Tigin
 Tigolémpang
 Tiguling
 Tigurawil
 Tihang
+Tihang
 Tihothat
 Tiir
+Tiis
 Tiis
 Tiis dingin paripurna
 Tiis Dingin Peripurna
 Tiiseun
+Tiiseun
+Tiiseun
+Tiiseun
+Tiiseun
+Tiiseun
+Tijalikeuh
+Tijalikeuh
 Tijalikeuh
 Tijedag
 Tijengkang
+Tijengkang
+Tikat
 Tikat
 Tikedewet
 Tikelebek
 Tikoro
+Tikoro
 Tikoro kotokeun
+Tikosewad
 Tikosewad
 Tikoséwad
 tikunclung
 Tikungan
 Tikusruk
+Tikusruk
+Tikusruk
+Tikusruk
 Tilar dunta
 Tilar Dunya
+Tilar dunya
 Tilas
 Tilem
 Tilep
 Tilik
+Tilu
 Tilu
 Timba
 Timbangan
 Timburu
 Timburuan
 Tina
+Tincak
 Tincak
 Tinekanan
 Tingal
@@ -14153,12 +19360,15 @@ Tingkariceup
 Tingkat
 Tingkatan
 Tingtrim
+Tingtrim
+Tingtrim
 Tinimbang
 Tinimbangan
 Tinju
 Tinun
 Tipes
 Tipi
+Tiporos
 Tiporos
 Tipu
 Tipu daya 
@@ -14169,14 +19379,22 @@ Tirem
 Tiris
 Tirta Marta
 Tisereuleu
+Tisereuleu
 Tiseureudeut
 Tiseureuleu
 Tisoledat
+Tisoledat
+Tisoledat
+Tisoledat
+Tisoledat
+Tisolédat
 Tisolédat
 Tisoledat letah
 Tisolédat létah
 Titadi
 Titah
+Titajong
+Titajong
 Titajong
 Titajong 
 Titeleum
@@ -14184,24 +19402,33 @@ Titeuleum
 Titik
 Titimangsa
 Titincakan
+Titincakan
+Titincakan
 Titinggi
 Titiran
 Titisan
 Tiung
 Tiwu
+Tiwu
 Tiwu dekeleng
 Tobat
+Togé
 Togé
 Togmol
 Togoléncéng
 Tohaga
 Tohid
 Tojaiah
+Tojaiah
 Tojos
 Toké
 TOko
+Toko
 Toko Obral
 Tokoh
+Tokoh
+Tolol
+Tolol
 Tolol
 Tolol jagong
 Tolombong
@@ -14214,16 +19441,21 @@ Tongo
 Topan
 Toré
 Torek
+Torek
 Torowongan
+Tos
 Tos
 Totol
 Totol - totol laleutik
+Totol-totol
 Totol-totol
 Totombé
 Totonden
 Totopong
 Totor
 Toweksa
+Toweksa
+Towong
 Towong
 Treng
 Treuk
@@ -14233,6 +19465,10 @@ Tuang
 Tuar
 Tubles
 tubruk
+Tubruk
+Tubruk
+Tubruk
+Tubrukan
 Tubrukan
 Tuduh jalan
 Tugel jangga
@@ -14240,9 +19476,11 @@ Tugu Umpi
 Tuhu
 Tuju tujul
 Tujuan
+Tujuan
 Tujuh
 Tujuh kuriling
 Tujulajer
+Tukang
 Tukang
 Tukang 
 Tukang  
@@ -14268,7 +19506,9 @@ Tukang tipu
 Tukang tutulung
 Tukangeun
 Tukeur
+Tukeur
 Tuladan
+Tulak bala
 Tulak bala
 Tulak panto
 Tulale
@@ -14279,28 +19519,44 @@ Tulang tonggong
 Tulangna hideung
 Tulatén
 Tulung
+Tulung
+Tulung
 Tuluy
+Tumbak
 Tumbak
 Tumbak garanggang
 Tumbila
+Tumbila
+Tumbila
+Tumpak
 Tumpak
 Tumpak Motor
 Tumpes
 Tumpuk
 Tumpur
+Tumpur
 Tumuwuh
 Tunawisma
 Tunda
+Tunda
+Tunduh
+Tunduh
+Tunduh
 Tunduh
 Tundung
 Tunggal 
 Tunggang gunung
 Tunggara
+Tunggara
 Tunggu
 Tunggul
 Tungku 
 Tungkul
+Tungkul
+Tungkul
 Tungtun
+Tungtung
+Tungtung
 Tungtung
 Tungtung deuleu
 Tungtung hareup suku
@@ -14309,48 +19565,71 @@ Tuntung deuleu
 Tunyu-tanya
 Tur
 Turun
+Turun
+Turun
+Turun 
 Turun 
 Turun bero
 Turun tina kapal cai terus ka darat
 Turun tina kapal udara ka darat
 Turun tumurun
 Turunan
+Turunan
+Turunan
 Turuy
 Tutumpaka
 Tutumpakan
 Tutung
+Tutung
 Tutup
 Tuturus
 Tuturut Munding
+Tuturut munding
+Tuturut munding
+Tuturut munding
 Tutut
+Tuur
+Tuur
 Tuur
 Tuut
 Ua
 Uang
 Uang Roko
 Uar
+Uar
+Uar
+Uar
 Uar Pangajak
 Uaran
 Ubar
+Ubar
+Ubar Puruluk
 Ubar Puruluk
 Ubek
 Ubek-Ubekan
 Ubeng
 Uber
 Ubin
+Ubin
 Ubin Beureum
 Ublug-Ablag
 Ubrak-Abrik
+Ubrak-Abrik
 Ubur-Ubur
+Ubyag
 Ubyag
 Ucah-Aceh
 Ucang angge
 Ucang anggé
+Ucang anggé
 Ucang-Ucangan
+Ucap
+Ucap
 Ucap
 Ucap omong
 Ucapan
 Uceng
+Ucing
 Ucing
 Ucing Nyanding Paisan
 Ucing-Ucingan
@@ -14362,20 +19641,26 @@ Udag-Udagan
 Udan
 Udan liris
 Udar
+Udar
 Udar Jangji
 Udat
 Udat-Udatan
 Udel
 Udeng
 Udik
+Udik
+Udud
 Udud
 Uduh
 Udul
+Udulan
 Udulan
 Udur
 Udur Sasih
 Uga
 Uger
+Uger
+Ugeran
 Ugeran
 Ugung
 Uih
@@ -14384,19 +19669,26 @@ Ujang
 Ujar
 Ujaring Carita
 Uji
+Uji
 Ujiah
 Ujian
 Ujian lisan
 Ujub
+Ujub
 Ujug-Ujug
+Ujug-ujug
+Ujung
+Ujung
 Ujung
 Ujung Kulon
 Ujungan
 Ukal-Ekol
 Ukey
+Ukey
 Ukir
 Ukiran
 Ukul-Akal
+Ukur
 Ukur
 Ukuran
 Ukuran 
@@ -14411,16 +19703,21 @@ Ulang-Ulangan
 Ulas
 Ulas-iles
 Ulat 
+Ulat 
 Ulat Nu Susah
 Ulat Pandita
 Ulaweran
+Ulaweran
 Uleg
+Uleg
+Ulekan
 Ulekan
 Ulem
 Uleman
 Ulen
 Ulén
 Uleng
+Ules
 Ules
 Ulet
 Ulik
@@ -14429,40 +19726,69 @@ Ulis
 Ulon -  ulon
 Ulon - ulon
 Ulon-Ulon
+Ulon-Ulon
+Ulon-ulon
 Ulu
 Ulubiung
 Uluksalam
+Ulukutek
 Ulukutek
 Ulun
 Ulun Kumawula
 Ulur
 Ulutud
+Ulutud
 Ulu-Ulu
 Umajak
+Umajak
+Umajak
+Umambon
 Umambon
 Umang
+Umat
 Umat
 Umat Alloh
 Umat Islam
 Umbal
+Umbal
+Umbar
 Umbar
 Umbel
 Umbul-Umbul
 Umel
 Umi
+Umi
+Umpak
 Umpak
 Umpalan
+Umpalan
+Umpi
 Umpi
 Umrah
 Umum
+Umum
+Umum
+Umum
+Umur
+Umur
 Umur
 Umyang
+Umyang
+Umyang
 Unak-Anik
+Unak-anik
+Uncal
+Uncal
 Uncal
 Uncal Teu Ridueun Ku Tanduk
 Undagi
+Undagi
+Undagi
+Undak
 Undak
 Undakan
+Undakan
+Undak-Usuk
 Undak-Usuk
 Undak-Usuk Basa Sunda
 Undem
@@ -14470,6 +19796,9 @@ Undi
 Undian
 Unduh
 Undur
+Undur
+Undur
+Undur Kadeuleu Punduk Datang Kadeuleu Tarang
 Undur Kadeuleu Punduk Datang Kadeuleu Tarang
 Undur-Undur
 Unek
@@ -14483,13 +19812,21 @@ Unggal
 Unggal-unggal
 Unggel
 Ungger
+Ungger
+Unggeuk
+Unggeuk
+Unggeuk
 Unggeuk
 Unggeuk-unggeukan
+Unggul
 Unggul
 Unggul Perang
 Unggut
 Unggut-Unggutan
+Unggut-unggutan
 Unghak
+Ungkab
+Ungkab
 Ungkab
 Ungkara
 Ungkara Basa
@@ -14498,17 +19835,25 @@ Ungkrah-Angkrih
 Ungku
 Ungkug
 Ungkul
+Ungkul
 Ungkulan
+Ungkulan
+Ungsi
 Ungsi
 Uni
 Uninga
 Uni-Unian
 Unjal
+Unjal
 Unjam-injeum
+Untun
 Untun
 Untun 
 Untung
+Untung
+Untung
 Untung-Rugi
+Untung-Untungan
 Untung-Untungan
 Untup
 Untupan
@@ -14518,44 +19863,85 @@ Upacara
 Upadi
 Upah
 Upajiwa
+Upajiwa
+Upama
+Upama
+Upama
+Upama
+Upama
+Upama
+Upama
 Upama
 Upama 
 Upamana
 Upami
+Upami
+Upami
+Upami
+Upami
+Upami
+Upami
 Upas
+Upas
+Upas
+Upas
+Upat
 Upat
 Upat-Simuat
 Upaya
+Upaya
+Upeti
 Upeti
 Upil
 Uplek
 Urab
 Urab Jagong
 Urang
+Urang
+Urang
+Urang
+Urang
 Urang Eropah
 Urang luar
 Urang-aring
 Uras
+Urat
+Urat
 Urat
 Urat murungkut
 Urat ngotot
 Urek
 Urug
 Urunan
+Urunan
 Urup
 Urup-Urupan
 Urus
+Urus
+Urut
+Urut
 Urut
 Urut Lalay
 Uruy
 Usaha
+Usaha
 Usaha tohtohan
 Usap
+Usap
+Usap
+Useup
+Useup
+Useup
 Useup
 Usik
+Usik
+Usik
+Usik
+Usir
 Usir
 Ustara
 Usud
+Usul
 Usul
 Usum
 Usum Kadu
@@ -14574,8 +19960,12 @@ Utama
 Utami
 Utang 
 Utara
+Utara
+Uted
 Uted
 Utek
+Utek
+Uteuk
 Uteuk
 Utey
 Utik
@@ -14590,16 +19980,23 @@ Uwang-Awing
 Uyah
 Uyah Tara Tees Ke Luhur
 Uyuhan
+Uyuhan
+Uyup
 Uyup
 Waas
 Wabah
+Wabah
 Waca
 Wacana
+Wacana
 Wacis
+Wada
 Wada
 Wadaan
 Wadah
 Wadal
+Wadal
+Wadana
 Wadana
 Wadang
 Wadas
@@ -14607,7 +20004,9 @@ Wadat
 Wadi
 Waditra
 Wadon
+Wadon
 Waduk
+Wadul
 Wadul
 Wadya
 Wadyabala
@@ -14615,16 +20014,24 @@ Wadyabalad
 Wae
 Wagel
 Wagelan
+Wagelan
 Wagu
 Wagu Ngulangkeun Pacul
+Wahangan
+Wahangan
 Wahangan
 Wahdat
 Wahwal
 Wahyu
 Waja
+Waja
+Waja
 Wajan
 Wajar
+Wajar
+Wajar
 Wajib
+Wajit
 Wajit
 Wakaf
 Wakap
@@ -14633,6 +20040,14 @@ Waken
 Wakif
 Wakil
 Waktos
+Waktos
+Waktu
+Waktu
+Waktu
+Waktu
+Waktu
+Waktu
+Waktu
 Waktu
 Waktu 
 Waktu maot
@@ -14646,9 +20061,11 @@ Walahwah-Weuleuhweuh
 Walakaya
 Walanda
 Walatra
+Walatra
 Waled
 Waledan
 Waleh
+Waler
 Waler
 Wales
 Walet
@@ -14659,21 +20076,26 @@ Wali Nagara
 Wali Songo
 Walik
 Walikat
+Walikat
 Walimah
 Walingi
 Walini
 Walirang
 Waliwis
+Waliwis
 Waliyullah
 Walon
 Waluh
+Walungan
 Walungan
 walungan 
 walungan gede
 Walurat
 Waluya
+Waluya
 Wana
 Wanara
+Wancah
 Wancah
 Wancahan
 Wanci
@@ -14682,8 +20104,12 @@ Wande
 Wandu
 Wangen
 Wangenan
+Wangenan
+Wangenan
 Wangi
 Wangkelang
+Wangkelang
+Wangkid
 Wangkid
 Wangkid Ayeuna
 Wangkong
@@ -14695,20 +20121,30 @@ Wangsit Ti Langit
 Wangsul
 Wangsulan
 Wangun
+Wangun
 Wangunan
+Wangwang
 Wangwang
 Wangwangan
 Wangwangan 
 Wangwangan  
 Wani
 Wanian
+Wanian
+Wanian
 Wanoh
+Wanoh
+Wanoja
 Wanoja
 Wanter
 Wanti-Wanti
 Wantun
 Waos
 Waragad
+Waragad
+Waragad
+Waragad
+Warah
 Warah
 Warahan
 Waraheun
@@ -14723,7 +20159,10 @@ Wareg
 Wareh
 Wareng
 Warga
+Warga
+Warga
 Warga Nagara
+Wargi
 Wargi
 Warid
 Warigaluh
@@ -14732,9 +20171,11 @@ Warirang
 Waris
 Warisan
 Warna-warni
+Warna-warni
 Waro
 Warsa
 Warsih
+Warta
 Warta
 Wartawan
 Wartos
@@ -14742,8 +20183,10 @@ Waru
 Waruga
 Waruh
 Warung
+Warung
 Wasa
 Wasiat
+Wasir
 Wasir
 Waskita
 Waspada
@@ -14751,12 +20194,19 @@ Wasta
 Wasuh
 Wasuhaneun
 Waswas
+Waswas
+Waswas
 Watang
 Watangan
 Watara
 Watek
+Watek
+Wates
+Wates
 Wates
 Wati
+Watir
+Watir
 Watir
 Watu
 Wawa
@@ -14767,6 +20217,7 @@ Wawalandaan
 Wawalehan
 Wawales
 wawanen
+Wawanen
 Wawangen
 Wawangi
 Wawangunan
@@ -14775,11 +20226,15 @@ Wawanianan
 Wawanohan
 Wawar
 Wawaran
+Wawaran
+Wawaran
 Wawarangan
+Wawarehan
 Wawarehan
 Wawasiatan
 Wawasuh
 Wawawuhan
+Wawayagon
 Wawayagon
 Wawayangan
 Wawuh
@@ -14789,6 +20244,7 @@ Wayah
 Wayang
 Wayang Golek
 Wayang kulit
+Wayang Kulit
 Wayang Wong
 Wayuh
 Wedak
@@ -14796,29 +20252,52 @@ Wedal
 Wedalan
 Wedang
 Wedel
+Wedel
+Wedel
+Wedel
+Wedel
+Wedet
 Wedet
 Weduk
+Weduk
+Weduk
+Wegah
+Wegah
 Wegah
 Wekas
 Wekasan
 Wekel
+Wekel
 Weker
+Weker
+Welah
 Welah
 Welah 
 Welang
 Welas
+Welas
+Welasan
 Welasan
 Weleh
+Weleh
 Welehan
+Weling
 Weling
 Wenang
 Wengi
 Wengku
+Wengku
+Wening
 Wening
 Wening galih
 Wentar
+Wentar
 Wentis
 Wera
+Wera
+Wera
+Werat
+Werat
 Werat
 Werdaya
 Weredon
@@ -14826,45 +20305,64 @@ Weregu
 Werejit
 Wereng
 Werit
+Werit
 Weruh Sadurung Winarah
 Wesi
 Wesi Kuning
 Wetan
 Weteng
 Weton
+Weton
+Wetu
 Wetu
 Weudeu
 Weureu
+Weureu
+Weuteuh
 Weuteuh
 Weuteuhan
 Weweg
+Weweg
+Weweg
+Weweg
 Wewel
 Weweling
+Weweling
+Wewengkon
+Wewengkon
 Wewengkon
 Wewengkuan
 Wewesen
 Wewesén
 Wewetengan
 Wiadi
+Wiadi
 Wianjana
 Wiara
+Wibawa
 Wibawa
 Widadari
 Widak
 Widang
 Wide
 Widé
+Widé
+Widi
+Widi
 Widi
 Widuri
 Wig
 Wihara
 Wijak
 Wijaksana
+Wijaksana
+Wijaksana
 Wijaya
 Wijayakusumah
 Wijen
 Wiji
 Wijining Elmu
+Wiku
 Wiku
 Wilah
 Wilang
@@ -14876,12 +20374,16 @@ Wilis
 Wilujeng
 Winaya
 Wincik
+Wincik
 Wincik 
+Wincikan
 Wincikan
 Winojakrama
 Wios
 Wirahma
+Wirahma
 Wirahma lagu
+Wirang
 Wirang
 Wirangrong
 Wirasat
@@ -14891,6 +20393,7 @@ Wirehing
 Wirid
 Wiridan
 Wiru
+Wisata
 Wisata
 Wisaya
 Wisesa
@@ -14914,40 +20417,62 @@ Wowoy
 Wudu
 Wuduk
 Wujud
+Wujud
 Wujuk
 Wulang
 Wulang Krama
 Wulu
 Wuluku
+Wuluku
+Wuluku
 Wulung
 Wungkul
+Wungkul
+Wungkul
+Wungkul
 Wungu
+Wungu
+Wuruk
 Wuruk
 Wurukan
 Wurung
+Wurung
+Wurung
 Wuwuh  
 Wuwung
+Wuwung
+Wuwung
+Wuwuruk
 Wuwuruk
 Wuwus
 Wuyung
 Ya
 Yahudi
 Yahut
+Yahut
+Yahut
 Yaitu
+Yakin
 Yakin
 Yakin pisan
 Yaksa
 Yaktos
+Yaktos
 Yakut
 Yamun
 Yang
+yang
 Yang Manon
+Yasa
 Yasa
 Yatim
 Yatna
+Yatna
+Yaumal Kiamah
 Yaumal Kiamah
 Yayi
 Yen
+Yoga
 Yoga
 Yogi
 Yogya
@@ -14957,26 +20482,12 @@ Yuni
 Yuni kembang
 Yuri
 Yuswa
+Yuswa
 Yuta
 Yuyu
 Yuyukangkang
 Zaman
+Zaman
+Zaman baheula
 Zaman baheula
 Zaman Purba
-Teu acan
-Ais
-Emban
-Kango
-Haturan
-Ajar
-wulang
-aji
-aos
-ajeng
-akang
-engkang
-aki
-éyang
-angken
-ali
-lélépén

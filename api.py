@@ -47,73 +47,80 @@ async def stemming(request: Request):
 @app.post('/stemming/proses', response_class=HTMLResponse)
 async def stemming_proses(request: Request, data: str = Form()):
     status: str = ket_tada
+    kata_sunda = kataSunda()
 
     hasil_pref = hilangkanAwalan(data)
     print("hasil_pref: ", json.dumps(hasil_pref[0]))
-    if hasil_pref[1]==ket_ada:
-        status = hasil_pref[1]
-    
+    # if hasil_pref[1]==ket_ada:
+    #     status = hasil_pref[1]
+        
     hasil_suf = hilangkanSuf(hasil_pref[0])
     print("hasil_suf: ", json.dumps(hasil_suf[0]))
-    if hasil_suf[1]==ket_ada:
-        status = hasil_suf[1]
+    # if hasil_suf[1]==ket_ada:
+    #     status = hasil_suf[1]
 
     hasil_sisipan = hilangkanSisipan(hasil_suf[0])
     print("hasil_sisipan: ", json.dumps(hasil_sisipan[0]))
-    if hasil_sisipan[1]==ket_ada:
-        status = hasil_sisipan[1]
+    # if hasil_sisipan[1]==ket_ada:
+    #     status = hasil_sisipan[1]
 
     hasil_sisipan2 = hilangkanSisipan2(hasil_sisipan[0])
     print("hasil_sisipan2: ", json.dumps(hasil_sisipan2[0]))
-    if hasil_sisipan2[1]==ket_ada:
-        status = hasil_sisipan2[1]
+    # if hasil_sisipan2[1]==ket_ada:
+    #     status = hasil_sisipan2[1]
 
     hasil_sisipan3 = hilangkanSisipan3(hasil_sisipan2[0])
     print("hasil_sisipan3: ", json.dumps(hasil_sisipan3[0]))
-    if hasil_sisipan3[1]==ket_ada:
-        status = hasil_sisipan3[1]
+    # if hasil_sisipan3[1]==ket_ada:
+    #     status = hasil_sisipan3[1]
 
     hasil_sisipan4 = hilangkanSisipan4(hasil_sisipan3[0])
     print("hasil_sisipan4: ", json.dumps(hasil_sisipan4[0]))
-    if hasil_sisipan4[1]==ket_ada:
-        status = hasil_sisipan4[1]
+    # if hasil_sisipan4[1]==ket_ada:
+    #     status = hasil_sisipan4[1]
 
     hasil_sisipan6 = hilangkanSisipan6(hasil_sisipan4[0])
     print("hasil_sisipan6: ", json.dumps(hasil_sisipan6[0]))
-    if hasil_sisipan6[1]==ket_ada:
-        status = hasil_sisipan6[1]
+    # if hasil_sisipan6[1]==ket_ada:
+    #     status = hasil_sisipan6[1]
 
     hasil_sisipan7 = hilangkanSisipan7(hasil_sisipan6[0])
     print("hasil_sisipan7: ", json.dumps(hasil_sisipan7[0]))
-    if hasil_sisipan7[1]==ket_ada:
-        status = hasil_sisipan7[1]
+    # if hasil_sisipan7[1]==ket_ada:
+    #     status = hasil_sisipan7[1]
 
     hasil_barung = hilangkanBarung(hasil_sisipan7[0])
     print("hasil_barung: ", json.dumps(hasil_barung[0]))
-    if hasil_barung[1]==ket_ada:
-        status = hasil_barung[1]
+    # if hasil_barung[1]==ket_ada:
+    #     status = hasil_barung[1]
 	
     hasil_bareng = hilangkanBareng(hasil_barung[0])
     print("hasil_bareng: ", json.dumps(hasil_bareng[0]))
-    if hasil_bareng[1]==ket_ada:
-        status = hasil_bareng[1]   
+    # if hasil_bareng[1]==ket_ada:
+    #     status = hasil_bareng[1]   
 
-    output = hasil_bareng[0]
+    hasil_nasal = modulNasal(hasil_bareng[0])
+    print("hasil_nasal: ", json.dumps(hasil_nasal[0]))
+    # if hasil_nasal[1]==ket_ada:
+    #     status = hasil_nasal[1]
+
+    output = hasil_nasal[0]
     min_distance = math.inf
     most_similar = ""
     tmp = []
-    if status==ket_tada:
+
+    if not ini_kata_sunda(output,kata_sunda):
         for string in kataSunda():
-            distance = levenshtein_distance(data, string)
+            distance = levenshtein_distance(output, string)
             if distance < min_distance:
                 min_distance = distance
                 most_similar = string
                 tmp.append(string)
-        print("String yang paling mendekati dengan '{}' adalah '{}' dengan jarak Levenshtein {}".format(data, most_similar, min_distance))
+        print("String yang paling mendekati dengan '{}' adalah '{}' dengan jarak Levenshtein {}".format(output, most_similar, min_distance))
         tmp=tmp[::-1]
 
-    print(json.dumps({"data": data, 'base': output, 'status': status, 'alternative': tmp, 'len': len(tmp)},sort_keys=True, indent=4))
-    return templates.TemplateResponse("hasil_stemming.html", {"request": request, "data": data, 'base': output, 'status': status, 'alternative': tmp, 'len': len(tmp)})
+    print(json.dumps({"data": data, 'base': output, 'alternative': tmp, 'len': len(tmp)},sort_keys=True, indent=4))
+    return templates.TemplateResponse("hasil_stemming.html", {"request": request, "data": data, 'base': output, 'alternative': tmp, 'len': len(tmp)})
 
 @app.get('/translate', response_class=HTMLResponse)
 async def translate(request: Request):
@@ -163,20 +170,54 @@ def levenshtein_distance(str1, str2):
 def ini_kata_sunda(word, kata_sunda):
     return word.lower() in kata_sunda
 
+def modulNasal(word):
+  kata_ganti = ["p", "b"]
+  kata_ganti2 = ["b", "d", "g", "h", "j", "l", "m", "n", "w", "y"]
+  kata_ganti3 = ["c", "s"]
+  kata_sunda = kataSunda()
+
+  if word.startswith("m"):
+    for pref in kata_ganti:
+      morfoWord = word.replace("m", pref)
+    
+    return(morfoWord,ket_ada,'sukses')
+
+  if word.startswith("nga"):
+    words = word[len('nga'):]
+    for pref in kata_ganti2:
+      if words.startswith(pref):
+        return(words,ket_ada,'sukses')
+
+  if word.startswith("ng"):
+    morfoWord3 = word.replace("ng","k", 1)
+    return(morfoWord3,ket_ada,'sukses')
+
+  if word.startswith("ny"):
+    for pref in kata_ganti3:
+      morfoWord4 = word.replace("ny", pref)
+
+    return(morfoWord4,ket_ada,'sukses')
+  
+  if word.startswith("n"):
+    morfoWord2 = word.replace("n","t", 1)
+    return(morfoWord2, ket_ada,'sukses')
+
+  if ini_kata_sunda(word,kata_sunda):
+      return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
+  else:
+      return(word,ket_tada,'gagal : ini kata dasar bahasa sunda')
+
 def hilangkanAwalan(word):
-    awalan = ['ba', 'barang', 'di', 'ka', 'pa', 'pada', 'pang', 'para', 'per', 'pi' 'sa', 'sang', 'si', 'silih', 'sili', 'ti', 'ting', 'pating']
-    nasal = ['nga', 'ng'] #ganti pakai k
-    nasal2 = ['nge']
-    nasal3 = ['m'] #jika huruf awalan m ganti dengan huruf b atau p bandingkan dengan kamus
-    nasal3 = ['ny'] #jika huruf awalan ny ganti dengan huruf c atau s bandingkan dengan kamus
-    nasal4 = ['n'] #jika huruf awalan n ganti dengan huruf t bandingkan dengan kamus
+    # awalan = ['ba', 'barang', 'di', 'ka', 'pa', 'pada', 'pang', 'para', 'per', 'pi', 'sa', 'sang', 'si', 'silih', 'sili', 'ti', 'ting', 'pating']
+    awalan = ['barang','pating','pada', 'pang', 'para', 'per', 'pi', 'pa','ting','ti','silih', 'sili','sang', 'si', 'sa','di', 'ka', 'ba']
     kata_sunda = kataSunda()
     
     for prefix in awalan:
         if  word.startswith(prefix):
             stemmed_word = word[len(prefix):]
-            if ini_kata_sunda(stemmed_word,kata_sunda):
-                return(stemmed_word,ket_ada,'sukses')   
+            return(stemmed_word,ket_ada,'sukses')
+            # if ini_kata_sunda(stemmed_word,kata_sunda):
+            #     return(stemmed_word,ket_ada,'sukses')   
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -204,15 +245,14 @@ def hilangkanAwalan(word):
 #         return(word,ket_tada,'gagal : kata tidak dikenal')
 
 def hilangkanSuf(word):
-    sufs = ['an','eun','keun','na','ing','ning']
+    sufs = ['keun','ning','ing','an','eun','na']
     kata_sunda = kataSunda()
     
     for suf in sufs:
         if  word.endswith(suf):
             hapusSufs = word[:-len(suf)]
-            if ini_kata_sunda(hapusSufs,kata_sunda):
-                return(hapusSufs,ket_ada,'sukses')
-
+            return(hapusSufs,ket_ada,'sukses')
+            
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
     else:
@@ -223,12 +263,10 @@ def hilangkanSisipan(word):
     konsonan2 = 'al'
     kata_sunda = kataSunda()
     
-    if  word.startswith(konsonan):
+    if  word.startswith(konsonan) and hapusPre.startswith(konsonan2):
         hapusPre = word[len(konsonan):]
-        if hapusPre.startswith(konsonan2):
-            gabungPre = hapusPre.replace(konsonan2,'l')
-            if ini_kata_sunda(gabungPre,kata_sunda):
-                return(gabungPre,ket_ada,'sukses')
+        gabungPre = hapusPre.replace(konsonan2,'l')
+        return(gabungPre,ket_ada,'sukses')
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -242,8 +280,7 @@ def hilangkanSisipan2(word):
     
     if  word.endswith(konsonan):
         gabungPre = word.replace(konsonan2,'')
-        if ini_kata_sunda(gabungPre,kata_sunda):
-            return(gabungPre,ket_ada,'sukses')
+        return(gabungPre,ket_ada,'sukses')
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -258,8 +295,7 @@ def hilangkanSisipan3(word):
     for inf in konsonan:
         if  word.find(inf):
             hapusInf = word.replace(konsonan2,'')
-            if ini_kata_sunda(hapusInf,kata_sunda):
-                return(hapusInf,ket_ada,'sukses')
+            return(hapusInf,ket_ada,'sukses')
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -273,8 +309,7 @@ def hilangkanSisipan4(word):
     for inf in konsonan:
         if  word.find(inf):
             hapusInf = word.replace(konsonan,'')
-            if ini_kata_sunda(hapusInf,kata_sunda):
-                return(hapusInf,ket_ada,'sukses')
+            return(hapusInf,ket_ada,'sukses')
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -288,8 +323,7 @@ def hilangkanSisipan6(word):
     for inf in konsonan:
         if  word.find(inf):
             hapusInf = word.replace(konsonan,'')
-            if ini_kata_sunda(hapusInf,kata_sunda):
-                return(hapusInf,ket_ada,'sukses')
+            return(hapusInf,ket_ada,'sukses')
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -303,8 +337,7 @@ def hilangkanSisipan7(word):
     for inf in konsonan:
         if  word.find(inf):
             hapusInf = word.replace(konsonan,'')
-            if ini_kata_sunda(hapusInf,kata_sunda):
-                return(hapusInf,ket_ada,'sukses')
+            return(hapusInf,ket_ada,'sukses')
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -313,17 +346,15 @@ def hilangkanSisipan7(word):
 
 def hilangkanBarung(word):
     akhiran = ['eun','an']
-    awalan = ['pi','pika','sa']
+    awalan = ['pika', 'pi','sa']
     kata_sunda = kataSunda()
 
     for sufix in akhiran:
-      if word.endswith(sufix):
-        stemmed = word[:-len(sufix)]
         for prefix in awalan:
-          if stemmed.startswith(prefix):
-            stemmed_word = stemmed[len(prefix):]
-            if ini_kata_sunda(stemmed_word,kata_sunda):
-              return(stemmed_word,ket_ada,'sukses')
+            if word.startswith(prefix) and word.endswith(sufix):
+                stemmed = word[len(prefix):-len(sufix)]
+                print("stemmed: ",stemmed)
+                return(stemmed,ket_ada,'sukses')  
 
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')
@@ -332,17 +363,14 @@ def hilangkanBarung(word):
 
 def hilangkanBareng(word):
     kata_sunda = kataSunda()
-    awalan = ['ka','pa','pang','kapi',]
+    awalan = ['pang','kapi','ka','pa']
     akhiran = "na"
-    konsonan = "dipika"
-
+    # konsonan = "dipika"
 
     for prefix in awalan:
-      if word.startswith(prefix) and word.endswith(akhiran) and word.find(konsonan):
-        stemmed_word = word.replace(prefix, "").replace(akhiran, "").replace(konsonan,"")
-        if ini_kata_sunda(stemmed_word,kata_sunda):
-          return(stemmed_word,ket_ada,'sukses')
-
+      if word.startswith(prefix) and word.endswith(akhiran):
+        stemmed_word = word.replace(prefix, "").replace(akhiran, "")
+        return(stemmed_word,ket_ada,'sukses')
   
     if ini_kata_sunda(word,kata_sunda):
         return(word,ket_ada,'gagal : ini kata dasar bahasa sunda')

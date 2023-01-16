@@ -7,4 +7,4 @@ pip install "uvicorn[standard]"
 pip install Jinja2
 pip install python-multipart
 
-uvicorn main:app --reload
+uvicorn api:app --reload
